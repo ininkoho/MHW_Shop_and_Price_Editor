@@ -105,7 +105,11 @@ namespace MHWShopEditor
                 byte[] input = System.IO.File.ReadAllBytes(filename);
                 byte[] buffer = new byte[2];
                 List<string> items = new List<string>();
-                for (int i = 10; i < input.Length - 1; i += 12)
+                // Base game header/buffer offset
+                //for (int i = 10; i < input.Length - 1; i += 12)
+
+                // New Iceborne header and buffer changed offset requirement.
+                for (int i = 14; i < input.Length - 1; i += 14)
                 {
                     buffer[0] = input[i + 1];
                     buffer[1] = input[i];
@@ -133,17 +137,44 @@ namespace MHWShopEditor
                 {
                     Properties.Settings.Default.SaveDirectory = System.IO.Path.GetDirectoryName(dlg.FileName);
                     Properties.Settings.Default.Save();
-                    byte[] header = new byte[] { 0x18, 0x00, 0xFF, 0xFF, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
-                    byte[] buffer = new byte[] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+                    byte maxCount = (byte)listBoxOut.Count;
+
+                    // New Iceborne shop list header
+                    //byte[] header = new byte[] { 0x01, 0x10, 0x09, 0x18, 0x19, 0x00, 0x9A, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+                    byte[] header = new byte[] { 0x01, 0x10, 0x09, 0x18, 0x19, 0x00, maxCount, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+                    // Pad got padded out a bit.
+                    byte[] buffer = new byte[] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+
+                    // Item index at 0x08 and 0x0A
+                    byte itemIndex = 0x00;
                     List<byte> items = header.ToList();
+                    
+
                     foreach (Item item in listBoxOut)
                     {
+                        itemIndex++;
+
                         string hex = item.Key.Substring(4);
                         items.Add(Convert.ToByte(int.Parse(hex.Substring(2), System.Globalization.NumberStyles.HexNumber)));
                         items.Add(Convert.ToByte(int.Parse(hex.Substring(0, 2), System.Globalization.NumberStyles.HexNumber)));
-                        items.AddRange(buffer);
+
+                        if (item == listBoxOut[listBoxOut.Count - 1])
+                        {
+                            // If it's the last item in the shop it won't need the last few bytes.
+                            buffer = new byte[] { 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00 };
+                            buffer[6] = (byte)(itemIndex - 0x01);
+                            items.AddRange(buffer);
+                        }
+                        else
+                        {
+                            buffer[6] = (byte)(itemIndex - 0x01);
+                            buffer[8] = itemIndex;
+                            items.AddRange(buffer);
+                        }
                     }
                     byte[] output = items.ToArray();
+                    Console.WriteLine("items: " + BitConverter.ToString(output).Replace("-", " "));
+
                     await fs.WriteAsync(output, 0, output.Length);
                     fs.Close();
                 }
