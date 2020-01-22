@@ -52,6 +52,9 @@
   <PropertyGroup>
     <StartupObject>MHW_Shop_Editor.App</StartupObject>
   </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>timeattack_hammer__bronze__icon_HXw_icon.ico</ApplicationIcon>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
@@ -97,6 +100,8 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Handlers\FileHandler.cs" />
+    <Compile Include="Handlers\ItemHandler.cs" />
     <Compile Include="MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -139,6 +144,15 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Helpers\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="TimeAttack-Hammer_%28Bronze%29_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="timeattack_hammer__bronze__icon_HXw_icon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
