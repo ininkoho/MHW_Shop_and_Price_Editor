@@ -1,4 +1,6 @@
 # Provisions Shop and Price Editor
+Also available @ [https://www.nexusmods.com/monsterhunterworld/mods/2058](https://www.nexusmods.com/monsterhunterworld/mods/2058) but this repo will be the best spot to get the most recent updates.
+
 **Now Requires Stracker's Loader  
 [https://www.nexusmods.com/monsterhunterworld/mods/1982](https://www.nexusmods.com/monsterhunterworld/mods/1982)**
 -------------------------------------------------------
