@@ -13,6 +13,7 @@ If the nativePC folder or any necessary subfolders don't exist, create them.
 Only the file named shopList.slt will be read by the game, so you can leave the application in "nativePC\common\facility" and create and name multiple files for your own presets, switching them as desired.
 
 __Usage__
+
 Open the included shopList.slt file, make your changes, then save the file into "steamapps\common\Monster Hunter World\nativePC\common\facility".
 
 -------------------------------------------------------
@@ -25,4 +26,5 @@ In order to use item price files, place the modified "itemData.itm" file in the 
 If the nativePC folder or any necessary subfolders don't exist, create them.
 
 __Usage__
+
 Open the included itemData.itm file, make your changes, save the file and copy it into "steamapps\common\Monster Hunter World\nativePC\common\item".
