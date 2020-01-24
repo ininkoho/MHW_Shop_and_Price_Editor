@@ -8,11 +8,11 @@ using System.Reflection;
 using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
-using MHWShopEditor.Handlers;
+using ShopListPriceEditor.Handlers;
 using Microsoft.Win32;
 
 
-namespace MHWShopEditor
+namespace ShopListPriceEditor
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
@@ -23,6 +23,7 @@ namespace MHWShopEditor
         public static Item[] _itemlist = new Item[itemHandler.hiddenList.Count()];
         public static List<Item> listBoxIn = new List<Item>();
         public static List<Item> listBoxOut = new List<Item>();
+        public static List<List<Item>> listBoxOutUndo;
         public static List<Item> pricesIn = new List<Item>();
         public static string filename = "";
         private static string inputFilterText = "";
@@ -31,9 +32,6 @@ namespace MHWShopEditor
         private static string priceOutputFilterText = "";
        
         public event PropertyChangedEventHandler PropertyChanged;
-        
-
-
 
         public MainWindow()
         {
@@ -98,6 +96,7 @@ namespace MHWShopEditor
 
             if (((MenuItem) sender).Name.Equals("openShopFile"))
             {
+                Clear();
                 fileName = "shopList.slt";
                 fileExt = ".slt";
                 fileFilter = "Shop List file | *.slt";
@@ -120,7 +119,6 @@ namespace MHWShopEditor
             if (dlg.ShowDialog() != true) return;
 
             FileHandler fileHandler = new FileHandler();
-            FileHandler.saveFilename = dlg.FileName;
 
             if (((MenuItem) sender).Name.Equals("openShopFile"))
             {
@@ -129,6 +127,7 @@ namespace MHWShopEditor
             }
             else if (((MenuItem)sender).Name.Equals("openPriceFile"))
             {
+                FileHandler.saveFilename = dlg.FileName;
                 fileHandler.OpenPriceFile(fileName, dlg.FileName);
                 if (PropertyChanged != null) PropertyChanged(this, new PropertyChangedEventArgs("filteredPriceInput"));
             }
@@ -151,15 +150,15 @@ namespace MHWShopEditor
                 fileExt = ".slt";
                 fileFilter = "Shop List file | *.slt";
             }
-            else if (((MenuItem)sender).Name.Equals("savePriceFile"))
-            {
-                fileName = "itemData.itm";
-                fileExt = ".itm";
-                fileFilter = "Item Price file | *.itm";
-            }
 
-            if (((MenuItem) sender).Name.Equals("savePriceFile"))// && dlg.ShowDialog() == true)
+            if (((MenuItem) sender).Name.Equals("savePriceFile"))
             {
+                if (string.IsNullOrEmpty(FileHandler.saveFilename))
+                {
+                    MessageBox.Show("Unable to save.\n" +
+                               "Open a file first.");
+                    return;
+                }
                 fileHandler.SaveFile();
                 try
                 {
@@ -202,13 +201,10 @@ namespace MHWShopEditor
                     case "zh-TW":
                         dict.Source = new Uri("Lang.zh-TW.xaml", UriKind.Relative);
                         break;
-                    //case "fr-FR":
-                    //dict.Source = new Uri("Lang.fr-FR.xaml", UriKind.Relative);
-                    //break;
-                    //case "es-ES":
-                    //dict.Source = new Uri("Lang.es-ES.xaml", UriKind.Relative);
-                    //break;
-                    default:
+                    case "ja-JP":
+                        dict.Source = new Uri("Lang.ja-JP.xaml", UriKind.Relative);
+                        break;
+                default:
                         break;
                 }
                 Application.Current.Resources.MergedDictionaries.Add(dict);
@@ -221,6 +217,7 @@ namespace MHWShopEditor
 
         private void DefaultItems(object sender, RoutedEventArgs e)
         {
+            Clear();
             PopulateBoxes(itemHandler.itemsDefault.ToList());
         }
 
@@ -231,6 +228,16 @@ namespace MHWShopEditor
 
         private void Clear()
         {
+            if (listBoxOutUndo == null)
+            {
+                listBoxOutUndo = new List<List<Item>>();
+                //listBoxOutUndo.Add(new List<Item>(listBoxOut));
+            }
+            else
+            {
+                listBoxOutUndo.Add(new List<Item>(listBoxOut));
+            }
+
             List<Item> itemlist = new List<Item>();
             foreach (Item item in listBoxOut)
             {
@@ -247,21 +254,25 @@ namespace MHWShopEditor
 
         private void AllGems(object sender, RoutedEventArgs e)
         {
+            Clear();
             PopulateBoxes(itemHandler.itemsGems.ToList());
         }
 
         private void AllConsumables(object sender, RoutedEventArgs e)
         {
+            Clear();
             PopulateBoxes(itemHandler.itemsConsumables.ToList());
         }
 
         private void LRMaterials(object sender, RoutedEventArgs e)
         {
+            Clear();
             PopulateBoxes(itemHandler.matsLR.ToList());
         }
 
         private void HRMaterials(object sender, RoutedEventArgs e)
         {
+            Clear();
             PopulateBoxes(itemHandler.matsHR.ToList());
         }
 
@@ -292,6 +303,26 @@ namespace MHWShopEditor
             }
         }
 
+        private void Sort(object sender, RoutedEventArgs e)
+        {
+            listBoxOutUndo.Add(new List<Item>(listBoxOut));
+            var sortedList = listBoxOut.OrderBy(items => items.Key).ToList();
+            listBoxOut = new List<Item>(sortedList);
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredOutput"));
+            itemCount.Text = "Items in Shop: " + listBoxOut.Count.ToString() + " / 255";
+        }
+
+        private void Undo(object sender, RoutedEventArgs e)
+        {
+            if (listBoxOutUndo.Count > 0)
+            {
+                listBoxOut = new List<Item>(listBoxOutUndo.Last());
+                PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredOutput"));
+                itemCount.Text = "Items in Shop: " + listBoxOut.Count.ToString() + " / 255";
+                listBoxOutUndo.RemoveAt(listBoxOutUndo.Count - 1);
+            }
+        }
+
         private void Sort()
         {
             listBoxIn.Sort((x, y) => x.Hex.CompareTo(y.Hex));
@@ -300,6 +331,8 @@ namespace MHWShopEditor
 
         private void SendOut(object sender, RoutedEventArgs e)
         {
+            listBoxOutUndo.Add(new List<Item>(listBoxOut));
+
             if (input.SelectedItems != null && input.SelectedItems.Count + listBoxOut.Count < 256)
             {
                 Item[] selecteditems = new Item[input.SelectedItems.Count];
@@ -337,6 +370,8 @@ namespace MHWShopEditor
 
         private void SendIn(object sender, RoutedEventArgs e)
         {
+            listBoxOutUndo.Add(new List<Item>(listBoxOut));
+
             if (output.SelectedItems != null)
             {
                 List<Item> itemlist = new List<Item>();
@@ -362,7 +397,8 @@ namespace MHWShopEditor
 
         public static void TooManyItemsError()
         {
-            MessageBox.Show("Too many items in the output box! Can't load this preset.", "Error");
+            MessageBox.Show("Too many items in the output box!\n" +
+                            "Maximum item capacity is 255.", "Error");
         }
 
         public ObservableCollection<Item> filteredInput
@@ -466,7 +502,7 @@ namespace MHWShopEditor
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredInput"));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredOutput"));
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredPriceInput"));
-            itemCount.Text = listBoxOut.Count.ToString();
+            itemCount.Text = "Items in Shop: " + listBoxOut.Count.ToString() + " / 255";
         }
 
         private void InputDoubleClick(object sender, MouseButtonEventArgs e)
