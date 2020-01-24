@@ -1,11 +1,12 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:MHWShopEditor"
                     xmlns:system="clr-namespace:System;assembly=mscorlib"
-                    xmlns:handlers="clr-namespace:ShopListPriceEditor.Handlers">
+                    xmlns:handlers="clr-namespace:MHWShopEditor.Handlers">
 
 
     <!--application-->
-    <system:String x:Key="title">Provisions Shop List and Price Editor</system:String>
+    <system:String x:Key="title">MHW Shop Editor</system:String>
     <system:String x:Key="file">ファイル</system:String>
     <system:String x:Key="open">開く</system:String>
     <system:String x:Key="save">保存</system:String>
@@ -21,11 +22,10 @@
     <system:String x:Key="insertBottom">末尾に挿入</system:String>
     <system:String x:Key="count">アイテム数:</system:String>
     <system:String x:Key="results">結果:</system:String>
-    <system:String x:Key="sort">昇順ソート</system:String>
-    <system:String x:Key="undo">アンドゥー</system:String>
+
 
     <!--itemlist-->
-    <x:Array Type="handlers:Item" x:Key="itemsList" >
+    <x:Array Type="handles:Item" x:Key="itemsList" >
         <handlers:Item Key="item0001" Value="回復薬"/>
         <handlers:Item Key="item0002" Value="回復薬グレート"/>
         <handlers:Item Key="item0003" Value="秘薬"/>
