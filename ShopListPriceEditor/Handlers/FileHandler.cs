@@ -4,7 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Windows;
 
-namespace MHWShopEditor.Handlers
+namespace ShopListPriceEditor.Handlers
 {
     public class FileHandler
     {
@@ -55,17 +55,10 @@ namespace MHWShopEditor.Handlers
                     itemOffset = Convert.ToInt32(fs.Position);
                 }
             }
-            saveFilename = fileName;
         }
 
         public void SaveFile()
         {
-            if (string.IsNullOrEmpty(saveFilename))
-            {
-                MessageBox.Show("Unable to save. Open a itemData.itm file first.");
-                return;
-            }
-
             using (var fs = File.Open(saveFilename, FileMode.Open, FileAccess.Write))
             {
                 //var itemOffset = Convert.ToInt32(fs.Position = 0x2A); // Item ID Position

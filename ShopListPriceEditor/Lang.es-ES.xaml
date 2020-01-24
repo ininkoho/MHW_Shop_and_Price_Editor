@@ -1,12 +1,11 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-                    xmlns:local="clr-namespace:MHWShopEditor"
                     xmlns:system="clr-namespace:System;assembly=mscorlib"
-                    xmlns:handlers="clr-namespace:MHWShopEditor.Handlers">
+                    xmlns:handlers="clr-namespace:ShopListPriceEditor.Handlers">
 
     <!--TODO: Translate Strings-->
     <!--application-->
-    <system:String x:Key="title">MHW Shop Editor</system:String>
+    <system:String x:Key="title">Provisions Shop List and Price Editor</system:String>
     <system:String x:Key="file">File</system:String>
     <system:String x:Key="open">Open</system:String>
     <system:String x:Key="save">Save</system:String>
