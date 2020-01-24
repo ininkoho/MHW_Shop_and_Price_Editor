@@ -44,7 +44,7 @@
         <handlers:Item Key="item0010" Value="活力剤"/>
         <handlers:Item Key="item0011" Value="アステラジャーキー"/>
         <handlers:Item Key="item0012" Value="強走薬"/>
-        <handlers:Item Key="item0013" Value="強走薬"/>
+        <handlers:Item Key="item0013" Value="Mega Dash Juice"/>
         <handlers:Item Key="item0014" Value="怪力の種"/>
         <handlers:Item Key="item0015" Value="鬼人薬"/>
         <handlers:Item Key="item0016" Value="鬼人薬グレート"/>
@@ -640,7 +640,7 @@
         <handlers:Item Key="item0264" Value="竜のナミダ"/>
         <handlers:Item Key="item0265" Value="竜の大粒ナミダ"/>
         <handlers:Item Key="item0266" Value="龍秘宝"/>
-        <handlers:Item Key="item0267" Value="龍秘宝"/>
+        <handlers:Item Key="item0267" Value="Old Dragon Treasure"/>
         <handlers:Item Key="item0268" Value="サニーフラワー"/>
         <handlers:Item Key="item0269" Value="シャインフラワー"/>
         <handlers:Item Key="item026A" Value="ゴールドフラワー"/>
@@ -831,7 +831,7 @@
         <handlers:Item Key="item0323" Value="Chef Jewel 1"/>
         <handlers:Item Key="item0324" Value="Transporter Jewel 1"/>
         <handlers:Item Key="item0325" Value="Gathering Jewel 1"/>
-        <handlers:Item Key="item0326" Value="ハチミツ"/>
+        <handlers:Item Key="item0326" Value="Honeybee Jewel 1"/>
         <handlers:Item Key="item0327" Value="Carver Jewel 1"/>
         <handlers:Item Key="item0328" Value="加護珠【１】"/>
         <handlers:Item Key="item0329" Value="采配珠【１】"/>
@@ -1028,15 +1028,15 @@
         <handlers:Item Key="item03E8" Value="ホットドリンク"/>
         <handlers:Item Key="item03E9" Value="Item 1001"/>
         <handlers:Item Key="item03EA" Value="Item 1002"/>
-        <handlers:Item Key="item03EB" Value="お食事券"/>
+        <handlers:Item Key="item03EB" Value="Gourmet Voucher"/>
         <handlers:Item Key="item03EC" Value="観察キット"/>
-        <handlers:Item Key="item03ED" Value="ライドコールの​​​​‍‍‏指笛"/>
+        <handlers:Item Key="item03ED" Value="Raider Ride"/>
         <handlers:Item Key="item03EE" Value="とうがらし"/>
-        <handlers:Item Key="item03EF" Value="落陽草の​​​​‍‍‏花"/>
-        <handlers:Item Key="item03F0" Value="生命の​​​​‍‍‏大粉塵"/>
-        <handlers:Item Key="item03F1" Value="結晶化した骨片"/>
-        <handlers:Item Key="item03F2" Value="結晶化した竜骨"/>
-        <handlers:Item Key="item03F3" Value="古龍骨"/>
+        <handlers:Item Key="item03EF" Value="Gloamgrass Bud"/>
+        <handlers:Item Key="item03F0" Value="Dust of Life"/>
+        <handlers:Item Key="item03F1" Value="Crystalized Bone Shard"/>
+        <handlers:Item Key="item03F2" Value="Crystalized Monster Bone"/>
+        <handlers:Item Key="item03F3" Value="Crystalized Elder Dragon Bone"/>
         <handlers:Item Key="item03F4" Value="Item 1012"/>
         <handlers:Item Key="item03F5" Value="Item 1013"/>
         <handlers:Item Key="item03F6" Value="Item 1014"/>
@@ -1047,289 +1047,289 @@
         <handlers:Item Key="item03FB" Value="Item 1019"/>
         <handlers:Item Key="item03FC" Value="Item 1020"/>
         <handlers:Item Key="item03FD" Value="Item 1021"/>
-        <handlers:Item Key="item03FE" Value="ミツムシど根性の​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item03FF" Value="地雷虫かごの​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item0400" Value="大盾カカシの​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item0401" Value="ばくおんゴングの​​​​‍‍‏指笛"/>
+        <handlers:Item Key="item03FE" Value="Vigorwasp Revival"/>
+        <handlers:Item Key="item03FF" Value="Boombug Cage"/>
+        <handlers:Item Key="item0400" Value="Shieldspire Stooge"/>
+        <handlers:Item Key="item0401" Value="Coral Sonicgong"/>
         <handlers:Item Key="item0402" Value="Mount &amp; Plunder"/>
-        <handlers:Item Key="item0403" Value="噴火壷爆弾の​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item0404" Value="ゼニー"/>
-        <handlers:Item Key="item0405" Value="調査ポイント"/>
-        <handlers:Item Key="item0406" Value="エルトライト鉱石"/>
-        <handlers:Item Key="item0407" Value="メランジェ鉱石"/>
-        <handlers:Item Key="item0408" Value="霊脈の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item0403" Value="Meowcano"/>
+        <handlers:Item Key="item0404" Value="zenny"/>
+        <handlers:Item Key="item0405" Value="Research Points"/>
+        <handlers:Item Key="item0406" Value="Eltalite Ore"/>
+        <handlers:Item Key="item0407" Value="Meldspar Ore"/>
+        <handlers:Item Key="item0408" Value="Spiritvein Crystal"/>
         <handlers:Item Key="item0409" Value="Item 1033"/>
-        <handlers:Item Key="item040A" Value="ピュアクリスタル"/>
+        <handlers:Item Key="item040A" Value="Purecrystal"/>
         <handlers:Item Key="item040B" Value="Item 1035"/>
-        <handlers:Item Key="item040C" Value="デプスライト鉱石"/>
-        <handlers:Item Key="item040D" Value="グラシスメタル"/>
-        <handlers:Item Key="item040E" Value="霊晶原石"/>
-        <handlers:Item Key="item040F" Value="冥晶原石"/>
-        <handlers:Item Key="item0410" Value="鎧玉"/>
-        <handlers:Item Key="item0411" Value="鎧玉"/>
-        <handlers:Item Key="item0412" Value="頑強な重骨"/>
-        <handlers:Item Key="item0413" Value="凍てついた氷骨"/>
-        <handlers:Item Key="item0414" Value="いにしえの​​​​‍‍‏巨龍骨"/>
+        <handlers:Item Key="item040C" Value="Bathycite Ore"/>
+        <handlers:Item Key="item040D" Value="Gracium"/>
+        <handlers:Item Key="item040E" Value="Phantomcore Ore"/>
+        <handlers:Item Key="item040F" Value="Shadowcore Ore"/>
+        <handlers:Item Key="item0410" Value="King Armor Sphere"/>
+        <handlers:Item Key="item0411" Value="True Armor Sphere"/>
+        <handlers:Item Key="item0412" Value="Thick Bone"/>
+        <handlers:Item Key="item0413" Value="Frozen Bone"/>
+        <handlers:Item Key="item0414" Value="Dragonbone Artifact"/>
         <handlers:Item Key="item0415" Value="Item 1045"/>
         <handlers:Item Key="item0416" Value="Item 1046"/>
         <handlers:Item Key="item0417" Value="Item 1047"/>
-        <handlers:Item Key="item0418" Value="太古の​​​​‍‍‏破片"/>
-        <handlers:Item Key="item0419" Value="強竜骨"/>
-        <handlers:Item Key="item041A" Value="重竜骨"/>
-        <handlers:Item Key="item041B" Value="剛竜骨"/>
+        <handlers:Item Key="item0418" Value="Ancient Fragment"/>
+        <handlers:Item Key="item0419" Value="Monster Toughbone"/>
+        <handlers:Item Key="item041A" Value="Monster Slogbone"/>
+        <handlers:Item Key="item041B" Value="Monster Solidbone"/>
         <handlers:Item Key="item041C" Value="Item 1052"/>
-        <handlers:Item Key="item041D" Value="古龍骨"/>
-        <handlers:Item Key="item041E" Value="強靭な爪"/>
-        <handlers:Item Key="item041F" Value="モンスターの​​​​‍‍‏特濃"/>
-        <handlers:Item Key="item0420" Value="毒袋"/>
-        <handlers:Item Key="item0421" Value="濃縮麻痺袋"/>
-        <handlers:Item Key="item0422" Value="卒倒昏睡袋"/>
-        <handlers:Item Key="item0423" Value="業炎袋"/>
-        <handlers:Item Key="item0424" Value="特大水袋"/>
-        <handlers:Item Key="item0425" Value="瞬間凍結袋"/>
-        <handlers:Item Key="item0426" Value="雷電袋"/>
-        <handlers:Item Key="item0427" Value="幻鳥竜玉"/>
-        <handlers:Item Key="item0428" Value="竜玉"/>
-        <handlers:Item Key="item0429" Value="古龍の​​​​‍‍‏浄血"/>
-        <handlers:Item Key="item042A" Value="古龍の​​​​‍‍‏大宝玉"/>
+        <handlers:Item Key="item041D" Value="Large Elder Dragon Bone"/>
+        <handlers:Item Key="item041E" Value="Tough Claw"/>
+        <handlers:Item Key="item041F" Value="Monster Essence"/>
+        <handlers:Item Key="item0420" Value="Deadly Poison Sac"/>
+        <handlers:Item Key="item0421" Value="Ultraplegia Sac"/>
+        <handlers:Item Key="item0422" Value="Torpor Sac"/>
+        <handlers:Item Key="item0423" Value="Conflagrant Sac"/>
+        <handlers:Item Key="item0424" Value="Flood Sac"/>
+        <handlers:Item Key="item0425" Value="Cryo Sac"/>
+        <handlers:Item Key="item0426" Value="Lightning Sac"/>
+        <handlers:Item Key="item0427" Value="Fey Wyvern Gem"/>
+        <handlers:Item Key="item0428" Value="Large Wyvern Gem"/>
+        <handlers:Item Key="item0429" Value="Pure Dragon Blood"/>
+        <handlers:Item Key="item042A" Value="Large Elder Dragon Gem"/>
         <handlers:Item Key="item042B" Value="Item 1067"/>
-        <handlers:Item Key="item042C" Value="極上の​​​​‍‍‏毛皮"/>
-        <handlers:Item Key="item042D" Value="ガウシカの​​​​‍‍‏角"/>
+        <handlers:Item Key="item042C" Value="Prized Pelt"/>
+        <handlers:Item Key="item042D" Value="Anteka Antler"/>
         <handlers:Item Key="item042E" Value="Item 1070"/>
-        <handlers:Item Key="item042F" Value="ランゴスタの​​​​‍‍‏斬羽"/>
+        <handlers:Item Key="item042F" Value="Vespoid Razorwing"/>
         <handlers:Item Key="item0430" Value="Item 1072"/>
-        <handlers:Item Key="item0431" Value="カンタロスの​​​​‍‍‏斬羽"/>
+        <handlers:Item Key="item0431" Value="Hornetaur Razorwing"/>
         <handlers:Item Key="item0432" Value="Item 1074"/>
-        <handlers:Item Key="item0433" Value="咬魚の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item0434" Value="咬魚の​​​​‍‍‏ヒゲ"/>
-        <handlers:Item Key="item0435" Value="翼竜の​​​​‍‍‏特上皮"/>
-        <handlers:Item Key="item0436" Value="バルノスの​​​​‍‍‏剛爪"/>
+        <handlers:Item Key="item0433" Value="Gajau Thickhide"/>
+        <handlers:Item Key="item0434" Value="Steel Gajau Whisker"/>
+        <handlers:Item Key="item0435" Value="Wingdrake Finehide"/>
+        <handlers:Item Key="item0436" Value="Barnos Hardclaw"/>
         <handlers:Item Key="item0437" Value="Item 1079"/>
-        <handlers:Item Key="item0438" Value="コルトスの​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0439" Value="ケストドンの​​​​‍‍‏重殻"/>
+        <handlers:Item Key="item0438" Value="Cortos Hardclaw"/>
+        <handlers:Item Key="item0439" Value="Kestodon Husk"/>
         <handlers:Item Key="item043A" Value="Item 1082"/>
-        <handlers:Item Key="item043B" Value="ガストドンの​​​​‍‍‏重殻"/>
+        <handlers:Item Key="item043B" Value="Gastodon Husk"/>
         <handlers:Item Key="item043C" Value="Item 1084"/>
-        <handlers:Item Key="item043D" Value="ジャグラスの​​​​‍‍‏厚鱗"/>
+        <handlers:Item Key="item043D" Value="Jagras Shard"/>
         <handlers:Item Key="item043E" Value="Item 1086"/>
-        <handlers:Item Key="item043F" Value="シャムオスの​​​​‍‍‏厚鱗"/>
+        <handlers:Item Key="item043F" Value="Shamos Shard"/>
         <handlers:Item Key="item0440" Value="Item 1088"/>
-        <handlers:Item Key="item0441" Value="ギルオスの​​​​‍‍‏厚鱗"/>
+        <handlers:Item Key="item0441" Value="Girros Shard"/>
         <handlers:Item Key="item0442" Value="Item 1090"/>
-        <handlers:Item Key="item0443" Value="ウルグの​​​​‍‍‏厚毛皮"/>
+        <handlers:Item Key="item0443" Value="Wulg Thickfur"/>
         <handlers:Item Key="item0444" Value="Item 1092"/>
-        <handlers:Item Key="item0445" Value="ジャグラスの​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0446" Value="賊竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item0447" Value="賊竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0448" Value="賊竜の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0449" Value="掻鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item044A" Value="掻鳥の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item044B" Value="掻鳥の​​​​‍‍‏飾り羽"/>
-        <handlers:Item Key="item044C" Value="掻鳥の​​​​‍‍‏クチバシ"/>
-        <handlers:Item Key="item044D" Value="毒妖鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item044E" Value="毒妖鳥の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item044F" Value="毒妖鳥の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0450" Value="毒妖鳥の​​​​‍‍‏喉袋"/>
-        <handlers:Item Key="item0451" Value="毒妖鳥の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0452" Value="毒妖鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0453" Value="毒妖鳥の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0454" Value="毒妖鳥の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0455" Value="毒妖鳥の​​​​‍‍‏喉袋"/>
-        <handlers:Item Key="item0456" Value="毒妖鳥の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0457" Value="土砂竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0458" Value="土砂竜の​​​​‍‍‏重甲"/>
-        <handlers:Item Key="item0459" Value="土砂竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item045A" Value="土砂竜の​​​​‍‍‏重頭殻"/>
-        <handlers:Item Key="item045B" Value="土砂竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item045C" Value="豊沃なドロ"/>
-        <handlers:Item Key="item045D" Value="泥魚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item045E" Value="泥魚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item045F" Value="泥魚竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item0460" Value="泥魚竜の​​​​‍‍‏特上ヒレ"/>
-        <handlers:Item Key="item0461" Value="凍魚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0462" Value="凍魚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0463" Value="凍魚竜の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item0464" Value="凍魚竜の​​​​‍‍‏特上ヒレ"/>
-        <handlers:Item Key="item0465" Value="飛雷竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0466" Value="飛雷竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item0467" Value="飛雷竜の​​​​‍‍‏皮膜"/>
-        <handlers:Item Key="item0468" Value="飛雷竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0469" Value="飛雷竜の​​​​‍‍‏雷光針"/>
-        <handlers:Item Key="item046A" Value="飛雷竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item046B" Value="飛雷竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item046C" Value="飛雷竜の​​​​‍‍‏皮膜"/>
-        <handlers:Item Key="item046D" Value="飛雷竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item046E" Value="飛毒竜の​​​​‍‍‏猛毒針"/>
-        <handlers:Item Key="item046F" Value="猛牛竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0470" Value="猛牛竜の​​​​‍‍‏重甲"/>
-        <handlers:Item Key="item0471" Value="猛牛竜の​​​​‍‍‏巨大な角"/>
-        <handlers:Item Key="item0472" Value="猛牛竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0473" Value="蛮顎竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0474" Value="蛮顎竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item0475" Value="蛮顎竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item0476" Value="蛮顎竜の​​​​‍‍‏鼻骨"/>
-        <handlers:Item Key="item0477" Value="蛮顎竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0478" Value="蛮顎竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item0479" Value="蛮顎竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item047A" Value="雷顎竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item047B" Value="蛮顎竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item047C" Value="蛮顎竜の​​​​‍‍‏鼻骨"/>
-        <handlers:Item Key="item047D" Value="蛮顎竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item047E" Value="蛮顎竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item047F" Value="雌火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0480" Value="雌火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0481" Value="雌火竜の​​​​‍‍‏厚翼膜"/>
-        <handlers:Item Key="item0482" Value="雌火竜の​​​​‍‍‏秘棘"/>
-        <handlers:Item Key="item0483" Value="雌火竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item0484" Value="雌火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0485" Value="雌火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0486" Value="雌火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0487" Value="雌火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0488" Value="雌火竜の​​​​‍‍‏秘棘"/>
-        <handlers:Item Key="item0489" Value="眩鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item048A" Value="眩鳥の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item048B" Value="眩鳥の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item048C" Value="眩鳥の​​​​‍‍‏輝光膜"/>
-        <handlers:Item Key="item048D" Value="浮空竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item048E" Value="浮空竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item048F" Value="ゴム質の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0490" Value="浮空竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0491" Value="浮空竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item0492" Value="浮空竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0493" Value="浮空竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0494" Value="ギルオスの​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0495" Value="痺賊竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item0496" Value="痺賊竜の​​​​‍‍‏重頭巾"/>
-        <handlers:Item Key="item0497" Value="痺賊竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item0498" Value="痺賊竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0499" Value="骨鎚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item049A" Value="骨鎚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item049B" Value="骨鎚竜の​​​​‍‍‏黒油殻"/>
-        <handlers:Item Key="item049C" Value="竜骨塊"/>
-        <handlers:Item Key="item049D" Value="風漂竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item049E" Value="風漂竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item049F" Value="風漂竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04A0" Value="風漂竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04A1" Value="風漂竜の​​​​‍‍‏尾膜"/>
-        <handlers:Item Key="item04A2" Value="風漂竜の​​​​‍‍‏天鱗"/>
+        <handlers:Item Key="item0445" Value="Great Jagras Shard"/>
+        <handlers:Item Key="item0446" Value="Great Jagras Thickhide"/>
+        <handlers:Item Key="item0447" Value="Great Jagras Hardclaw"/>
+        <handlers:Item Key="item0448" Value="Great Jagras Mane+"/>
+        <handlers:Item Key="item0449" Value="Kulu-Ya-Ku Shard"/>
+        <handlers:Item Key="item044A" Value="Kulu-Ya-Ku Thickhide"/>
+        <handlers:Item Key="item044B" Value="Large Kulu-Ya-Ku Plume"/>
+        <handlers:Item Key="item044C" Value="Large Kulu-Ya-Ku Beak"/>
+        <handlers:Item Key="item044D" Value="Pukei-Pukei Shard"/>
+        <handlers:Item Key="item044E" Value="Pukei-Pukei Cortex"/>
+        <handlers:Item Key="item044F" Value="Pukei-Pukei Fellwing"/>
+        <handlers:Item Key="item0450" Value="Large Pukei-Pukei Sac"/>
+        <handlers:Item Key="item0451" Value="Pukei-Pukei Lash"/>
+        <handlers:Item Key="item0452" Value="Coral Pukei-Pukei Shard"/>
+        <handlers:Item Key="item0453" Value="Coral Pukei-Pukei Cortex"/>
+        <handlers:Item Key="item0454" Value="Coral Pukei-Pukei Fellwing"/>
+        <handlers:Item Key="item0455" Value="Large Coral Pukei-Pukei Sac"/>
+        <handlers:Item Key="item0456" Value="Coral Pukei-Pukei Lash"/>
+        <handlers:Item Key="item0457" Value="Barroth Cortex"/>
+        <handlers:Item Key="item0458" Value="Barroth Chine"/>
+        <handlers:Item Key="item0459" Value="Barroth Hardclaw"/>
+        <handlers:Item Key="item045A" Value="Barroth Crown"/>
+        <handlers:Item Key="item045B" Value="Barroth Lash"/>
+        <handlers:Item Key="item045C" Value="Rich Mud"/>
+        <handlers:Item Key="item045D" Value="Jyuratodus Shard"/>
+        <handlers:Item Key="item045E" Value="Jyuratodus Cortex"/>
+        <handlers:Item Key="item045F" Value="Jyuratodus Hardfang"/>
+        <handlers:Item Key="item0460" Value="Jyuratodus Grandfin"/>
+        <handlers:Item Key="item0461" Value="Beotodus Shard"/>
+        <handlers:Item Key="item0462" Value="Beotodus Cortex"/>
+        <handlers:Item Key="item0463" Value="Beotodus Hardhorn"/>
+        <handlers:Item Key="item0464" Value="Beotodus Grandfin"/>
+        <handlers:Item Key="item0465" Value="Tobi-Kadachi Shard"/>
+        <handlers:Item Key="item0466" Value="Tobi-Kadachi Thickfur"/>
+        <handlers:Item Key="item0467" Value="Tobi-Kadachi Membrane+"/>
+        <handlers:Item Key="item0468" Value="Tobi-Kadachi Hardclaw"/>
+        <handlers:Item Key="item0469" Value="Tobi-Kadachi Cathode"/>
+        <handlers:Item Key="item046A" Value="Viper Tobi-Kadachi Shard"/>
+        <handlers:Item Key="item046B" Value="Viper Tobi-Kadachi Thickfur"/>
+        <handlers:Item Key="item046C" Value="Viper Tobi-Kadachi Membrane+"/>
+        <handlers:Item Key="item046D" Value="Viper Tobi-Kadachi Hardclaw"/>
+        <handlers:Item Key="item046E" Value="Viper Tobi-Kadachi Thorn"/>
+        <handlers:Item Key="item046F" Value="Banbaro Cortex"/>
+        <handlers:Item Key="item0470" Value="Banbaro Chine"/>
+        <handlers:Item Key="item0471" Value="Banbaro Great Horn"/>
+        <handlers:Item Key="item0472" Value="Banbaro Lash"/>
+        <handlers:Item Key="item0473" Value="Anjanath Shard"/>
+        <handlers:Item Key="item0474" Value="Anjanath Fur"/>
+        <handlers:Item Key="item0475" Value="Anjanath Hardfang"/>
+        <handlers:Item Key="item0476" Value="Heavy Anjanath Nosebone"/>
+        <handlers:Item Key="item0477" Value="Anjanath Lash"/>
+        <handlers:Item Key="item0478" Value="Anjanath Mantle"/>
+        <handlers:Item Key="item0479" Value="Fulgur Anjanath Shard"/>
+        <handlers:Item Key="item047A" Value="Fulgur Anjanath Thickfur"/>
+        <handlers:Item Key="item047B" Value="Fulgur Anjanath Hardfang"/>
+        <handlers:Item Key="item047C" Value="Heavy Fulgur Anjanath Nosebone"/>
+        <handlers:Item Key="item047D" Value="Fulgur Anjanath Lash"/>
+        <handlers:Item Key="item047E" Value="Fulgur Anjanath Mantle"/>
+        <handlers:Item Key="item047F" Value="Rathian Shard"/>
+        <handlers:Item Key="item0480" Value="Rathian Cortex"/>
+        <handlers:Item Key="item0481" Value="Rathian Weave"/>
+        <handlers:Item Key="item0482" Value="Rathian Surspike"/>
+        <handlers:Item Key="item0483" Value="Rathian Mantle"/>
+        <handlers:Item Key="item0484" Value="Pink Rathian Shard"/>
+        <handlers:Item Key="item0485" Value="Pink Rathian Cortex"/>
+        <handlers:Item Key="item0486" Value="Gold Rathian Shard"/>
+        <handlers:Item Key="item0487" Value="Gold Rathian Cortex"/>
+        <handlers:Item Key="item0488" Value="Gold Rathian Surspike"/>
+        <handlers:Item Key="item0489" Value="Tzitzi-Ya-Ku Shard"/>
+        <handlers:Item Key="item048A" Value="Tzitzi-Ya-Ku Thickhide"/>
+        <handlers:Item Key="item048B" Value="Tzitzi-Ya-Ku Hardclaw"/>
+        <handlers:Item Key="item048C" Value="Tzitzi-Ya-Ku Photomembrane"/>
+        <handlers:Item Key="item048D" Value="Paolumu Thickfur"/>
+        <handlers:Item Key="item048E" Value="Paolumu Shard"/>
+        <handlers:Item Key="item048F" Value="Paolumu Cortex"/>
+        <handlers:Item Key="item0490" Value="Paolumu Fellwing"/>
+        <handlers:Item Key="item0491" Value="Nightshade Paolumu Thickfur"/>
+        <handlers:Item Key="item0492" Value="Nightshade Paolumu Shard"/>
+        <handlers:Item Key="item0493" Value="Nightshade Paolumu Fellwing"/>
+        <handlers:Item Key="item0494" Value="Great Girros Shard"/>
+        <handlers:Item Key="item0495" Value="Great Girros Thickhide"/>
+        <handlers:Item Key="item0496" Value="Great Girros Hardhood"/>
+        <handlers:Item Key="item0497" Value="Great Girros Hardfang"/>
+        <handlers:Item Key="item0498" Value="Great Girros Lash"/>
+        <handlers:Item Key="item0499" Value="Radobaan Shard"/>
+        <handlers:Item Key="item049A" Value="Radobaan Cortex"/>
+        <handlers:Item Key="item049B" Value="Radobaan Oilshell+"/>
+        <handlers:Item Key="item049C" Value="Large Wyvern Bonemass"/>
+        <handlers:Item Key="item049D" Value="Legiana Shard"/>
+        <handlers:Item Key="item049E" Value="Legiana Thickhide"/>
+        <handlers:Item Key="item049F" Value="Legiana Hardclaw"/>
+        <handlers:Item Key="item04A0" Value="Legiana Fellwing"/>
+        <handlers:Item Key="item04A1" Value="Legiana Tail Webbing+"/>
+        <handlers:Item Key="item04A2" Value="Legiana Mantle"/>
         <handlers:Item Key="item04A3" Value="Item 1187"/>
-        <handlers:Item Key="item04A4" Value="氷霜をまとう皮"/>
-        <handlers:Item Key="item04A5" Value="漆黒の​​​​‍‍‏氷刃爪"/>
-        <handlers:Item Key="item04A6" Value="冷厳なる翼"/>
+        <handlers:Item Key="item04A4" Value="Rimed Hide"/>
+        <handlers:Item Key="item04A5" Value="Obsidian Icetalon"/>
+        <handlers:Item Key="item04A6" Value="Stark Wing"/>
         <handlers:Item Key="item04A7" Value="Item 1191"/>
         <handlers:Item Key="item04A8" Value="Item 1192"/>
-        <handlers:Item Key="item04A9" Value="惨爪竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04AA" Value="惨爪竜の​​​​‍‍‏硬筋"/>
-        <handlers:Item Key="item04AB" Value="惨爪竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04AC" Value="惨爪竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04AD" Value="惨爪竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04AE" Value="惨爪竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04AF" Value="惨爪竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04B0" Value="惨爪竜の​​​​‍‍‏硬筋"/>
-        <handlers:Item Key="item04B1" Value="惨爪竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04B2" Value="惨爪竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04B3" Value="惨爪竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04B4" Value="惨爪竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04B5" Value="火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04B6" Value="火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04B7" Value="火竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04B8" Value="火竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04B9" Value="火竜の​​​​‍‍‏翼爪"/>
-        <handlers:Item Key="item04BA" Value="火竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04BB" Value="火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04BC" Value="火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04BD" Value="火竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04BE" Value="火竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04BF" Value="火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04C0" Value="火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04C1" Value="火竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04C2" Value="火竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04C3" Value="火竜の​​​​‍‍‏煌液"/>
-        <handlers:Item Key="item04C4" Value="角竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04C5" Value="角竜の​​​​‍‍‏重甲"/>
-        <handlers:Item Key="item04C6" Value="角竜の​​​​‍‍‏尾甲"/>
-        <handlers:Item Key="item04C7" Value="堅牢なねじれた角"/>
-        <handlers:Item Key="item04C8" Value="大地を穿つ剛角"/>
-        <handlers:Item Key="item04C9" Value="角竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04CA" Value="角竜の​​​​‍‍‏重甲"/>
-        <handlers:Item Key="item04CB" Value="堅牢な黒巻き角"/>
-        <handlers:Item Key="item04CC" Value="岩賊竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04CD" Value="岩賊竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item04CE" Value="岩賊竜の​​​​‍‍‏大顎"/>
-        <handlers:Item Key="item04CF" Value="岩賊竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04D0" Value="岩賊竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04D1" Value="溶岩竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04D2" Value="溶岩竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04D3" Value="溶岩竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04D4" Value="溶岩竜の​​​​‍‍‏特上ヒレ"/>
-        <handlers:Item Key="item04D5" Value="爆鎚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04D6" Value="爆鎚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04D7" Value="爆鎚竜の​​​​‍‍‏顎"/>
-        <handlers:Item Key="item04D8" Value="爆鎚竜の​​​​‍‍‏耐熱殻"/>
-        <handlers:Item Key="item04D9" Value="爆鎚竜の​​​​‍‍‏天殻"/>
-        <handlers:Item Key="item04DA" Value="氷牙竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04DB" Value="氷牙竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item04DC" Value="氷牙竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04DD" Value="氷牙竜の​​​​‍‍‏重棘"/>
-        <handlers:Item Key="item04DE" Value="氷牙竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04DF" Value="琥珀色の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04E0" Value="迅竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04E1" Value="迅竜の​​​​‍‍‏豪黒毛"/>
-        <handlers:Item Key="item04E2" Value="迅竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04E3" Value="迅竜の​​​​‍‍‏重尾棘"/>
-        <handlers:Item Key="item04E4" Value="迅竜の​​​​‍‍‏剛刃翼"/>
-        <handlers:Item Key="item04E5" Value="迅竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04E6" Value="迅竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04E7" Value="轟竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04E8" Value="轟竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04E9" Value="轟竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04EA" Value="轟竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04EB" Value="轟竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04EC" Value="轟竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04ED" Value="轟竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04EE" Value="轟竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04EF" Value="轟竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04F0" Value="轟竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04F1" Value="斬竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04F2" Value="斬竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04F3" Value="斬竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04F4" Value="斬竜の​​​​‍‍‏獄炎状殻"/>
-        <handlers:Item Key="item04F5" Value="斬竜の​​​​‍‍‏断剣尾"/>
-        <handlers:Item Key="item04F6" Value="赤熱した熔炉嚢"/>
-        <handlers:Item Key="item04F7" Value="斬竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04F8" Value="斬竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04F9" Value="斬竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04FA" Value="斬竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04FB" Value="硫斬竜の​​​​‍‍‏剣山状殻"/>
-        <handlers:Item Key="item04FC" Value="斬竜の​​​​‍‍‏断剣尾"/>
-        <handlers:Item Key="item04FD" Value="削られた硫晶片"/>
+        <handlers:Item Key="item04A9" Value="Odogaron Shard"/>
+        <handlers:Item Key="item04AA" Value="Hard Odogaron Sinew"/>
+        <handlers:Item Key="item04AB" Value="Odogaron Hardclaw"/>
+        <handlers:Item Key="item04AC" Value="Odogaron Hardfang"/>
+        <handlers:Item Key="item04AD" Value="Odogaron Lash"/>
+        <handlers:Item Key="item04AE" Value="Odogaron Mantle"/>
+        <handlers:Item Key="item04AF" Value="Ebony Odogaron Shard"/>
+        <handlers:Item Key="item04B0" Value="Hard Ebony Odogaron Sinew"/>
+        <handlers:Item Key="item04B1" Value="Ebony Odogaron Hardclaw"/>
+        <handlers:Item Key="item04B2" Value="Ebony Odogaron Hardfang"/>
+        <handlers:Item Key="item04B3" Value="Ebony Odogaron Lash"/>
+        <handlers:Item Key="item04B4" Value="Ebony Odogaron Mantle"/>
+        <handlers:Item Key="item04B5" Value="Rathalos Shard"/>
+        <handlers:Item Key="item04B6" Value="Rathalos Cortex"/>
+        <handlers:Item Key="item04B7" Value="Rathalos Fellwing"/>
+        <handlers:Item Key="item04B8" Value="Rathalos Lash"/>
+        <handlers:Item Key="item04B9" Value="Rath Wingtalon+"/>
+        <handlers:Item Key="item04BA" Value="Rathalos Mantle"/>
+        <handlers:Item Key="item04BB" Value="Azure Rathalos Shard"/>
+        <handlers:Item Key="item04BC" Value="Azure Rathalos Cortex"/>
+        <handlers:Item Key="item04BD" Value="Azure Rathalos Lash"/>
+        <handlers:Item Key="item04BE" Value="Azure Rathalos Fellwing"/>
+        <handlers:Item Key="item04BF" Value="Silver Rathalos Shard"/>
+        <handlers:Item Key="item04C0" Value="Silver Rathalos Cortex"/>
+        <handlers:Item Key="item04C1" Value="Silver Rathalos Fellwing"/>
+        <handlers:Item Key="item04C2" Value="Silver Rathalos Lash"/>
+        <handlers:Item Key="item04C3" Value="Rath Gleam"/>
+        <handlers:Item Key="item04C4" Value="Diablos Cortex"/>
+        <handlers:Item Key="item04C5" Value="Diablos Chine"/>
+        <handlers:Item Key="item04C6" Value="Diablos Tailcase+"/>
+        <handlers:Item Key="item04C7" Value="Twisted Stouthorn"/>
+        <handlers:Item Key="item04C8" Value="Diablos Hardhorn"/>
+        <handlers:Item Key="item04C9" Value="Black Diablos Cortex"/>
+        <handlers:Item Key="item04CA" Value="Black Diablos Chine"/>
+        <handlers:Item Key="item04CB" Value="Blackcurl Stouthorn"/>
+        <handlers:Item Key="item04CC" Value="Dodogama Shard"/>
+        <handlers:Item Key="item04CD" Value="Dodogama Thickhide"/>
+        <handlers:Item Key="item04CE" Value="Dodogama Mandible"/>
+        <handlers:Item Key="item04CF" Value="Dodogama Hardclaw"/>
+        <handlers:Item Key="item04D0" Value="Dodogama Lash"/>
+        <handlers:Item Key="item04D1" Value="Lavasioth Shard"/>
+        <handlers:Item Key="item04D2" Value="Lavasioth Cortex"/>
+        <handlers:Item Key="item04D3" Value="Lavasioth Hardfang"/>
+        <handlers:Item Key="item04D4" Value="Lavasioth Grandfin"/>
+        <handlers:Item Key="item04D5" Value="Uragaan Shard"/>
+        <handlers:Item Key="item04D6" Value="Uragaan Cortex"/>
+        <handlers:Item Key="item04D7" Value="Uragaan Jaw+"/>
+        <handlers:Item Key="item04D8" Value="Uragaan Scute+"/>
+        <handlers:Item Key="item04D9" Value="Uragaan Pallium"/>
+        <handlers:Item Key="item04DA" Value="Barioth Cortex"/>
+        <handlers:Item Key="item04DB" Value="Barioth Thickfur"/>
+        <handlers:Item Key="item04DC" Value="Barioth Hardclaw"/>
+        <handlers:Item Key="item04DD" Value="Barioth Greatspike"/>
+        <handlers:Item Key="item04DE" Value="Barioth Lash"/>
+        <handlers:Item Key="item04DF" Value="Amber Hardfang"/>
+        <handlers:Item Key="item04E0" Value="Nargacuga Shard"/>
+        <handlers:Item Key="item04E1" Value="Nargacuga Blackfur+"/>
+        <handlers:Item Key="item04E2" Value="Nargacuga Lash"/>
+        <handlers:Item Key="item04E3" Value="Nargacuga Tailspear"/>
+        <handlers:Item Key="item04E4" Value="Nargacuga Cutwing+"/>
+        <handlers:Item Key="item04E5" Value="Nargacuga Hardfang"/>
+        <handlers:Item Key="item04E6" Value="Nargacuga Mantle"/>
+        <handlers:Item Key="item04E7" Value="Tigrex Shard"/>
+        <handlers:Item Key="item04E8" Value="Tigrex Cortex"/>
+        <handlers:Item Key="item04E9" Value="Tigrex Lash"/>
+        <handlers:Item Key="item04EA" Value="Tigrex Hardclaw"/>
+        <handlers:Item Key="item04EB" Value="Tigrex Hardfang"/>
+        <handlers:Item Key="item04EC" Value="Tigrex Mantle"/>
+        <handlers:Item Key="item04ED" Value="Brute Tigrex Shard"/>
+        <handlers:Item Key="item04EE" Value="Brute Tigrex Cortex"/>
+        <handlers:Item Key="item04EF" Value="Brute Tigrex Hardclaw"/>
+        <handlers:Item Key="item04F0" Value="Brute Tigrex Hardfang"/>
+        <handlers:Item Key="item04F1" Value="Glavenus Shard"/>
+        <handlers:Item Key="item04F2" Value="Glavenus Cortex"/>
+        <handlers:Item Key="item04F3" Value="Glavenus Hardfang"/>
+        <handlers:Item Key="item04F4" Value="Glavenus Hellshell"/>
+        <handlers:Item Key="item04F5" Value="Glavenus Tailedge"/>
+        <handlers:Item Key="item04F6" Value="Molten Bursa"/>
+        <handlers:Item Key="item04F7" Value="Glavenus Mantle"/>
+        <handlers:Item Key="item04F8" Value="Acidic Glavenus Shard"/>
+        <handlers:Item Key="item04F9" Value="Acidic Glavenus Cortex"/>
+        <handlers:Item Key="item04FA" Value="Acidic Glavenus Hardfang"/>
+        <handlers:Item Key="item04FB" Value="Acidic Glavenus Spineshell"/>
+        <handlers:Item Key="item04FC" Value="Acidic Glavenus Tailedge"/>
+        <handlers:Item Key="item04FD" Value="Honed Acidcryst"/>
         <handlers:Item Key="item04FE" Value="Item 1278"/>
-        <handlers:Item Key="item04FF" Value="砕竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0500" Value="砕竜の​​​​‍‍‏重黒曜甲"/>
-        <handlers:Item Key="item0501" Value="砕竜の​​​​‍‍‏重頭殻"/>
-        <handlers:Item Key="item0502" Value="光る粘菌"/>
-        <handlers:Item Key="item0503" Value="砕竜の​​​​‍‍‏剛鉄拳"/>
-        <handlers:Item Key="item0504" Value="砕竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0505" Value="砕竜の​​​​‍‍‏天殻"/>
+        <handlers:Item Key="item04FF" Value="Brachydios Cortex"/>
+        <handlers:Item Key="item0500" Value="Fine Brachydios Ebonshell"/>
+        <handlers:Item Key="item0501" Value="Brachydios Crown"/>
+        <handlers:Item Key="item0502" Value="Glowing Slime"/>
+        <handlers:Item Key="item0503" Value="Brachydios Pounder+"/>
+        <handlers:Item Key="item0504" Value="Brachydios Lash"/>
+        <handlers:Item Key="item0505" Value="Brachydios Pallium"/>
         <handlers:Item Key="item0506" Value="Item 1286"/>
         <handlers:Item Key="item0507" Value="Item 1287"/>
         <handlers:Item Key="item0508" Value="Item 1288"/>
         <handlers:Item Key="item0509" Value="Item 1289"/>
-        <handlers:Item Key="item050A" Value="黒狼鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item050B" Value="黒狼鳥の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item050C" Value="黒狼鳥の​​​​‍‍‏地獄耳"/>
-        <handlers:Item Key="item050D" Value="イカしたクチバシ"/>
-        <handlers:Item Key="item050E" Value="黒狼鳥の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item050F" Value="黒狼鳥の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0510" Value="黒狼鳥の​​​​‍‍‏銀狼毛"/>
-        <handlers:Item Key="item0511" Value="雷狼竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0512" Value="雷狼竜の​​​​‍‍‏雷電毛"/>
-        <handlers:Item Key="item0513" Value="雷狼竜の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item0514" Value="雷狼竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0515" Value="雷狼竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0516" Value="雷狼竜の​​​​‍‍‏雷電殻"/>
-        <handlers:Item Key="item0517" Value="超電雷光虫"/>
-        <handlers:Item Key="item0518" Value="雷狼竜の​​​​‍‍‏天玉"/>
+        <handlers:Item Key="item050A" Value="Garuga Shard"/>
+        <handlers:Item Key="item050B" Value="Garuga Cortex"/>
+        <handlers:Item Key="item050C" Value="Garuga Auricle"/>
+        <handlers:Item Key="item050D" Value="Fancy Beak"/>
+        <handlers:Item Key="item050E" Value="Garuga Fellwing"/>
+        <handlers:Item Key="item050F" Value="Garuga Lash"/>
+        <handlers:Item Key="item0510" Value="Garuga Silverpelt"/>
+        <handlers:Item Key="item0511" Value="Zinogre Cortex"/>
+        <handlers:Item Key="item0512" Value="Zinogre Electrofur+"/>
+        <handlers:Item Key="item0513" Value="Zinogre Hardhorn"/>
+        <handlers:Item Key="item0514" Value="Zinogre Hardclaw"/>
+        <handlers:Item Key="item0515" Value="Zinogre Lash"/>
+        <handlers:Item Key="item0516" Value="Zinogre Deathly Shocker"/>
+        <handlers:Item Key="item0517" Value="Fulgurbug"/>
+        <handlers:Item Key="item0518" Value="Zinogre Skymerald"/>
         <handlers:Item Key="item0519" Value="Item 1305"/>
         <handlers:Item Key="item051A" Value="Item 1306"/>
         <handlers:Item Key="item051B" Value="Item 1307"/>
@@ -1338,21 +1338,21 @@
         <handlers:Item Key="item051E" Value="Item 1310"/>
         <handlers:Item Key="item051F" Value="Item 1311"/>
         <handlers:Item Key="item0520" Value="Item 1312"/>
-        <handlers:Item Key="item0521" Value="爆鱗竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0522" Value="紅蓮にゆれる銀殻"/>
-        <handlers:Item Key="item0523" Value="爆鱗竜の​​​​‍‍‏重尾"/>
-        <handlers:Item Key="item0524" Value="凝縮された爆腺液"/>
-        <handlers:Item Key="item0525" Value="爆鱗竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0526" Value="天を焦がす銀翼"/>
-        <handlers:Item Key="item0527" Value="爆鱗竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item0528" Value="恐暴竜の​​​​‍‍‏厚黒鱗"/>
-        <handlers:Item Key="item0529" Value="恐暴竜の​​​​‍‍‏厚黒皮"/>
+        <handlers:Item Key="item0521" Value="Bazelgeuse Shard"/>
+        <handlers:Item Key="item0522" Value="Flickering Silvershell"/>
+        <handlers:Item Key="item0523" Value="Bazelgeuse Flail"/>
+        <handlers:Item Key="item0524" Value="Distilled Blast Fluid"/>
+        <handlers:Item Key="item0525" Value="Bazelgeuse Hardclaw"/>
+        <handlers:Item Key="item0526" Value="Scorching Silverwing"/>
+        <handlers:Item Key="item0527" Value="Bazelgeuse Mantle"/>
+        <handlers:Item Key="item0528" Value="Deviljho Shard"/>
+        <handlers:Item Key="item0529" Value="Deviljho Blackpiel"/>
         <handlers:Item Key="item052A" Value="Item 1322"/>
-        <handlers:Item Key="item052B" Value="極悪な牙"/>
-        <handlers:Item Key="item052C" Value="恐暴竜の​​​​‍‍‏剛鉤爪"/>
-        <handlers:Item Key="item052D" Value="恐暴竜の​​​​‍‍‏重尾"/>
-        <handlers:Item Key="item052E" Value="ドス黒い血"/>
-        <handlers:Item Key="item052F" Value="恐暴竜の​​​​‍‍‏滅鱗"/>
+        <handlers:Item Key="item052B" Value="Vile Fang"/>
+        <handlers:Item Key="item052C" Value="Deviljho Ripper"/>
+        <handlers:Item Key="item052D" Value="Deviljho Flail"/>
+        <handlers:Item Key="item052E" Value="Black Blood"/>
+        <handlers:Item Key="item052F" Value="Deviljho Crook"/>
         <handlers:Item Key="item0530" Value="Item 1328"/>
         <handlers:Item Key="item0531" Value="Item 1329"/>
         <handlers:Item Key="item0532" Value="Item 1330"/>
@@ -1362,55 +1362,55 @@
         <handlers:Item Key="item0536" Value="Item 1334"/>
         <handlers:Item Key="item0537" Value="Item 1335"/>
         <handlers:Item Key="item0538" Value="Item 1336"/>
-        <handlers:Item Key="item0539" Value="幻獣の​​​​‍‍‏特上皮"/>
-        <handlers:Item Key="item053A" Value="幻獣の​​​​‍‍‏雷尾"/>
-        <handlers:Item Key="item053B" Value="幻獣の​​​​‍‍‏銀たてがみ"/>
-        <handlers:Item Key="item053C" Value="幻獣の​​​​‍‍‏蒼角"/>
-        <handlers:Item Key="item053D" Value="不滅の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item053E" Value="滅尽龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item053F" Value="滅尽龍の​​​​‍‍‏重尾"/>
-        <handlers:Item Key="item0540" Value="殲滅の​​​​‍‍‏大剛角"/>
-        <handlers:Item Key="item0541" Value="滅尽龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0542" Value="無窮の​​​​‍‍‏新生殻"/>
-        <handlers:Item Key="item0543" Value="氷晶の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item0544" Value="冰龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0545" Value="冰龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0546" Value="冰龍の​​​​‍‍‏冠角"/>
-        <handlers:Item Key="item0547" Value="冰龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0548" Value="冰龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0549" Value="冰龍の​​​​‍‍‏零玉"/>
-        <handlers:Item Key="item054A" Value="炎王龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item054B" Value="炎王龍の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item054C" Value="炎王龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item054D" Value="炎王龍の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item054E" Value="獄炎の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item054F" Value="炎龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0550" Value="炎龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0551" Value="炎妃龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0552" Value="炎妃龍の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0553" Value="炎妃龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0554" Value="炎妃龍の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item0555" Value="炎妃龍の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0556" Value="炎妃龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0557" Value="鋼龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0558" Value="鋼の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item0559" Value="鋼龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item055A" Value="鋼龍の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item055B" Value="鋼龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item055C" Value="鋼龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item055D" Value="死屍の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item055E" Value="屍套龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item055F" Value="死屍を紡いだ被膜"/>
-        <handlers:Item Key="item0560" Value="屍套龍の​​​​‍‍‏重尾"/>
-        <handlers:Item Key="item0561" Value="闇を食む牙"/>
-        <handlers:Item Key="item0562" Value="屍套龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0563" Value="屍套龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0564" Value="溟龍の​​​​‍‍‏特上皮"/>
+        <handlers:Item Key="item0539" Value="Kirin Finehide"/>
+        <handlers:Item Key="item053A" Value="Kirin Thundertail+"/>
+        <handlers:Item Key="item053B" Value="Kirin Silvermane"/>
+        <handlers:Item Key="item053C" Value="Kirin Azure Horn+"/>
+        <handlers:Item Key="item053D" Value="Immortal Shard"/>
+        <handlers:Item Key="item053E" Value="Nergigante Cortex"/>
+        <handlers:Item Key="item053F" Value="Nergigante Flail"/>
+        <handlers:Item Key="item0540" Value="Annihilating Greathorn"/>
+        <handlers:Item Key="item0541" Value="Nergigante Hardclaw"/>
+        <handlers:Item Key="item0542" Value="Eternal Regrowth Plate"/>
+        <handlers:Item Key="item0543" Value="Crystal Shard"/>
+        <handlers:Item Key="item0544" Value="Velkhana Cortex"/>
+        <handlers:Item Key="item0545" Value="Velkhana Fellwing"/>
+        <handlers:Item Key="item0546" Value="Velkhana Crownhorn"/>
+        <handlers:Item Key="item0547" Value="Velkhana Lash"/>
+        <handlers:Item Key="item0548" Value="Velkhana Hardclaw"/>
+        <handlers:Item Key="item0549" Value="Velkhana Crystal"/>
+        <handlers:Item Key="item054A" Value="Teostra Cortex"/>
+        <handlers:Item Key="item054B" Value="Teostra Mane+"/>
+        <handlers:Item Key="item054C" Value="Teostra Lash"/>
+        <handlers:Item Key="item054D" Value="Teostra Hardhorn"/>
+        <handlers:Item Key="item054E" Value="Hellfire Shard"/>
+        <handlers:Item Key="item054F" Value="Fire Dragon Hardclaw"/>
+        <handlers:Item Key="item0550" Value="Teostra Fellwing"/>
+        <handlers:Item Key="item0551" Value="Lunastra Cortex"/>
+        <handlers:Item Key="item0552" Value="Lunastra Mane+"/>
+        <handlers:Item Key="item0553" Value="Lunastra Lash"/>
+        <handlers:Item Key="item0554" Value="Lunastra Hardhorn"/>
+        <handlers:Item Key="item0555" Value="Lunastra Shard"/>
+        <handlers:Item Key="item0556" Value="Lunastra Fellwing"/>
+        <handlers:Item Key="item0557" Value="Daora Cortex"/>
+        <handlers:Item Key="item0558" Value="Daora Shard"/>
+        <handlers:Item Key="item0559" Value="Daora Fellwing"/>
+        <handlers:Item Key="item055A" Value="Daora Hardhorn"/>
+        <handlers:Item Key="item055B" Value="Daora Lash"/>
+        <handlers:Item Key="item055C" Value="Daora Hardclaw"/>
+        <handlers:Item Key="item055D" Value="Deceased Shard"/>
+        <handlers:Item Key="item055E" Value="Vaal Hazak Cortex"/>
+        <handlers:Item Key="item055F" Value="Deathweaver Membrane"/>
+        <handlers:Item Key="item0560" Value="Vaal Hazak Flail"/>
+        <handlers:Item Key="item0561" Value="Shadowpierce Fang"/>
+        <handlers:Item Key="item0562" Value="Vaal Hazak Hardclaw"/>
+        <handlers:Item Key="item0563" Value="Vaal Hazak Fellwing"/>
+        <handlers:Item Key="item0564" Value="Namielle Finehide"/>
         <handlers:Item Key="item0565" Value="Item 1381"/>
-        <handlers:Item Key="item0566" Value="溟龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0567" Value="溟龍の​​​​‍‍‏幻曜ヒゲ"/>
-        <handlers:Item Key="item0568" Value="溟龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0569" Value="溟龍の​​​​‍‍‏剛爪"/>
+        <handlers:Item Key="item0566" Value="Namielle Fellwing"/>
+        <handlers:Item Key="item0567" Value="Namielle Whisker"/>
+        <handlers:Item Key="item0568" Value="Namielle Lash"/>
+        <handlers:Item Key="item0569" Value="Namielle Hardclaw"/>
         <handlers:Item Key="item056A" Value="Item 1386"/>
         <handlers:Item Key="item056B" Value="Item 1387"/>
         <handlers:Item Key="item056C" Value="Item 1388"/>
@@ -1420,13 +1420,13 @@
         <handlers:Item Key="item0570" Value="Item 1392"/>
         <handlers:Item Key="item0571" Value="Item 1393"/>
         <handlers:Item Key="item0572" Value="Item 1394"/>
-        <handlers:Item Key="item0573" Value="地啼龍の​​​​‍‍‏慈鱗"/>
-        <handlers:Item Key="item0574" Value="地啼龍の​​​​‍‍‏厳岩殻"/>
+        <handlers:Item Key="item0573" Value="Shara Ishvalda Tenderscale"/>
+        <handlers:Item Key="item0574" Value="Shara Ishvalda Boulderplate"/>
         <handlers:Item Key="item0575" Value="Item 1397"/>
-        <handlers:Item Key="item0576" Value="地啼龍の​​​​‍‍‏慈眼殻"/>
-        <handlers:Item Key="item0577" Value="地啼龍の​​​​‍‍‏散華石"/>
-        <handlers:Item Key="item0578" Value="地啼龍の​​​​‍‍‏慈爪"/>
-        <handlers:Item Key="item0579" Value="地啼龍の​​​​‍‍‏顕玉"/>
+        <handlers:Item Key="item0576" Value="Shara Ishvalda Tenderplate"/>
+        <handlers:Item Key="item0577" Value="Shara Ishvalda Petalstone"/>
+        <handlers:Item Key="item0578" Value="Shara Ishvalda Tenderclaw"/>
+        <handlers:Item Key="item0579" Value="Shara Ishvalda Gem"/>
         <handlers:Item Key="item057A" Value="Item 1402"/>
         <handlers:Item Key="item057B" Value="Item 1403"/>
         <handlers:Item Key="item057C" Value="Item 1404"/>
@@ -1434,12 +1434,12 @@
         <handlers:Item Key="item057E" Value="Item 1406"/>
         <handlers:Item Key="item057F" Value="Item 1407"/>
         <handlers:Item Key="item0580" Value="Item 1408"/>
-        <handlers:Item Key="item0581" Value="太古の​​​​‍‍‏珠"/>
-        <handlers:Item Key="item0582" Value="刻まれた珠"/>
-        <handlers:Item Key="item0583" Value="封じられた珠"/>
-        <handlers:Item Key="item0584" Value="朽ちた龍鱗"/>
-        <handlers:Item Key="item0585" Value="かがやく龍鱗"/>
-        <handlers:Item Key="item0586" Value="龍秘宝"/>
+        <handlers:Item Key="item0581" Value="Ancient Feystone"/>
+        <handlers:Item Key="item0582" Value="Carved Feystone"/>
+        <handlers:Item Key="item0583" Value="Sealed Feystone"/>
+        <handlers:Item Key="item0584" Value="Decayed Scale"/>
+        <handlers:Item Key="item0585" Value="Luminous Scale"/>
+        <handlers:Item Key="item0586" Value="Old Dragon Treasure"/>
         <handlers:Item Key="item0587" Value="Item 1415"/>
         <handlers:Item Key="item0588" Value="Item 1416"/>
         <handlers:Item Key="item0589" Value="？？？の​​​​‍‍‏厚鱗"/>
@@ -1457,45 +1457,45 @@
         <handlers:Item Key="item0595" Value="Item 1429"/>
         <handlers:Item Key="item0596" Value="Item 1430"/>
         <handlers:Item Key="item0597" Value="天の竜人手形"/>
-        <handlers:Item Key="item0598" Value="覇王の​​​​‍‍‏証"/>
-        <handlers:Item Key="item0599" Value="調査団チケット"/>
-        <handlers:Item Key="item059A" Value="バフバロコイン"/>
-        <handlers:Item Key="item059B" Value="ウルムーコイン"/>
-        <handlers:Item Key="item059C" Value="ナルガコイン"/>
-        <handlers:Item Key="item059D" Value="ディノコイン"/>
-        <handlers:Item Key="item059E" Value="ガロンコイン"/>
-        <handlers:Item Key="item059F" Value="ジンオウコイン"/>
-        <handlers:Item Key="item05A0" Value="クロオビコイン"/>
+        <handlers:Item Key="item0598" Value="Conqueror's Seal"/>
+        <handlers:Item Key="item0599" Value="Research Commission Ticket+"/>
+        <handlers:Item Key="item059A" Value="Banbaro Coin"/>
+        <handlers:Item Key="item059B" Value="Paolumu Coin"/>
+        <handlers:Item Key="item059C" Value="Nargacuga Coin"/>
+        <handlers:Item Key="item059D" Value="Glavenus Coin"/>
+        <handlers:Item Key="item059E" Value="Odogaron Coin"/>
+        <handlers:Item Key="item059F" Value="Zinogre Coin"/>
+        <handlers:Item Key="item05A0" Value="Black Belt Coin"/>
         <handlers:Item Key="item05A1" Value="英雄王のコイン"/>
-        <handlers:Item Key="item05A2" Value="レックスコイン"/>
-        <handlers:Item Key="item05A3" Value="巨大なウロコ"/>
-        <handlers:Item Key="item05A4" Value="すばらしいウロコ"/>
-        <handlers:Item Key="item05A5" Value="ボワボワチケット"/>
-        <handlers:Item Key="item05A6" Value="特産ふきの​​​​‍‍‏とう"/>
-        <handlers:Item Key="item05A7" Value="厳選ふきの​​​​‍‍‏とう"/>
-        <handlers:Item Key="item05A8" Value="万年ふきの​​​​‍‍‏とう"/>
-        <handlers:Item Key="item05A9" Value="氷瑞花"/>
-        <handlers:Item Key="item05AA" Value="氷瑞花"/>
-        <handlers:Item Key="item05AB" Value="氷瑞花"/>
+        <handlers:Item Key="item05A2" Value="Tigrex Coin"/>
+        <handlers:Item Key="item05A3" Value="Giant Scale"/>
+        <handlers:Item Key="item05A4" Value="Magnificent Scale"/>
+        <handlers:Item Key="item05A5" Value="Boaboa Ticket"/>
+        <handlers:Item Key="item05A6" Value="Young Butterbur"/>
+        <handlers:Item Key="item05A7" Value="Exquisite Butterbur"/>
+        <handlers:Item Key="item05A8" Value="Millennium Butterbur"/>
+        <handlers:Item Key="item05A9" Value="Icebloom"/>
+        <handlers:Item Key="item05AA" Value="Moonlight Icebloom"/>
+        <handlers:Item Key="item05AB" Value="Snowpeak Icebloom"/>
         <handlers:Item Key="item05AC" Value="スノーホワイト"/>
-        <handlers:Item Key="item05AD" Value="クリスタルフラワー"/>
-        <handlers:Item Key="item05AE" Value="生命の​​​​‍‍‏大粉塵"/>
-        <handlers:Item Key="item05AF" Value="ギンセンザル"/>
-        <handlers:Item Key="item05B0" Value="キンセンザル"/>
+        <handlers:Item Key="item05AD" Value="Petalcryst"/>
+        <handlers:Item Key="item05AE" Value="EZ Dust of Life"/>
+        <handlers:Item Key="item05AF" Value="Pearlspring Macaque"/>
+        <handlers:Item Key="item05B0" Value="Goldspring Macaque"/>
         <handlers:Item Key="item05B1" Value="Item 1457"/>
-        <handlers:Item Key="item05B2" Value="カワリカブトエビ"/>
-        <handlers:Item Key="item05B3" Value="ツキミアゲ"/>
-        <handlers:Item Key="item05B4" Value="キブクレペンギン"/>
-        <handlers:Item Key="item05B5" Value="イキサキゲッコー"/>
-        <handlers:Item Key="item05B6" Value="ブルーディーヴァ"/>
+        <handlers:Item Key="item05B2" Value="Crowned Prawn"/>
+        <handlers:Item Key="item05B3" Value="Moon Slug"/>
+        <handlers:Item Key="item05B4" Value="Duffel Penguin"/>
+        <handlers:Item Key="item05B5" Value="Arrowhead Gekko"/>
+        <handlers:Item Key="item05B6" Value="Blue Diva"/>
         <handlers:Item Key="item05B7" Value="ワダツミノツカイ"/>
         <handlers:Item Key="item05B8" Value="グラスパレクス"/>
         <handlers:Item Key="item05B9" Value="ツキノハゴロモ"/>
-        <handlers:Item Key="item05BA" Value="モギー"/>
-        <handlers:Item Key="item05BB" Value="モギー"/>
-        <handlers:Item Key="item05BC" Value="モギー"/>
-        <handlers:Item Key="item05BD" Value="モギー"/>
-        <handlers:Item Key="item05BE" Value="モギー"/>
+        <handlers:Item Key="item05BA" Value="Moly"/>
+        <handlers:Item Key="item05BB" Value="Mossy Moly"/>
+        <handlers:Item Key="item05BC" Value="Rocky Moly"/>
+        <handlers:Item Key="item05BD" Value="Fluffy Moly"/>
+        <handlers:Item Key="item05BE" Value="Spiny Moly"/>
         <handlers:Item Key="item05BF" Value="Item 1471"/>
         <handlers:Item Key="item05C0" Value="Item 1472"/>
         <handlers:Item Key="item05C1" Value="ドスグラスパレクス"/>
@@ -1503,74 +1503,74 @@
         <handlers:Item Key="item05C3" Value="Item 1475"/>
         <handlers:Item Key="item05C4" Value="Item 1476"/>
         <handlers:Item Key="item05C5" Value="Item 1477"/>
-        <handlers:Item Key="item05C6" Value="龍脈炭の​​​​‍‍‏かけら"/>
-        <handlers:Item Key="item05C7" Value="龍脈炭"/>
-        <handlers:Item Key="item05C8" Value="龍脈炭"/>
-        <handlers:Item Key="item05C9" Value="布製の​​​​‍‍‏カーテン【小】"/>
-        <handlers:Item Key="item05CA" Value="毛皮の​​​​‍‍‏カーテン【小】"/>
-        <handlers:Item Key="item05CB" Value="上品なカーテン【小】"/>
+        <handlers:Item Key="item05C6" Value="Dragonvein Shard"/>
+        <handlers:Item Key="item05C7" Value="Dragonvein Coal"/>
+        <handlers:Item Key="item05C8" Value="Dragonvein Coal Chunk"/>
+        <handlers:Item Key="item05C9" Value="Cloth Curtain (Small)"/>
+        <handlers:Item Key="item05CA" Value="Pelt Curtain (Small)"/>
+        <handlers:Item Key="item05CB" Value="Elegant Curtain (Small)"/>
         <handlers:Item Key="item05CC" Value="Item 1484"/>
-        <handlers:Item Key="item05CD" Value="布製の​​​​‍‍‏カーテン【大】"/>
-        <handlers:Item Key="item05CE" Value="毛皮の​​​​‍‍‏カーテン【大】"/>
-        <handlers:Item Key="item05CF" Value="上品なカーテン【大】"/>
+        <handlers:Item Key="item05CD" Value="Cloth Curtain (Large)"/>
+        <handlers:Item Key="item05CE" Value="Pelt Curtain (Large)"/>
+        <handlers:Item Key="item05CF" Value="Elegant Curtain (Large)"/>
         <handlers:Item Key="item05D0" Value="Item 1488"/>
-        <handlers:Item Key="item05D1" Value="親しみあるソファ"/>
+        <handlers:Item Key="item05D1" Value="Familiar Sofa"/>
         <handlers:Item Key="item05D2" Value="Item 1490"/>
-        <handlers:Item Key="item05D3" Value="高級ソファ"/>
-        <handlers:Item Key="item05D4" Value="上品なソファ"/>
+        <handlers:Item Key="item05D3" Value="Luxury Sofa"/>
+        <handlers:Item Key="item05D4" Value="Elegant Sofa"/>
         <handlers:Item Key="item05D5" Value="Item 1493"/>
-        <handlers:Item Key="item05D6" Value="野趣あふれるベッド"/>
-        <handlers:Item Key="item05D7" Value="親しみあるベッド"/>
-        <handlers:Item Key="item05D8" Value="高級ベッド"/>
+        <handlers:Item Key="item05D6" Value="Rustic Bed"/>
+        <handlers:Item Key="item05D7" Value="Familiar Bed"/>
+        <handlers:Item Key="item05D8" Value="Luxury Bed"/>
         <handlers:Item Key="item05D9" Value="Item 1497"/>
-        <handlers:Item Key="item05DA" Value="親しみあるテーブル"/>
-        <handlers:Item Key="item05DB" Value="高級テーブル"/>
-        <handlers:Item Key="item05DC" Value="上品なテーブル"/>
+        <handlers:Item Key="item05DA" Value="Familiar Table"/>
+        <handlers:Item Key="item05DB" Value="Luxury Table"/>
+        <handlers:Item Key="item05DC" Value="Elegant Table"/>
         <handlers:Item Key="item05DD" Value="Item 1501"/>
-        <handlers:Item Key="item05DE" Value="野趣あふれる椅子"/>
-        <handlers:Item Key="item05DF" Value="親しみある椅子"/>
-        <handlers:Item Key="item05E0" Value="高級な椅子"/>
-        <handlers:Item Key="item05E1" Value="上品な椅子"/>
+        <handlers:Item Key="item05DE" Value="Rustic Chairs"/>
+        <handlers:Item Key="item05DF" Value="Familiar Chairs"/>
+        <handlers:Item Key="item05E0" Value="Luxury Chairs"/>
+        <handlers:Item Key="item05E1" Value="Elegant Chairs"/>
         <handlers:Item Key="item05E2" Value="Item 1506"/>
-        <handlers:Item Key="item05E3" Value="肉づくし"/>
-        <handlers:Item Key="item05E4" Value="パーティセット"/>
-        <handlers:Item Key="item05E5" Value="トロピカルランチ"/>
-        <handlers:Item Key="item05E6" Value="豪勢なシチュー"/>
-        <handlers:Item Key="item05E7" Value="ハンターブランチ"/>
-        <handlers:Item Key="item05E8" Value="親しみあるチェスト"/>
-        <handlers:Item Key="item05E9" Value="高級なチェスト"/>
+        <handlers:Item Key="item05E3" Value="Carnivore Carnival"/>
+        <handlers:Item Key="item05E4" Value="Party Platter"/>
+        <handlers:Item Key="item05E5" Value="Tropical Lunch"/>
+        <handlers:Item Key="item05E6" Value="Sumptuous Stew"/>
+        <handlers:Item Key="item05E7" Value="Hunter's Brunch"/>
+        <handlers:Item Key="item05E8" Value="Familiar Chest"/>
+        <handlers:Item Key="item05E9" Value="Luxury Chest"/>
         <handlers:Item Key="item05EA" Value="Item 1514"/>
-        <handlers:Item Key="item05EB" Value="渡りの​​​​‍‍‏凍て地の​​​​‍‍‏植物１"/>
-        <handlers:Item Key="item05EC" Value="渡りの​​​​‍‍‏凍て地の​​​​‍‍‏植物２"/>
+        <handlers:Item Key="item05EB" Value="Hoarfrost Reach Plant 1"/>
+        <handlers:Item Key="item05EC" Value="Hoarfrost Reach Plant 2"/>
         <handlers:Item Key="item05ED" Value="Item 1517"/>
-        <handlers:Item Key="item05EE" Value="渡りの​​​​‍‍‏凍て地の​​​​‍‍‏植物３"/>
-        <handlers:Item Key="item05EF" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物１"/>
+        <handlers:Item Key="item05EE" Value="Hoarfrost Reach Plant 3"/>
+        <handlers:Item Key="item05EF" Value="Ancient Forest Plant 1"/>
         <handlers:Item Key="item05F0" Value="Item 1520"/>
-        <handlers:Item Key="item05F1" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物４"/>
-        <handlers:Item Key="item05F2" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物５"/>
-        <handlers:Item Key="item05F3" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物３"/>
-        <handlers:Item Key="item05F4" Value="大蟻塚の​​​​‍‍‏荒地の​​​​‍‍‏植物２"/>
+        <handlers:Item Key="item05F1" Value="Ancient Forest Plant 4"/>
+        <handlers:Item Key="item05F2" Value="Ancient Forest Plant 5"/>
+        <handlers:Item Key="item05F3" Value="Ancient Forest Plant 3"/>
+        <handlers:Item Key="item05F4" Value="Wildspire Wastes Plant 2"/>
         <handlers:Item Key="item05F5" Value="Item 1525"/>
-        <handlers:Item Key="item05F6" Value="大蟻塚の​​​​‍‍‏荒地の​​​​‍‍‏植物１"/>
-        <handlers:Item Key="item05F7" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物２"/>
+        <handlers:Item Key="item05F6" Value="Wildspire Wastes Plant 1"/>
+        <handlers:Item Key="item05F7" Value="Ancient Forest Plant 2"/>
         <handlers:Item Key="item05F8" Value="Item 1528"/>
         <handlers:Item Key="item05F9" Value="Item 1529"/>
-        <handlers:Item Key="item05FA" Value="素朴なつぼ"/>
-        <handlers:Item Key="item05FB" Value="テトルー人形"/>
-        <handlers:Item Key="item05FC" Value="ガジャブー人形"/>
-        <handlers:Item Key="item05FD" Value="ボワボワ人形"/>
-        <handlers:Item Key="item05FE" Value="アイルー人形"/>
-        <handlers:Item Key="item05FF" Value="テトルー人形"/>
-        <handlers:Item Key="item0600" Value="テトルー人形"/>
-        <handlers:Item Key="item0601" Value="テトルー人形"/>
-        <handlers:Item Key="item0602" Value="プーギー人形【縞想】"/>
+        <handlers:Item Key="item05FA" Value="Simple Urn"/>
+        <handlers:Item Key="item05FB" Value="Grimalkyne Doll"/>
+        <handlers:Item Key="item05FC" Value="Gajalaka Doll"/>
+        <handlers:Item Key="item05FD" Value="Boaboa Doll"/>
+        <handlers:Item Key="item05FE" Value="Felyne Doll"/>
+        <handlers:Item Key="item05FF" Value="Grimalkyne Doll (Black)"/>
+        <handlers:Item Key="item0600" Value="Grimalkyne Doll (Navy)"/>
+        <handlers:Item Key="item0601" Value="Grimalkyne Doll (Blue)"/>
+        <handlers:Item Key="item0602" Value="Poogie Doll (Memorial Stripes)"/>
         <handlers:Item Key="item0603" Value="Poogie Doll (Emperor's Duds)"/>
         <handlers:Item Key="item0604" Value="Item 1540"/>
         <handlers:Item Key="item0605" Value="Item 1541"/>
         <handlers:Item Key="item0606" Value="Item 1542"/>
         <handlers:Item Key="item0607" Value="Item 1543"/>
         <handlers:Item Key="item0608" Value="Item 1544"/>
-        <handlers:Item Key="item0609" Value="素朴なつぼ"/>
+        <handlers:Item Key="item0609" Value="Simple Urn Set"/>
         <handlers:Item Key="item060A" Value="Burlap Sacks"/>
         <handlers:Item Key="item060B" Value="Bottled Spirit"/>
         <handlers:Item Key="item060C" Value="Assorted Bottle Set"/>
@@ -1606,8 +1606,8 @@
         <handlers:Item Key="item062A" Value="Symbol of Contribution"/>
         <handlers:Item Key="item062B" Value="Symbol of Dedication"/>
         <handlers:Item Key="item062C" Value="Symbol of Valor"/>
-        <handlers:Item Key="item062D" Value="小金魚"/>
-        <handlers:Item Key="item062E" Value="キレアジ"/>
+        <handlers:Item Key="item062D" Value="Goldenfry Mobile"/>
+        <handlers:Item Key="item062E" Value="Whetfish Mobile"/>
         <handlers:Item Key="item062F" Value="Marlin Mobile"/>
         <handlers:Item Key="item0630" Value="Item 1584"/>
         <handlers:Item Key="item0631" Value="Item 1585"/>
@@ -1752,7 +1752,7 @@
         <handlers:Item Key="item06BC" Value="Dark Iron"/>
         <handlers:Item Key="item06BD" Value="Silver"/>
         <handlers:Item Key="item06BE" Value="Item 1726"/>
-        <handlers:Item Key="item06BF" Value="石ころ"/>
+        <handlers:Item Key="item06BF" Value="Stone"/>
         <handlers:Item Key="item06C0" Value="Home Sweet Home"/>
         <handlers:Item Key="item06C1" Value="Traditional Room"/>
         <handlers:Item Key="item06C2" Value="Item 1730"/>
@@ -1761,17 +1761,17 @@
         <handlers:Item Key="item06C5" Value="Item 1733"/>
         <handlers:Item Key="item06C6" Value="Wooden Floor"/>
         <handlers:Item Key="item06C7" Value="Chic Wooden Floor"/>
-        <handlers:Item Key="item06C8" Value="石ころ"/>
+        <handlers:Item Key="item06C8" Value="Simple Stone Floor"/>
         <handlers:Item Key="item06C9" Value="Item 1737"/>
         <handlers:Item Key="item06CA" Value="Item 1738"/>
         <handlers:Item Key="item06CB" Value="Marble Tile Floor"/>
         <handlers:Item Key="item06CC" Value="Item 1740"/>
         <handlers:Item Key="item06CD" Value="Item 1741"/>
         <handlers:Item Key="item06CE" Value="Item 1742"/>
-        <handlers:Item Key="item06CF" Value="石ころ"/>
+        <handlers:Item Key="item06CF" Value="Chic Stone Floor"/>
         <handlers:Item Key="item06D0" Value="Wooden Wall"/>
         <handlers:Item Key="item06D1" Value="Chic Wooden Wall"/>
-        <handlers:Item Key="item06D2" Value="石ころ"/>
+        <handlers:Item Key="item06D2" Value="Simple Stone Wall"/>
         <handlers:Item Key="item06D3" Value="Item 1747"/>
         <handlers:Item Key="item06D4" Value="Item 1748"/>
         <handlers:Item Key="item06D5" Value="Simple Stucco Wall"/>
@@ -1806,36 +1806,36 @@
         <handlers:Item Key="item06F2" Value="Traditional Floor"/>
         <handlers:Item Key="item06F3" Value="Traditional Lights"/>
         <handlers:Item Key="item06F4" Value="Item 1780"/>
-        <handlers:Item Key="item06F5" Value="撃龍杭砲の​​​​‍‍‏燃料"/>
-        <handlers:Item Key="item06F6" Value="救援の​​​​‍‍‏ろしの​​​​‍‍‏指笛"/>
+        <handlers:Item Key="item06F5" Value="Dragonrazer Fuel Cell"/>
+        <handlers:Item Key="item06F6" Value="Tailraider Signal"/>
         <handlers:Item Key="item06F7" Value="Item 1783"/>
-        <handlers:Item Key="item06F8" Value="虫かご族・蜻蛉フライ"/>
-        <handlers:Item Key="item06F9" Value="まもり族・黄金干物"/>
-        <handlers:Item Key="item06FA" Value="かなで族・一角ウニ"/>
-        <handlers:Item Key="item06FB" Value="ぶんどり族・骨虫蒸し"/>
-        <handlers:Item Key="item06FC" Value="奇面族・マグマ鍋"/>
-        <handlers:Item Key="item06FD" Value="獣纏族・ボワボワパン"/>
-        <handlers:Item Key="item06FE" Value="テルマエチケット"/>
-        <handlers:Item Key="item06FF" Value="傷痕の​​​​‍‍‏紫甲殻"/>
-        <handlers:Item Key="item0700" Value="石ころ"/>
-        <handlers:Item Key="item0701" Value="ユキダマコガネ"/>
-        <handlers:Item Key="item0702" Value="石ころ"/>
-        <handlers:Item Key="item0703" Value="朽ちた結晶"/>
-        <handlers:Item Key="item0704" Value="森林の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0705" Value="繁栄の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0706" Value="森林の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0707" Value="ひび割れた結晶"/>
-        <handlers:Item Key="item0708" Value="荒地の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0709" Value="泰然たる結晶"/>
-        <handlers:Item Key="item070A" Value="荒地の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item070B" Value="色あせた結晶"/>
-        <handlers:Item Key="item070C" Value="深海の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item070D" Value="溟海の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item070E" Value="深海の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item070F" Value="ゆがんだ結晶"/>
-        <handlers:Item Key="item0710" Value="瘴気の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0711" Value="黄昏の​​​​‍‍‏結晶"/>
-        <handlers:Item Key="item0712" Value="瘴気の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item06F8" Value="Bugtrappers: Fried Dragonfly"/>
+        <handlers:Item Key="item06F9" Value="Protectors: Dried Goldenfish"/>
+        <handlers:Item Key="item06FA" Value="Troupers: Horned Urchin"/>
+        <handlers:Item Key="item06FB" Value="Plunderers: Steamed Cricket"/>
+        <handlers:Item Key="item06FC" Value="Grimalkyne: Pot-au-magma"/>
+        <handlers:Item Key="item06FD" Value="Boaboa: Boaboa Bread"/>
+        <handlers:Item Key="item06FE" Value="Thermae Ticket"/>
+        <handlers:Item Key="item06FF" Value="Scratched Shell"/>
+        <handlers:Item Key="item0700" Value="Stonebill"/>
+        <handlers:Item Key="item0701" Value="Rime Beetle"/>
+        <handlers:Item Key="item0702" Value="Hot Spring Stone"/>
+        <handlers:Item Key="item0703" Value="Decayed Crystal"/>
+        <handlers:Item Key="item0704" Value="Forest Crystal"/>
+        <handlers:Item Key="item0705" Value="Prosperous Crystal"/>
+        <handlers:Item Key="item0706" Value="Guiding Forest Crystal"/>
+        <handlers:Item Key="item0707" Value="Cracked Crystal"/>
+        <handlers:Item Key="item0708" Value="Wasteland Crystal"/>
+        <handlers:Item Key="item0709" Value="Serene Crystal"/>
+        <handlers:Item Key="item070A" Value="Guiding Wasteland Crystal"/>
+        <handlers:Item Key="item070B" Value="Pale Crystal"/>
+        <handlers:Item Key="item070C" Value="Coral Crystal"/>
+        <handlers:Item Key="item070D" Value="Deepsea Crystal"/>
+        <handlers:Item Key="item070E" Value="Guiding Coral Crystal"/>
+        <handlers:Item Key="item070F" Value="Distorted Crystal"/>
+        <handlers:Item Key="item0710" Value="Effluvial Crystal"/>
+        <handlers:Item Key="item0711" Value="Twilight Crystal"/>
+        <handlers:Item Key="item0712" Value="Guiding Effluvial Crystal"/>
         <handlers:Item Key="item0713" Value="Item 1811"/>
         <handlers:Item Key="item0714" Value="Item 1812"/>
         <handlers:Item Key="item0715" Value="Item 1813"/>
@@ -1844,22 +1844,22 @@
         <handlers:Item Key="item0718" Value="Item 1816"/>
         <handlers:Item Key="item0719" Value="Item 1817"/>
         <handlers:Item Key="item071A" Value="Item 1818"/>
-        <handlers:Item Key="item071B" Value="草むした大骨"/>
-        <handlers:Item Key="item071C" Value="深緑の​​​​‍‍‏大骨"/>
-        <handlers:Item Key="item071D" Value="龍脈に眠る大骨"/>
-        <handlers:Item Key="item071E" Value="導きの​​​​‍‍‏龍骨【森林】"/>
-        <handlers:Item Key="item071F" Value="風化した岩骨"/>
-        <handlers:Item Key="item0720" Value="荒地の​​​​‍‍‏岩骨"/>
-        <handlers:Item Key="item0721" Value="龍脈に鍛えられし岩骨"/>
-        <handlers:Item Key="item0722" Value="導きの​​​​‍‍‏龍骨【荒地】"/>
-        <handlers:Item Key="item0723" Value="鮮やかな紅骨"/>
-        <handlers:Item Key="item0724" Value="妖艶な紅骨"/>
-        <handlers:Item Key="item0725" Value="龍脈に染まりし紅骨"/>
-        <handlers:Item Key="item0726" Value="導きの​​​​‍‍‏龍骨【陸珊瑚】"/>
-        <handlers:Item Key="item0727" Value="異形の​​​​‍‍‏狂骨"/>
-        <handlers:Item Key="item0728" Value="瘴気を放つ狂骨"/>
-        <handlers:Item Key="item0729" Value="龍脈に侵されし狂骨"/>
-        <handlers:Item Key="item072A" Value="導きの​​​​‍‍‏龍骨【瘴気】"/>
+        <handlers:Item Key="item071B" Value="Mossy Greatbone"/>
+        <handlers:Item Key="item071C" Value="Woodland Greatbone"/>
+        <handlers:Item Key="item071D" Value="Slumbering Greatbone"/>
+        <handlers:Item Key="item071E" Value="Guiding Forest Dragonbone"/>
+        <handlers:Item Key="item071F" Value="Weathered Cragbone"/>
+        <handlers:Item Key="item0720" Value="Wasteland Cragbone"/>
+        <handlers:Item Key="item0721" Value="Tempered Cragbone"/>
+        <handlers:Item Key="item0722" Value="Guiding Wasteland Dragonbone"/>
+        <handlers:Item Key="item0723" Value="Vivid Crimsonbone"/>
+        <handlers:Item Key="item0724" Value="Coral Crimsonbone"/>
+        <handlers:Item Key="item0725" Value="Vibrant Crimsonbone"/>
+        <handlers:Item Key="item0726" Value="Guiding Coral Dragonbone"/>
+        <handlers:Item Key="item0727" Value="Malformed Frenzybone"/>
+        <handlers:Item Key="item0728" Value="Effluvial Frenzybone"/>
+        <handlers:Item Key="item0729" Value="Afflicted Frenzybone"/>
+        <handlers:Item Key="item072A" Value="Guiding Rotted Dragonbone"/>
         <handlers:Item Key="item072B" Value="Item 1835"/>
         <handlers:Item Key="item072C" Value="Item 1836"/>
         <handlers:Item Key="item072D" Value="Item 1837"/>
@@ -1868,55 +1868,55 @@
         <handlers:Item Key="item0730" Value="Item 1840"/>
         <handlers:Item Key="item0731" Value="Item 1841"/>
         <handlers:Item Key="item0732" Value="Item 1842"/>
-        <handlers:Item Key="item0733" Value="龍脈の​​​​‍‍‏強竜骨"/>
-        <handlers:Item Key="item0734" Value="龍脈の​​​​‍‍‏重竜骨"/>
-        <handlers:Item Key="item0735" Value="龍脈の​​​​‍‍‏剛竜骨"/>
-        <handlers:Item Key="item0736" Value="龍脈の​​​​‍‍‏古龍骨"/>
+        <handlers:Item Key="item0733" Value="Fierce Dragonvein Bone"/>
+        <handlers:Item Key="item0734" Value="Heavy Dragonvein Bone"/>
+        <handlers:Item Key="item0735" Value="Dragonvein Solidbone"/>
+        <handlers:Item Key="item0736" Value="Elder Dragonvein Bone"/>
         <handlers:Item Key="item0737" Value="Item 1847"/>
-        <handlers:Item Key="item0738" Value="霊脈の​​​​‍‍‏重竜骨"/>
-        <handlers:Item Key="item0739" Value="霊脈の​​​​‍‍‏剛竜骨"/>
-        <handlers:Item Key="item073A" Value="霊脈の​​​​‍‍‏古龍骨"/>
-        <handlers:Item Key="item073B" Value="霊脈玉の​​​​‍‍‏かけら"/>
-        <handlers:Item Key="item073C" Value="霊脈玉"/>
-        <handlers:Item Key="item073D" Value="霊脈玉"/>
-        <handlers:Item Key="item073E" Value="雄々しきたてがみ"/>
+        <handlers:Item Key="item0738" Value="Spiritvein Slogbone"/>
+        <handlers:Item Key="item0739" Value="Spiritvein Solidbone"/>
+        <handlers:Item Key="item073A" Value="Elder Spiritvein Bone"/>
+        <handlers:Item Key="item073B" Value="Spiritvein Gem Shard"/>
+        <handlers:Item Key="item073C" Value="Spiritvein Gem"/>
+        <handlers:Item Key="item073D" Value="Great Spiritvein Gem"/>
+        <handlers:Item Key="item073E" Value="Rugged Mane"/>
         <handlers:Item Key="item073F" Value="Item 1855"/>
-        <handlers:Item Key="item0740" Value="艶やかな飾り羽"/>
+        <handlers:Item Key="item0740" Value="Colorful Plume"/>
         <handlers:Item Key="item0741" Value="Item 1857"/>
-        <handlers:Item Key="item0742" Value="毒袋"/>
-        <handlers:Item Key="item0743" Value="毒袋"/>
-        <handlers:Item Key="item0744" Value="潤いに満ちた喉袋"/>
-        <handlers:Item Key="item0745" Value="大水袋"/>
-        <handlers:Item Key="item0746" Value="泥の​​​​‍‍‏王冠殻"/>
-        <handlers:Item Key="item0747" Value="歴戦の​​​​‍‍‏王冠殻"/>
+        <handlers:Item Key="item0742" Value="Fragrant Poison Sac"/>
+        <handlers:Item Key="item0743" Value="Tempered Poison Sac"/>
+        <handlers:Item Key="item0744" Value="Hydrated Sac"/>
+        <handlers:Item Key="item0745" Value="Tempered Torrent Sac"/>
+        <handlers:Item Key="item0746" Value="Muddy Crown"/>
+        <handlers:Item Key="item0747" Value="Tempered Crown"/>
         <handlers:Item Key="item0748" Value="Item 1864"/>
         <handlers:Item Key="item0749" Value="Item 1865"/>
         <handlers:Item Key="item074A" Value="Item 1866"/>
         <handlers:Item Key="item074B" Value="Item 1867"/>
-        <handlers:Item Key="item074C" Value="まばゆい雷光針"/>
-        <handlers:Item Key="item074D" Value="歴戦の​​​​‍‍‏雷光針"/>
+        <handlers:Item Key="item074C" Value="Blinding Cathode"/>
+        <handlers:Item Key="item074D" Value="Tempered Cathode"/>
         <handlers:Item Key="item074E" Value="Item 1870"/>
         <handlers:Item Key="item074F" Value="Item 1871"/>
-        <handlers:Item Key="item0750" Value="古強者の​​​​‍‍‏巨大な角"/>
-        <handlers:Item Key="item0751" Value="歴戦の​​​​‍‍‏巨大な角"/>
-        <handlers:Item Key="item0752" Value="ゆらめく炎の​​​​‍‍‏毛皮"/>
-        <handlers:Item Key="item0753" Value="歴戦の​​​​‍‍‏炎毛皮"/>
-        <handlers:Item Key="item0754" Value="ざわめく雷の​​​​‍‍‏毛皮"/>
-        <handlers:Item Key="item0755" Value="歴戦の​​​​‍‍‏雷毛皮"/>
-        <handlers:Item Key="item0756" Value="女王の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0757" Value="歴戦の​​​​‍‍‏竜鱗【緑】"/>
-        <handlers:Item Key="item0758" Value="桜花の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0759" Value="桜花の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item075A" Value="ギラつく閃光膜"/>
+        <handlers:Item Key="item0750" Value="Ancient Great Horn"/>
+        <handlers:Item Key="item0751" Value="Tempered Great Horn"/>
+        <handlers:Item Key="item0752" Value="Flickering Flamepelt"/>
+        <handlers:Item Key="item0753" Value="Tempered Flamepelt"/>
+        <handlers:Item Key="item0754" Value="Crackling Thunderpelt"/>
+        <handlers:Item Key="item0755" Value="Tempered Thunderpelt"/>
+        <handlers:Item Key="item0756" Value="Queen's Scale"/>
+        <handlers:Item Key="item0757" Value="Tempered Green Scale"/>
+        <handlers:Item Key="item0758" Value="Pink Scale"/>
+        <handlers:Item Key="item0759" Value="Tempered Pink Scale"/>
+        <handlers:Item Key="item075A" Value="Dazzling Photophore+"/>
         <handlers:Item Key="item075B" Value="Item 1883"/>
-        <handlers:Item Key="item075C" Value="超弾力ゴム殻"/>
-        <handlers:Item Key="item075D" Value="超弾力ゴム殻"/>
-        <handlers:Item Key="item075E" Value="漆黒の​​​​‍‍‏高級毛皮"/>
-        <handlers:Item Key="item075F" Value="歴戦の​​​​‍‍‏黒毛皮"/>
-        <handlers:Item Key="item0760" Value="闇夜の​​​​‍‍‏頭巾殻"/>
+        <handlers:Item Key="item075C" Value="Rubbery Shell"/>
+        <handlers:Item Key="item075D" Value="Tempered Rubbery Shell"/>
+        <handlers:Item Key="item075E" Value="Obsidian Fur"/>
+        <handlers:Item Key="item075F" Value="Tempered Hide"/>
+        <handlers:Item Key="item0760" Value="Night Hood"/>
         <handlers:Item Key="item0761" Value="Item 1889"/>
-        <handlers:Item Key="item0762" Value="墨染めの​​​​‍‍‏重油殻"/>
-        <handlers:Item Key="item0763" Value="歴戦の​​​​‍‍‏重油殻"/>
+        <handlers:Item Key="item0762" Value="Inkstained Oilshell+"/>
+        <handlers:Item Key="item0763" Value="Tempered Oilshell+"/>
         <handlers:Item Key="item0764" Value="Item 1892"/>
         <handlers:Item Key="item0765" Value="Item 1893"/>
         <handlers:Item Key="item0766" Value="Item 1894"/>
@@ -1925,61 +1925,61 @@
         <handlers:Item Key="item0769" Value="Item 1897"/>
         <handlers:Item Key="item076A" Value="Item 1898"/>
         <handlers:Item Key="item076B" Value="Item 1899"/>
-        <handlers:Item Key="item076C" Value="禍々しい銀狼毛"/>
-        <handlers:Item Key="item076D" Value="歴戦の​​​​‍‍‏銀狼毛"/>
-        <handlers:Item Key="item076E" Value="滑らかな氷皮"/>
-        <handlers:Item Key="item076F" Value="歴戦の​​​​‍‍‏氷皮"/>
+        <handlers:Item Key="item076C" Value="Sinister Silverpelt"/>
+        <handlers:Item Key="item076D" Value="Tempered Silverpelt"/>
+        <handlers:Item Key="item076E" Value="Smooth Icehide"/>
+        <handlers:Item Key="item076F" Value="Tempered Icehide"/>
         <handlers:Item Key="item0770" Value="Item 1904"/>
         <handlers:Item Key="item0771" Value="Item 1905"/>
-        <handlers:Item Key="item0772" Value="命断ち切る惨爪"/>
-        <handlers:Item Key="item0773" Value="歴戦の​​​​‍‍‏惨爪"/>
-        <handlers:Item Key="item0774" Value="魂切り裂く兇爪"/>
-        <handlers:Item Key="item0775" Value="歴戦の​​​​‍‍‏兇爪"/>
-        <handlers:Item Key="item0776" Value="王者の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0777" Value="歴戦の​​​​‍‍‏竜鱗【赤】"/>
-        <handlers:Item Key="item0778" Value="蒼天の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item0779" Value="蒼天の​​​​‍‍‏竜鱗"/>
-        <handlers:Item Key="item077A" Value="勇壮なねじれた角"/>
-        <handlers:Item Key="item077B" Value="歴戦の​​​​‍‍‏ねじれた角"/>
-        <handlers:Item Key="item077C" Value="暴君の​​​​‍‍‏黒巻き角"/>
-        <handlers:Item Key="item077D" Value="歴戦の​​​​‍‍‏黒巻き角"/>
-        <handlers:Item Key="item077E" Value="暗殺者の​​​​‍‍‏刃翼"/>
-        <handlers:Item Key="item077F" Value="歴戦の​​​​‍‍‏刃翼"/>
-        <handlers:Item Key="item0780" Value="灼炎の​​​​‍‍‏断剣尾"/>
-        <handlers:Item Key="item0781" Value="歴戦の​​​​‍‍‏断剣尾"/>
-        <handlers:Item Key="item0782" Value="研ぎ澄まされた斬鉄尾"/>
-        <handlers:Item Key="item0783" Value="歴戦の​​​​‍‍‏斬鉄尾"/>
+        <handlers:Item Key="item0772" Value="Fatal Rendclaw"/>
+        <handlers:Item Key="item0773" Value="Tempered Rendclaw"/>
+        <handlers:Item Key="item0774" Value="Soulrender Talon"/>
+        <handlers:Item Key="item0775" Value="Tempered Talon"/>
+        <handlers:Item Key="item0776" Value="King's Scale"/>
+        <handlers:Item Key="item0777" Value="Tempered Red Scale"/>
+        <handlers:Item Key="item0778" Value="Azure Scale"/>
+        <handlers:Item Key="item0779" Value="Tempered Azure Scale"/>
+        <handlers:Item Key="item077A" Value="Twisted Bravehorn"/>
+        <handlers:Item Key="item077B" Value="Twisted Temperhorn"/>
+        <handlers:Item Key="item077C" Value="Blackcurl Tyranthorn"/>
+        <handlers:Item Key="item077D" Value="Blackcurl Temperhorn"/>
+        <handlers:Item Key="item077E" Value="Assassin Cutwing"/>
+        <handlers:Item Key="item077F" Value="Tempered Cutwing"/>
+        <handlers:Item Key="item0780" Value="Smoldering Tailedge"/>
+        <handlers:Item Key="item0781" Value="Tempered Tailedge"/>
+        <handlers:Item Key="item0782" Value="Honed Tailblade"/>
+        <handlers:Item Key="item0783" Value="Tempered Tailblade"/>
         <handlers:Item Key="item0784" Value="Item 1924"/>
         <handlers:Item Key="item0785" Value="Item 1925"/>
-        <handlers:Item Key="item0786" Value="強者の​​​​‍‍‏アギト"/>
-        <handlers:Item Key="item0787" Value="歴戦の​​​​‍‍‏アギト"/>
-        <handlers:Item Key="item0788" Value="戦慄の​​​​‍‍‏黒アギト"/>
-        <handlers:Item Key="item0789" Value="歴戦の​​​​‍‍‏黒アギト"/>
-        <handlers:Item Key="item078A" Value="みなぎる雷電殻"/>
-        <handlers:Item Key="item078B" Value="歴戦の​​​​‍‍‏雷電殻"/>
+        <handlers:Item Key="item0786" Value="Strongman's Jaw"/>
+        <handlers:Item Key="item0787" Value="Tempered Jaw"/>
+        <handlers:Item Key="item0788" Value="Shuddering Darkjaw"/>
+        <handlers:Item Key="item0789" Value="Tempered Ebonjaw"/>
+        <handlers:Item Key="item078A" Value="Charged Deathly Shocker"/>
+        <handlers:Item Key="item078B" Value="Tempered Shocker"/>
         <handlers:Item Key="item078C" Value="Item 1932"/>
         <handlers:Item Key="item078D" Value="Item 1933"/>
-        <handlers:Item Key="item078E" Value="血に染まる漆黒皮"/>
-        <handlers:Item Key="item078F" Value="歴戦の​​​​‍‍‏漆黒皮"/>
-        <handlers:Item Key="item0790" Value="荘厳なる蒼角"/>
-        <handlers:Item Key="item0791" Value="歴戦の​​​​‍‍‏蒼角"/>
-        <handlers:Item Key="item0792" Value="獄炎の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0793" Value="歴戦の​​​​‍‍‏紅きたてがみ"/>
-        <handlers:Item Key="item0794" Value="嵐を呼ぶ鋼翼"/>
-        <handlers:Item Key="item0795" Value="歴戦の​​​​‍‍‏鋼翼"/>
-        <handlers:Item Key="item0796" Value="蒼炎の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0797" Value="蒼炎の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0798" Value="極光の​​​​‍‍‏冠角"/>
-        <handlers:Item Key="item0799" Value="歴戦の​​​​‍‍‏王冠殻"/>
-        <handlers:Item Key="item079A" Value="宵闇より昏き牙"/>
-        <handlers:Item Key="item079B" Value="宵闇より昏き牙"/>
-        <handlers:Item Key="item079C" Value="幻惑する特上皮"/>
-        <handlers:Item Key="item079D" Value="歴戦の​​​​‍‍‏幻惑皮"/>
-        <handlers:Item Key="item079E" Value="生者必滅の​​​​‍‍‏大剛角"/>
+        <handlers:Item Key="item078E" Value="Bloodstained Ebonhide"/>
+        <handlers:Item Key="item078F" Value="Spattered Hide"/>
+        <handlers:Item Key="item0790" Value="Solemn Azure Horn"/>
+        <handlers:Item Key="item0791" Value="Tempered Azure Horn"/>
+        <handlers:Item Key="item0792" Value="Hellfire Mane"/>
+        <handlers:Item Key="item0793" Value="Tempered Crimson Mane"/>
+        <handlers:Item Key="item0794" Value="Stormcall Steelwing"/>
+        <handlers:Item Key="item0795" Value="Tempered Steelwing"/>
+        <handlers:Item Key="item0796" Value="Azure Mane"/>
+        <handlers:Item Key="item0797" Value="Tempered Azure Mane"/>
+        <handlers:Item Key="item0798" Value="Aurora Crownhorn"/>
+        <handlers:Item Key="item0799" Value="Tempered Crownhorn"/>
+        <handlers:Item Key="item079A" Value="Twilight Fang"/>
+        <handlers:Item Key="item079B" Value="Tempered Twilight Fang"/>
+        <handlers:Item Key="item079C" Value="Enchanting Finehide"/>
+        <handlers:Item Key="item079D" Value="Tempered Trancehide"/>
+        <handlers:Item Key="item079E" Value="Extinction Greathorn"/>
         <handlers:Item Key="item079F" Value="Item 1951"/>
-        <handlers:Item Key="item07A0" Value="月光の​​​​‍‍‏竜鱗"/>
+        <handlers:Item Key="item07A0" Value="Moonlight Scale"/>
         <handlers:Item Key="item07A1" Value="Item 1953"/>
-        <handlers:Item Key="item07A2" Value="烈日の​​​​‍‍‏竜鱗"/>
+        <handlers:Item Key="item07A2" Value="Scorching Scale"/>
         <handlers:Item Key="item07A3" Value="Item 1955"/>
         <handlers:Item Key="item07A4" Value="Item 1956"/>
         <handlers:Item Key="item07A5" Value="Item 1957"/>
@@ -1989,315 +1989,315 @@
         <handlers:Item Key="item07A9" Value="Item 1961"/>
         <handlers:Item Key="item07AA" Value="Item 1962"/>
         <handlers:Item Key="item07AB" Value="Item 1963"/>
-        <handlers:Item Key="item07AC" Value="照準切替"/>
+        <handlers:Item Key="item07AC" Value="Special Scope"/>
         <handlers:Item Key="item07AD" Value="古代竜人の大手形"/>
         <handlers:Item Key="item07AE" Value="スチームチケット"/>
-        <handlers:Item Key="item07AF" Value="龍脈炭"/>
-        <handlers:Item Key="item07B0" Value="転福珠【３】"/>
-        <handlers:Item Key="item07B1" Value="守勢珠【２】"/>
-        <handlers:Item Key="item07B2" Value="耐暑珠【２】"/>
-        <handlers:Item Key="item07B3" Value="耐火珠Ⅱ【４】"/>
-        <handlers:Item Key="item07B4" Value="耐水珠Ⅱ【４】"/>
-        <handlers:Item Key="item07B5" Value="耐氷珠Ⅱ【４】"/>
-        <handlers:Item Key="item07B6" Value="耐雷珠Ⅱ【４】"/>
-        <handlers:Item Key="item07B7" Value="耐龍珠Ⅱ【４】"/>
-        <handlers:Item Key="item07B8" Value="火炎珠Ⅱ【４】"/>
-        <handlers:Item Key="item07B9" Value="流水珠Ⅱ【４】"/>
-        <handlers:Item Key="item07BA" Value="氷結珠Ⅱ【４】"/>
-        <handlers:Item Key="item07BB" Value="雷光珠Ⅱ【４】"/>
-        <handlers:Item Key="item07BC" Value="破龍珠Ⅱ【４】"/>
-        <handlers:Item Key="item07BD" Value="毒珠Ⅱ【４】"/>
-        <handlers:Item Key="item07BE" Value="麻痺珠Ⅱ【４】"/>
-        <handlers:Item Key="item07BF" Value="睡眠珠Ⅱ【４】"/>
-        <handlers:Item Key="item07C0" Value="爆破珠Ⅱ【４】"/>
-        <handlers:Item Key="item07C1" Value="耐火珠Ⅲ【４】"/>
-        <handlers:Item Key="item07C2" Value="耐水珠Ⅲ【４】"/>
-        <handlers:Item Key="item07C3" Value="耐氷珠Ⅲ【４】"/>
-        <handlers:Item Key="item07C4" Value="耐雷珠Ⅲ【４】"/>
-        <handlers:Item Key="item07C5" Value="耐龍珠Ⅲ【４】"/>
-        <handlers:Item Key="item07C6" Value="解毒薬"/>
-        <handlers:Item Key="item07C7" Value="耐麻珠Ⅱ【４】"/>
-        <handlers:Item Key="item07C8" Value="耐眠珠Ⅱ【４】"/>
-        <handlers:Item Key="item07C9" Value="耐絶珠Ⅱ【４】"/>
-        <handlers:Item Key="item07CA" Value="耐爆珠Ⅱ【４】"/>
-        <handlers:Item Key="item07CB" Value="耐裂珠Ⅱ【４】"/>
-        <handlers:Item Key="item07CC" Value="耐防珠Ⅱ【４】"/>
-        <handlers:Item Key="item07CD" Value="耐瘴珠Ⅱ【４】"/>
-        <handlers:Item Key="item07CE" Value="無食珠Ⅱ【４】"/>
-        <handlers:Item Key="item07CF" Value="早復珠Ⅱ【４】"/>
-        <handlers:Item Key="item07D0" Value="潜伏珠Ⅱ【４】"/>
-        <handlers:Item Key="item07D1" Value="威嚇珠Ⅱ【４】"/>
-        <handlers:Item Key="item07D2" Value="采配珠Ⅱ【４】"/>
-        <handlers:Item Key="item07D3" Value="潜伏珠Ⅲ【４】"/>
-        <handlers:Item Key="item07D4" Value="威嚇珠Ⅲ【４】"/>
-        <handlers:Item Key="item07D5" Value="采配珠Ⅲ【４】"/>
-        <handlers:Item Key="item07D6" Value="特射珠Ⅱ【４】"/>
-        <handlers:Item Key="item07D7" Value="砲術珠Ⅱ【４】"/>
-        <handlers:Item Key="item07D8" Value="植学珠Ⅱ【４】"/>
-        <handlers:Item Key="item07D9" Value="地学珠Ⅱ【４】"/>
-        <handlers:Item Key="item07DA" Value="環境珠Ⅱ【４】"/>
-        <handlers:Item Key="item07DB" Value="沼渡珠Ⅱ【４】"/>
-        <handlers:Item Key="item07DC" Value="標本珠Ⅱ【４】"/>
-        <handlers:Item Key="item07DD" Value="鼓笛珠Ⅱ【４】"/>
-        <handlers:Item Key="item07DE" Value="植学珠Ⅱ【４】"/>
-        <handlers:Item Key="item07DF" Value="地学珠Ⅲ【４】"/>
-        <handlers:Item Key="item07E0" Value="環境珠Ⅲ【４】"/>
-        <handlers:Item Key="item07E1" Value="標本珠Ⅲ【４】"/>
-        <handlers:Item Key="item07E2" Value="持続珠Ⅱ【４】"/>
-        <handlers:Item Key="item07E3" Value="防御珠Ⅱ【４】"/>
-        <handlers:Item Key="item07E4" Value="持続珠Ⅲ【４】"/>
-        <handlers:Item Key="item07E5" Value="防御珠Ⅲ【４】"/>
-        <handlers:Item Key="item07E6" Value="砲術珠Ⅱ【４】"/>
-        <handlers:Item Key="item07E7" Value="防音珠Ⅱ【４】"/>
-        <handlers:Item Key="item07E8" Value="防風珠Ⅱ【４】"/>
-        <handlers:Item Key="item07E9" Value="攻撃珠Ⅱ【４】"/>
-        <handlers:Item Key="item07EA" Value="達人珠Ⅱ【４】"/>
-        <handlers:Item Key="item07EB" Value="匠珠Ⅱ【４】"/>
-        <handlers:Item Key="item07EC" Value="全開珠Ⅱ【４】"/>
-        <handlers:Item Key="item07ED" Value="挑戦珠Ⅱ【４】"/>
-        <handlers:Item Key="item07EE" Value="底力珠Ⅱ【４】"/>
-        <handlers:Item Key="item07EF" Value="逆上珠Ⅱ【４】"/>
-        <handlers:Item Key="item07F0" Value="体術珠Ⅱ【４】"/>
-        <handlers:Item Key="item07F1" Value="回避珠Ⅱ【４】"/>
-        <handlers:Item Key="item07F2" Value="鉄壁珠Ⅱ【４】"/>
-        <handlers:Item Key="item07F3" Value="友愛珠Ⅱ【４】"/>
-        <handlers:Item Key="item07F4" Value="奪気・体術珠【４】"/>
-        <handlers:Item Key="item07F5" Value="逆境・体術珠【４】"/>
-        <handlers:Item Key="item07F6" Value="窮地・体術珠【４】"/>
-        <handlers:Item Key="item07F7" Value="鉄壁・体術珠【４】"/>
-        <handlers:Item Key="item07F8" Value="友愛・体術珠【４】"/>
-        <handlers:Item Key="item07F9" Value="節食・体術珠【４】"/>
-        <handlers:Item Key="item07FA" Value="石ころ"/>
-        <handlers:Item Key="item07FB" Value="耐属・体術珠【４】"/>
-        <handlers:Item Key="item07FC" Value="飛燕・体術珠【４】"/>
-        <handlers:Item Key="item07FD" Value="強走・体術珠【４】"/>
-        <handlers:Item Key="item07FE" Value="早気・体術珠【４】"/>
-        <handlers:Item Key="item07FF" Value="跳躍・体術珠【４】"/>
-        <handlers:Item Key="item0800" Value="速納・体術珠【４】"/>
-        <handlers:Item Key="item0801" Value="早食・体術珠【４】"/>
-        <handlers:Item Key="item0802" Value="研磨・体術珠【４】"/>
-        <handlers:Item Key="item0803" Value="爆師・体術珠【４】"/>
-        <handlers:Item Key="item0804" Value="茸好・体術珠【４】"/>
-        <handlers:Item Key="item0805" Value="滑走・体術珠【４】"/>
-        <handlers:Item Key="item0806" Value="守勢・体術珠【４】"/>
-        <handlers:Item Key="item0807" Value="奪気・回避珠【４】"/>
-        <handlers:Item Key="item0808" Value="逆境・回避珠【４】"/>
-        <handlers:Item Key="item0809" Value="窮地・回避珠【４】"/>
-        <handlers:Item Key="item080A" Value="鉄壁・回避珠【４】"/>
-        <handlers:Item Key="item080B" Value="友愛・回避珠【４】"/>
-        <handlers:Item Key="item080C" Value="節食・回避珠【４】"/>
-        <handlers:Item Key="item080D" Value="石ころ"/>
-        <handlers:Item Key="item080E" Value="耐属・回避珠【４】"/>
-        <handlers:Item Key="item080F" Value="飛燕・回避珠【４】"/>
-        <handlers:Item Key="item0810" Value="強走・回避珠【４】"/>
-        <handlers:Item Key="item0811" Value="早気・回避珠【４】"/>
-        <handlers:Item Key="item0812" Value="跳躍・回避珠【４】"/>
-        <handlers:Item Key="item0813" Value="速納・回避珠【４】"/>
-        <handlers:Item Key="item0814" Value="早食・回避珠【４】"/>
-        <handlers:Item Key="item0815" Value="研磨・回避珠【４】"/>
-        <handlers:Item Key="item0816" Value="爆師・回避珠【４】"/>
-        <handlers:Item Key="item0817" Value="茸好・回避珠【４】"/>
-        <handlers:Item Key="item0818" Value="滑走・回避珠【４】"/>
-        <handlers:Item Key="item0819" Value="守勢・回避珠【４】"/>
-        <handlers:Item Key="item081A" Value="奪気・攻撃珠【４】"/>
-        <handlers:Item Key="item081B" Value="逆境・攻撃珠【４】"/>
-        <handlers:Item Key="item081C" Value="窮地・攻撃珠【４】"/>
-        <handlers:Item Key="item081D" Value="鉄壁・攻撃珠【４】"/>
-        <handlers:Item Key="item081E" Value="友愛・攻撃珠【４】"/>
-        <handlers:Item Key="item081F" Value="節食・攻撃珠【４】"/>
-        <handlers:Item Key="item0820" Value="石ころ"/>
-        <handlers:Item Key="item0821" Value="耐属・攻撃珠【４】"/>
-        <handlers:Item Key="item0822" Value="飛燕・攻撃珠【４】"/>
-        <handlers:Item Key="item0823" Value="強走・攻撃珠【４】"/>
-        <handlers:Item Key="item0824" Value="早気・攻撃珠【４】"/>
-        <handlers:Item Key="item0825" Value="跳躍・攻撃珠【４】"/>
-        <handlers:Item Key="item0826" Value="速納・攻撃珠【４】"/>
-        <handlers:Item Key="item0827" Value="早食・攻撃珠【４】"/>
-        <handlers:Item Key="item0828" Value="研磨・攻撃珠【４】"/>
-        <handlers:Item Key="item0829" Value="爆師・攻撃珠【４】"/>
-        <handlers:Item Key="item082A" Value="茸好・攻撃珠【４】"/>
-        <handlers:Item Key="item082B" Value="滑走・攻撃珠【４】"/>
-        <handlers:Item Key="item082C" Value="守勢・攻撃珠【４】"/>
-        <handlers:Item Key="item082D" Value="奪気・達人珠【４】"/>
-        <handlers:Item Key="item082E" Value="逆境・達人珠【４】"/>
-        <handlers:Item Key="item082F" Value="窮地・達人珠【４】"/>
-        <handlers:Item Key="item0830" Value="鉄壁・達人珠【４】"/>
-        <handlers:Item Key="item0831" Value="友愛・達人珠【４】"/>
-        <handlers:Item Key="item0832" Value="節食・達人珠【４】"/>
-        <handlers:Item Key="item0833" Value="石ころ"/>
-        <handlers:Item Key="item0834" Value="耐属・達人珠【４】"/>
-        <handlers:Item Key="item0835" Value="飛燕・達人珠【４】"/>
-        <handlers:Item Key="item0836" Value="強走・達人珠【４】"/>
-        <handlers:Item Key="item0837" Value="早気・達人珠【４】"/>
-        <handlers:Item Key="item0838" Value="跳躍・達人珠【４】"/>
-        <handlers:Item Key="item0839" Value="速納・達人珠【４】"/>
-        <handlers:Item Key="item083A" Value="早食・達人珠【４】"/>
-        <handlers:Item Key="item083B" Value="研磨・達人珠【４】"/>
-        <handlers:Item Key="item083C" Value="爆師・達人珠【４】"/>
-        <handlers:Item Key="item083D" Value="茸好・達人珠【４】"/>
-        <handlers:Item Key="item083E" Value="滑走・達人珠【４】"/>
-        <handlers:Item Key="item083F" Value="守勢・達人珠【４】"/>
-        <handlers:Item Key="item0840" Value="奪気・解放珠【４】"/>
-        <handlers:Item Key="item0841" Value="逆境・解放珠【４】"/>
-        <handlers:Item Key="item0842" Value="窮地・解放珠【４】"/>
-        <handlers:Item Key="item0843" Value="鉄壁・解放珠【４】"/>
-        <handlers:Item Key="item0844" Value="友愛・解放珠【４】"/>
-        <handlers:Item Key="item0845" Value="節食・解放珠【４】"/>
-        <handlers:Item Key="item0846" Value="石ころ"/>
-        <handlers:Item Key="item0847" Value="耐属・解放珠【４】"/>
-        <handlers:Item Key="item0848" Value="飛燕・解放珠【４】"/>
-        <handlers:Item Key="item0849" Value="強走・解放珠【４】"/>
-        <handlers:Item Key="item084A" Value="早気・解放珠【４】"/>
-        <handlers:Item Key="item084B" Value="跳躍・解放珠【４】"/>
-        <handlers:Item Key="item084C" Value="速納・解放珠【４】"/>
-        <handlers:Item Key="item084D" Value="早食・解放珠【４】"/>
-        <handlers:Item Key="item084E" Value="研磨・解放珠【４】"/>
-        <handlers:Item Key="item084F" Value="爆師・解放珠【４】"/>
-        <handlers:Item Key="item0850" Value="茸好・解放珠【４】"/>
-        <handlers:Item Key="item0851" Value="滑走・解放珠【４】"/>
-        <handlers:Item Key="item0852" Value="守勢・解放珠【４】"/>
-        <handlers:Item Key="item0853" Value="奪気・匠珠【４】"/>
-        <handlers:Item Key="item0854" Value="逆境・匠珠【４】"/>
-        <handlers:Item Key="item0855" Value="窮地・匠珠【４】"/>
-        <handlers:Item Key="item0856" Value="鉄壁・匠珠【４】"/>
-        <handlers:Item Key="item0857" Value="友愛・匠珠【４】"/>
-        <handlers:Item Key="item0858" Value="節食・匠珠【４】"/>
-        <handlers:Item Key="item0859" Value="石ころ"/>
-        <handlers:Item Key="item085A" Value="耐属・匠珠【４】"/>
-        <handlers:Item Key="item085B" Value="飛燕・匠珠【４】"/>
-        <handlers:Item Key="item085C" Value="強走・匠珠【４】"/>
-        <handlers:Item Key="item085D" Value="早気・匠珠【４】"/>
-        <handlers:Item Key="item085E" Value="跳躍・匠珠【４】"/>
-        <handlers:Item Key="item085F" Value="速納・匠珠【４】"/>
-        <handlers:Item Key="item0860" Value="早食・匠珠【４】"/>
-        <handlers:Item Key="item0861" Value="研磨・匠珠【４】"/>
-        <handlers:Item Key="item0862" Value="爆師・匠珠【４】"/>
-        <handlers:Item Key="item0863" Value="茸好・匠珠【４】"/>
-        <handlers:Item Key="item0864" Value="滑走・匠珠【４】"/>
-        <handlers:Item Key="item0865" Value="守勢・匠珠【４】"/>
-        <handlers:Item Key="item0866" Value="耐震・加護珠【４】"/>
-        <handlers:Item Key="item0867" Value="短縮・加護珠【４】"/>
-        <handlers:Item Key="item0868" Value="昂揚・加護珠【４】"/>
-        <handlers:Item Key="item0869" Value="重撃・加護珠【４】"/>
-        <handlers:Item Key="item086A" Value="ＫＯ・加護珠【４】"/>
-        <handlers:Item Key="item086B" Value="底力・加護珠【４】"/>
-        <handlers:Item Key="item086C" Value="防風・加護珠【４】"/>
-        <handlers:Item Key="item086D" Value="抜刀・加護珠【４】"/>
-        <handlers:Item Key="item086E" Value="全開・加護珠【４】"/>
-        <handlers:Item Key="item086F" Value="挑戦・加護珠【４】"/>
-        <handlers:Item Key="item0870" Value="無傷・加護珠【４】"/>
-        <handlers:Item Key="item0871" Value="逆上・加護珠【４】"/>
-        <handlers:Item Key="item0872" Value="渾身・加護珠【４】"/>
-        <handlers:Item Key="item0873" Value="耐衝・加護珠【４】"/>
-        <handlers:Item Key="item0874" Value="転福・加護珠【４】"/>
-        <handlers:Item Key="item0875" Value="防音・加護珠【４】"/>
-        <handlers:Item Key="item0876" Value="超心・加護珠【４】"/>
-        <handlers:Item Key="item0877" Value="痛撃・加護珠【４】"/>
-        <handlers:Item Key="item0878" Value="匠・加護珠【４】"/>
-        <handlers:Item Key="item0879" Value="解放・加護珠【４】"/>
-        <handlers:Item Key="item087A" Value="耐震・治癒珠【４】"/>
-        <handlers:Item Key="item087B" Value="短縮・治癒珠【４】"/>
-        <handlers:Item Key="item087C" Value="昂揚・治癒珠【４】"/>
-        <handlers:Item Key="item087D" Value="重撃・治癒珠【４】"/>
-        <handlers:Item Key="item087E" Value="ＫＯ・治癒珠【４】"/>
-        <handlers:Item Key="item087F" Value="底力・治癒珠【４】"/>
-        <handlers:Item Key="item0880" Value="防風・治癒珠【４】"/>
-        <handlers:Item Key="item0881" Value="抜刀・治癒珠【４】"/>
-        <handlers:Item Key="item0882" Value="全開・治癒珠【４】"/>
-        <handlers:Item Key="item0883" Value="挑戦・治癒珠【４】"/>
-        <handlers:Item Key="item0884" Value="無傷・治癒珠【４】"/>
-        <handlers:Item Key="item0885" Value="逆上・治癒珠【４】"/>
-        <handlers:Item Key="item0886" Value="渾身・治癒珠【４】"/>
-        <handlers:Item Key="item0887" Value="耐衝・治癒珠【４】"/>
-        <handlers:Item Key="item0888" Value="転福・治癒珠【４】"/>
-        <handlers:Item Key="item0889" Value="防音・治癒珠【４】"/>
-        <handlers:Item Key="item088A" Value="超心・治癒珠【４】"/>
-        <handlers:Item Key="item088B" Value="痛撃・治癒珠【４】"/>
-        <handlers:Item Key="item088C" Value="匠・治癒珠【４】"/>
-        <handlers:Item Key="item088D" Value="解放・治癒珠【４】"/>
-        <handlers:Item Key="item088E" Value="耐震・体力珠【４】"/>
-        <handlers:Item Key="item088F" Value="短縮・体力珠【４】"/>
-        <handlers:Item Key="item0890" Value="昂揚・体力珠【４】"/>
-        <handlers:Item Key="item0891" Value="重撃・体力珠【４】"/>
-        <handlers:Item Key="item0892" Value="ＫＯ・体力珠【４】"/>
-        <handlers:Item Key="item0893" Value="底力・体力珠【４】"/>
-        <handlers:Item Key="item0894" Value="防風・体力珠【４】"/>
-        <handlers:Item Key="item0895" Value="抜刀・体力珠【４】"/>
-        <handlers:Item Key="item0896" Value="全開・体力珠【４】"/>
-        <handlers:Item Key="item0897" Value="挑戦・体力珠【４】"/>
-        <handlers:Item Key="item0898" Value="無傷・体力珠【４】"/>
-        <handlers:Item Key="item0899" Value="逆上・体力珠【４】"/>
-        <handlers:Item Key="item089A" Value="渾身・体力珠【４】"/>
-        <handlers:Item Key="item089B" Value="耐衝・体力珠【４】"/>
-        <handlers:Item Key="item089C" Value="転福・体力珠【４】"/>
-        <handlers:Item Key="item089D" Value="防音・体力珠【４】"/>
-        <handlers:Item Key="item089E" Value="超心・体力珠【４】"/>
-        <handlers:Item Key="item089F" Value="痛撃・体力珠【４】"/>
-        <handlers:Item Key="item08A0" Value="匠・体力珠【４】"/>
-        <handlers:Item Key="item08A1" Value="解放・体力珠【４】"/>
-        <handlers:Item Key="item08A2" Value="耐震・整備珠【４】"/>
-        <handlers:Item Key="item08A3" Value="短縮・整備珠【４】"/>
-        <handlers:Item Key="item08A4" Value="昂揚・整備珠【４】"/>
-        <handlers:Item Key="item08A5" Value="重撃・整備珠【４】"/>
-        <handlers:Item Key="item08A6" Value="ＫＯ・整備珠【４】"/>
-        <handlers:Item Key="item08A7" Value="底力・整備珠【４】"/>
-        <handlers:Item Key="item08A8" Value="防風・整備珠【４】"/>
-        <handlers:Item Key="item08A9" Value="抜刀・整備珠【４】"/>
-        <handlers:Item Key="item08AA" Value="全開・整備珠【４】"/>
-        <handlers:Item Key="item08AB" Value="挑戦・整備珠【４】"/>
-        <handlers:Item Key="item08AC" Value="無傷・整備珠【４】"/>
-        <handlers:Item Key="item08AD" Value="逆上・整備珠【４】"/>
-        <handlers:Item Key="item08AE" Value="渾身・整備珠【４】"/>
-        <handlers:Item Key="item08AF" Value="耐衝・整備珠【４】"/>
-        <handlers:Item Key="item08B0" Value="転福・整備珠【４】"/>
-        <handlers:Item Key="item08B1" Value="防音・整備珠【４】"/>
-        <handlers:Item Key="item08B2" Value="超心・整備珠【４】"/>
-        <handlers:Item Key="item08B3" Value="痛撃・整備珠【４】"/>
-        <handlers:Item Key="item08B4" Value="匠・整備珠【４】"/>
-        <handlers:Item Key="item08B5" Value="解放・整備珠【４】"/>
-        <handlers:Item Key="item08B6" Value="耐震・体術珠【４】"/>
-        <handlers:Item Key="item08B7" Value="短縮・体術珠【４】"/>
-        <handlers:Item Key="item08B8" Value="昂揚・体術珠【４】"/>
-        <handlers:Item Key="item08B9" Value="重撃・体術珠【４】"/>
-        <handlers:Item Key="item08BA" Value="ＫＯ・体術珠【４】"/>
-        <handlers:Item Key="item08BB" Value="底力・体術珠【４】"/>
-        <handlers:Item Key="item08BC" Value="防風・体術珠【４】"/>
-        <handlers:Item Key="item08BD" Value="抜刀・体術珠【４】"/>
-        <handlers:Item Key="item08BE" Value="全開・体術珠【４】"/>
-        <handlers:Item Key="item08BF" Value="挑戦・体術珠【４】"/>
-        <handlers:Item Key="item08C0" Value="無傷・体術珠【４】"/>
-        <handlers:Item Key="item08C1" Value="逆上・体術珠【４】"/>
-        <handlers:Item Key="item08C2" Value="渾身・体術珠【４】"/>
-        <handlers:Item Key="item08C3" Value="耐衝・体術珠【４】"/>
-        <handlers:Item Key="item08C4" Value="転福・体術珠【４】"/>
-        <handlers:Item Key="item08C5" Value="防音・体術珠【４】"/>
-        <handlers:Item Key="item08C6" Value="超心・体術珠【４】"/>
-        <handlers:Item Key="item08C7" Value="痛撃・体術珠【４】"/>
-        <handlers:Item Key="item08C8" Value="匠・体術珠【４】"/>
-        <handlers:Item Key="item08C9" Value="解放・体術珠【４】"/>
-        <handlers:Item Key="item08CA" Value="耐震・回避珠【４】"/>
-        <handlers:Item Key="item08CB" Value="短縮・回避珠【４】"/>
-        <handlers:Item Key="item08CC" Value="昂揚・回避珠【４】"/>
-        <handlers:Item Key="item08CD" Value="重撃・回避珠【４】"/>
-        <handlers:Item Key="item08CE" Value="ＫＯ・回避珠【４】"/>
-        <handlers:Item Key="item08CF" Value="底力・回避珠【４】"/>
-        <handlers:Item Key="item08D0" Value="防風・回避珠【４】"/>
-        <handlers:Item Key="item08D1" Value="抜刀・回避珠【４】"/>
-        <handlers:Item Key="item08D2" Value="全開・回避珠【４】"/>
-        <handlers:Item Key="item08D3" Value="挑戦・回避珠【４】"/>
-        <handlers:Item Key="item08D4" Value="無傷・回避珠【４】"/>
-        <handlers:Item Key="item08D5" Value="逆上・回避珠【４】"/>
-        <handlers:Item Key="item08D6" Value="渾身・回避珠【４】"/>
-        <handlers:Item Key="item08D7" Value="耐衝・回避珠【４】"/>
-        <handlers:Item Key="item08D8" Value="転福・回避珠【４】"/>
-        <handlers:Item Key="item08D9" Value="防音・回避珠【４】"/>
-        <handlers:Item Key="item08DA" Value="超心・回避珠【４】"/>
-        <handlers:Item Key="item08DB" Value="痛撃・回避珠【４】"/>
-        <handlers:Item Key="item08DC" Value="匠・回避珠【４】"/>
-        <handlers:Item Key="item08DD" Value="解放・回避珠【４】"/>
-        <handlers:Item Key="item08DE" Value="環境珠【１】"/>
+        <handlers:Item Key="item07AF" Value="Giant Dragonvein Coal"/>
+        <handlers:Item Key="item07B0" Value="Phoenix Jewel 3"/>
+        <handlers:Item Key="item07B1" Value="Guardian Jewel 2"/>
+        <handlers:Item Key="item07B2" Value="Cooling Jewel 2"/>
+        <handlers:Item Key="item07B3" Value="Fire Res Jewel+ 4"/>
+        <handlers:Item Key="item07B4" Value="Water Res Jewel+ 4"/>
+        <handlers:Item Key="item07B5" Value="Ice Res Jewel+ 4"/>
+        <handlers:Item Key="item07B6" Value="Thunder Res Jewel+ 4"/>
+        <handlers:Item Key="item07B7" Value="Dragon Res Jewel+ 4"/>
+        <handlers:Item Key="item07B8" Value="Blaze Jewel+ 4"/>
+        <handlers:Item Key="item07B9" Value="Stream Jewel+ 4"/>
+        <handlers:Item Key="item07BA" Value="Frost Jewel+ 4"/>
+        <handlers:Item Key="item07BB" Value="Bolt Jewel+ 4"/>
+        <handlers:Item Key="item07BC" Value="Dragon Jewel+ 4"/>
+        <handlers:Item Key="item07BD" Value="Venom Jewel+ 4"/>
+        <handlers:Item Key="item07BE" Value="Paralyzer Jewel+ 4"/>
+        <handlers:Item Key="item07BF" Value="Sleep Jewel+ 4"/>
+        <handlers:Item Key="item07C0" Value="Blast Jewel+ 4"/>
+        <handlers:Item Key="item07C1" Value="Hard Fire Res Jewel 4"/>
+        <handlers:Item Key="item07C2" Value="Hard Water Res Jewel 4"/>
+        <handlers:Item Key="item07C3" Value="Hard Ice Res Jewel 4"/>
+        <handlers:Item Key="item07C4" Value="Hard Thunder Res Jewel 4"/>
+        <handlers:Item Key="item07C5" Value="Hard Dragon Res Jewel 4"/>
+        <handlers:Item Key="item07C6" Value="Antidote Jewel+ 4"/>
+        <handlers:Item Key="item07C7" Value="Antipara Jewel+ 4"/>
+        <handlers:Item Key="item07C8" Value="Pep Jewel+ 4"/>
+        <handlers:Item Key="item07C9" Value="Steadfast Jewel+ 4"/>
+        <handlers:Item Key="item07CA" Value="Antiblast Jewel+ 4"/>
+        <handlers:Item Key="item07CB" Value="Suture Jewel+ 4"/>
+        <handlers:Item Key="item07CC" Value="Def Lock Jewel+ 4"/>
+        <handlers:Item Key="item07CD" Value="Miasma Jewel+ 4"/>
+        <handlers:Item Key="item07CE" Value="Hungerless Jewel+ 4"/>
+        <handlers:Item Key="item07CF" Value="Recovery Jewel+ 4"/>
+        <handlers:Item Key="item07D0" Value="Tip Toe Jewel+ 4"/>
+        <handlers:Item Key="item07D1" Value="Intimidator Jewel+ 4"/>
+        <handlers:Item Key="item07D2" Value="Meowster Jewel+ 4"/>
+        <handlers:Item Key="item07D3" Value="Hard Tip Toe Jewel 4"/>
+        <handlers:Item Key="item07D4" Value="Hard Intimidator Jewel 4"/>
+        <handlers:Item Key="item07D5" Value="Hard Meowster Jewel 4"/>
+        <handlers:Item Key="item07D6" Value="Trueshot Jewel+ 4"/>
+        <handlers:Item Key="item07D7" Value="Heavy Artillery Jewel+ 4"/>
+        <handlers:Item Key="item07D8" Value="Botany Jewel+ 4"/>
+        <handlers:Item Key="item07D9" Value="Geology Jewel+ 4"/>
+        <handlers:Item Key="item07DA" Value="Survival Jewel+ 4"/>
+        <handlers:Item Key="item07DB" Value="Mirewalker Jewel+ 4"/>
+        <handlers:Item Key="item07DC" Value="Specimen Jewel+ 4"/>
+        <handlers:Item Key="item07DD" Value="Sonorous Jewel+ 4"/>
+        <handlers:Item Key="item07DE" Value="Hard Botany Jewel+ 4"/>
+        <handlers:Item Key="item07DF" Value="Hard Geology Jewel 4"/>
+        <handlers:Item Key="item07E0" Value="Hard Survival Jewel 4"/>
+        <handlers:Item Key="item07E1" Value="Hard Specimen Jewel 4"/>
+        <handlers:Item Key="item07E2" Value="Enduring Jewel+ 4"/>
+        <handlers:Item Key="item07E3" Value="Defense Jewel+ 4"/>
+        <handlers:Item Key="item07E4" Value="Hard Enduring Jewel 4"/>
+        <handlers:Item Key="item07E5" Value="Hard Defense Jewel 4"/>
+        <handlers:Item Key="item07E6" Value="Artillery Jewel+ 4"/>
+        <handlers:Item Key="item07E7" Value="Earplug Jewel+ 4"/>
+        <handlers:Item Key="item07E8" Value="Wind Resist Jewel+ 4"/>
+        <handlers:Item Key="item07E9" Value="Attack Jewel+ 4"/>
+        <handlers:Item Key="item07EA" Value="Expert Jewel+ 4"/>
+        <handlers:Item Key="item07EB" Value="Handicraft Jewel+ 4"/>
+        <handlers:Item Key="item07EC" Value="Throttle Jewel+ 4"/>
+        <handlers:Item Key="item07ED" Value="Challenger Jewel+ 4"/>
+        <handlers:Item Key="item07EE" Value="Potential Jewel+ 4"/>
+        <handlers:Item Key="item07EF" Value="Furor Jewel+ 4"/>
+        <handlers:Item Key="item07F0" Value="Physique Jewel+ 4"/>
+        <handlers:Item Key="item07F1" Value="Evasion Jewel+ 4"/>
+        <handlers:Item Key="item07F2" Value="Ironwall Jewel+ 4"/>
+        <handlers:Item Key="item07F3" Value="Friendship Jewel+ 4"/>
+        <handlers:Item Key="item07F4" Value="Drain/Physique Jewel 4"/>
+        <handlers:Item Key="item07F5" Value="Fortitude/Physique Jewel 4"/>
+        <handlers:Item Key="item07F6" Value="Crisis/Physique Jewel 4"/>
+        <handlers:Item Key="item07F7" Value="Ironwall/Physique Jewel 4"/>
+        <handlers:Item Key="item07F8" Value="Friendship/Physique Jewel 4"/>
+        <handlers:Item Key="item07F9" Value="Satiated/Physique Jewel 4"/>
+        <handlers:Item Key="item07FA" Value="Stonethrower/Physique Jewel 4"/>
+        <handlers:Item Key="item07FB" Value="Resistor/Physique Jewel 4"/>
+        <handlers:Item Key="item07FC" Value="Flight/Physique Jewel 4"/>
+        <handlers:Item Key="item07FD" Value="Sprinter/Physique Jewel 4"/>
+        <handlers:Item Key="item07FE" Value="Refresh/Physique Jewel 4"/>
+        <handlers:Item Key="item07FF" Value="Jumping/Physique Jewel 4"/>
+        <handlers:Item Key="item0800" Value="Sheath/Physique Jewel 4"/>
+        <handlers:Item Key="item0801" Value="Gobbler/Physique Jewel 4"/>
+        <handlers:Item Key="item0802" Value="Grinder/Physique Jewel 4"/>
+        <handlers:Item Key="item0803" Value="Bomber/Physique Jewel 4"/>
+        <handlers:Item Key="item0804" Value="Fungiform/Physique Jewel 4"/>
+        <handlers:Item Key="item0805" Value="Slider/Physique Jewel 4"/>
+        <handlers:Item Key="item0806" Value="Guardian/Physique Jewel 4"/>
+        <handlers:Item Key="item0807" Value="Drain/Evasion Jewel 4"/>
+        <handlers:Item Key="item0808" Value="Fortitude/Evasion Jewel 4"/>
+        <handlers:Item Key="item0809" Value="Crisis/Evasion Jewel 4"/>
+        <handlers:Item Key="item080A" Value="Ironwall/Evasion Jewel 4"/>
+        <handlers:Item Key="item080B" Value="Friendship/Evasion Jewel 4"/>
+        <handlers:Item Key="item080C" Value="Satiated/Evasion Jewel 4"/>
+        <handlers:Item Key="item080D" Value="Stonethrower/Evasion Jewel 4"/>
+        <handlers:Item Key="item080E" Value="Resistor/Evasion Jewel 4"/>
+        <handlers:Item Key="item080F" Value="Flight/Evasion Jewel 4"/>
+        <handlers:Item Key="item0810" Value="Sprinter/Evasion Jewel 4"/>
+        <handlers:Item Key="item0811" Value="Refresh/Evasion Jewel 4"/>
+        <handlers:Item Key="item0812" Value="Jumping/Evasion Jewel 4"/>
+        <handlers:Item Key="item0813" Value="Sheath/Evasion Jewel 4"/>
+        <handlers:Item Key="item0814" Value="Gobbler/Evasion Jewel 4"/>
+        <handlers:Item Key="item0815" Value="Grinder/Evasion Jewel 4"/>
+        <handlers:Item Key="item0816" Value="Bomber/Evasion Jewel 4"/>
+        <handlers:Item Key="item0817" Value="Fungiform/Evasion Jewel 4"/>
+        <handlers:Item Key="item0818" Value="Slider/Evasion Jewel 4"/>
+        <handlers:Item Key="item0819" Value="Guardian/Evasion Jewel 4"/>
+        <handlers:Item Key="item081A" Value="Drain/Attack Jewel 4"/>
+        <handlers:Item Key="item081B" Value="Fortitude/Attack Jewel 4"/>
+        <handlers:Item Key="item081C" Value="Crisis/Attack Jewel 4"/>
+        <handlers:Item Key="item081D" Value="Ironwall/Attack Jewel 4"/>
+        <handlers:Item Key="item081E" Value="Friendship/Attack Jewel 4"/>
+        <handlers:Item Key="item081F" Value="Satiated/Attack Jewel 4"/>
+        <handlers:Item Key="item0820" Value="Stonethrower/Attack Jewel 4"/>
+        <handlers:Item Key="item0821" Value="Resistor/Attack Jewel 4"/>
+        <handlers:Item Key="item0822" Value="Flight/Attack Jewel 4"/>
+        <handlers:Item Key="item0823" Value="Sprinter/Attack Jewel 4"/>
+        <handlers:Item Key="item0824" Value="Refresh/Attack Jewel 4"/>
+        <handlers:Item Key="item0825" Value="Jumping/Attack Jewel 4"/>
+        <handlers:Item Key="item0826" Value="Sheath/Attack Jewel 4"/>
+        <handlers:Item Key="item0827" Value="Gobbler/Attack Jewel 4"/>
+        <handlers:Item Key="item0828" Value="Grinder/Attack Jewel 4"/>
+        <handlers:Item Key="item0829" Value="Bomber/Attack Jewel 4"/>
+        <handlers:Item Key="item082A" Value="Fungiform/Attack Jewel 4"/>
+        <handlers:Item Key="item082B" Value="Slider/Attack Jewel 4"/>
+        <handlers:Item Key="item082C" Value="Guardian/Attack Jewel 4"/>
+        <handlers:Item Key="item082D" Value="Drain/Expert Jewel 4"/>
+        <handlers:Item Key="item082E" Value="Fortitude/Expert Jewel 4"/>
+        <handlers:Item Key="item082F" Value="Crisis/Expert Jewel 4"/>
+        <handlers:Item Key="item0830" Value="Ironwall/Expert Jewel 4"/>
+        <handlers:Item Key="item0831" Value="Friendship/Expert Jewel 4"/>
+        <handlers:Item Key="item0832" Value="Satiated/Expert Jewel 4"/>
+        <handlers:Item Key="item0833" Value="Stonethrower/Expert Jewel 4"/>
+        <handlers:Item Key="item0834" Value="Resistor/Expert Jewel 4"/>
+        <handlers:Item Key="item0835" Value="Flight/Expert Jewel 4"/>
+        <handlers:Item Key="item0836" Value="Sprinter/Expert Jewel 4"/>
+        <handlers:Item Key="item0837" Value="Refresh/Expert Jewel 4"/>
+        <handlers:Item Key="item0838" Value="Jumping/Expert Jewel 4"/>
+        <handlers:Item Key="item0839" Value="Sheath/Expert Jewel 4"/>
+        <handlers:Item Key="item083A" Value="Gobbler/Expert Jewel 4"/>
+        <handlers:Item Key="item083B" Value="Grinder/Expert Jewel 4"/>
+        <handlers:Item Key="item083C" Value="Bomber/Expert Jewel 4"/>
+        <handlers:Item Key="item083D" Value="Fungiform/Expert Jewel 4"/>
+        <handlers:Item Key="item083E" Value="Slider/Expert Jewel 4"/>
+        <handlers:Item Key="item083F" Value="Guardian/Expert Jewel 4"/>
+        <handlers:Item Key="item0840" Value="Drain/Release Jewel 4"/>
+        <handlers:Item Key="item0841" Value="Fortitude/Release Jewel 4"/>
+        <handlers:Item Key="item0842" Value="Crisis/Release Jewel 4"/>
+        <handlers:Item Key="item0843" Value="Ironwall/Release Jewel 4"/>
+        <handlers:Item Key="item0844" Value="Friendship/Release Jewel 4"/>
+        <handlers:Item Key="item0845" Value="Satiated/Release Jewel 4"/>
+        <handlers:Item Key="item0846" Value="Stonethrower/Release Jewel 4"/>
+        <handlers:Item Key="item0847" Value="Resistor/Release Jewel 4"/>
+        <handlers:Item Key="item0848" Value="Flight/Release Jewel 4"/>
+        <handlers:Item Key="item0849" Value="Sprinter/Release Jewel 4"/>
+        <handlers:Item Key="item084A" Value="Refresh/Release Jewel 4"/>
+        <handlers:Item Key="item084B" Value="Jumping/Release Jewel 4"/>
+        <handlers:Item Key="item084C" Value="Sheath/Release Jewel 4"/>
+        <handlers:Item Key="item084D" Value="Gobbler/Release Jewel 4"/>
+        <handlers:Item Key="item084E" Value="Grinder/Release Jewel 4"/>
+        <handlers:Item Key="item084F" Value="Bomber/Release Jewel 4"/>
+        <handlers:Item Key="item0850" Value="Fungiform/Release Jewel 4"/>
+        <handlers:Item Key="item0851" Value="Slider/Release Jewel 4"/>
+        <handlers:Item Key="item0852" Value="Guardian/Release Jewel 4"/>
+        <handlers:Item Key="item0853" Value="Drain/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0854" Value="Fortitude/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0855" Value="Crisis/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0856" Value="Ironwall/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0857" Value="Friendship/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0858" Value="Satiated/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0859" Value="Stonethrower/Handicraft Jewel 4"/>
+        <handlers:Item Key="item085A" Value="Resistor/Handicraft Jewel 4"/>
+        <handlers:Item Key="item085B" Value="Flight/Handicraft Jewel 4"/>
+        <handlers:Item Key="item085C" Value="Sprinter/Handicraft Jewel 4"/>
+        <handlers:Item Key="item085D" Value="Refresh/Handicraft Jewel 4"/>
+        <handlers:Item Key="item085E" Value="Jumping/Handicraft Jewel 4"/>
+        <handlers:Item Key="item085F" Value="Sheath/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0860" Value="Gobbler/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0861" Value="Grinder/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0862" Value="Bomber/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0863" Value="Fungiform/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0864" Value="Slider/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0865" Value="Guardian/Handicraft Jewel 4"/>
+        <handlers:Item Key="item0866" Value="Footing/Protection Jewel 4"/>
+        <handlers:Item Key="item0867" Value="Charger/Protection Jewel 4"/>
+        <handlers:Item Key="item0868" Value="Enhancer/Protection Jewel 4"/>
+        <handlers:Item Key="item0869" Value="Destroyer/Protection Jewel 4"/>
+        <handlers:Item Key="item086A" Value="KO/Protection Jewel 4"/>
+        <handlers:Item Key="item086B" Value="Potential/Protection Jewel 4"/>
+        <handlers:Item Key="item086C" Value="Wind Resist/Protection Jewel 4"/>
+        <handlers:Item Key="item086D" Value="Draw/Protection Jewel 4"/>
+        <handlers:Item Key="item086E" Value="Throttle/Protection Jewel 4"/>
+        <handlers:Item Key="item086F" Value="Challenger/Protection Jewel 4"/>
+        <handlers:Item Key="item0870" Value="Flawless/Protection Jewel 4"/>
+        <handlers:Item Key="item0871" Value="Furor/Protection Jewel 4"/>
+        <handlers:Item Key="item0872" Value="Mighty/Protection Jewel 4"/>
+        <handlers:Item Key="item0873" Value="Brace/Protection Jewel 4"/>
+        <handlers:Item Key="item0874" Value="Phoenix/Protection Jewel 4"/>
+        <handlers:Item Key="item0875" Value="Earplug/Protection Jewel 4"/>
+        <handlers:Item Key="item0876" Value="Critical/Protection Jewel 4"/>
+        <handlers:Item Key="item0877" Value="Tenderizer/Protection Jewel 4"/>
+        <handlers:Item Key="item0878" Value="Handicraft/Protection Jewel 4"/>
+        <handlers:Item Key="item0879" Value="Release/Protection Jewel 4"/>
+        <handlers:Item Key="item087A" Value="Footing/Medicine Jewel 4"/>
+        <handlers:Item Key="item087B" Value="Charger/Medicine Jewel 4"/>
+        <handlers:Item Key="item087C" Value="Enhancer/Medicine Jewel 4"/>
+        <handlers:Item Key="item087D" Value="Destroyer/Medicine Jewel 4"/>
+        <handlers:Item Key="item087E" Value="KO/Medicine Jewel 4"/>
+        <handlers:Item Key="item087F" Value="Potential/Medicine Jewel 4"/>
+        <handlers:Item Key="item0880" Value="Wind Resist/Medicine Jewel 4"/>
+        <handlers:Item Key="item0881" Value="Draw/Medicine Jewel 4"/>
+        <handlers:Item Key="item0882" Value="Throttle/Medicine Jewel 4"/>
+        <handlers:Item Key="item0883" Value="Challenger/Medicine Jewel 4"/>
+        <handlers:Item Key="item0884" Value="Flawless/Medicine Jewel 4"/>
+        <handlers:Item Key="item0885" Value="Furor/Medicine Jewel 4"/>
+        <handlers:Item Key="item0886" Value="Mighty/Medicine Jewel 4"/>
+        <handlers:Item Key="item0887" Value="Brace/Medicine Jewel 4"/>
+        <handlers:Item Key="item0888" Value="Phoenix/Medicine Jewel 4"/>
+        <handlers:Item Key="item0889" Value="Earplug/Medicine Jewel 4"/>
+        <handlers:Item Key="item088A" Value="Critical/Medicine Jewel 4"/>
+        <handlers:Item Key="item088B" Value="Tenderizer/Medicine Jewel 4"/>
+        <handlers:Item Key="item088C" Value="Handicraft/Medicine Jewel 4"/>
+        <handlers:Item Key="item088D" Value="Release/Medicine Jewel 4"/>
+        <handlers:Item Key="item088E" Value="Footing/Vitality Jewel 4"/>
+        <handlers:Item Key="item088F" Value="Charger/Vitality Jewel 4"/>
+        <handlers:Item Key="item0890" Value="Enhancer/Vitality Jewel 4"/>
+        <handlers:Item Key="item0891" Value="Destroyer/Vitality Jewel 4"/>
+        <handlers:Item Key="item0892" Value="KO/Vitality Jewel 4"/>
+        <handlers:Item Key="item0893" Value="Potential/Vitality Jewel 4"/>
+        <handlers:Item Key="item0894" Value="Wind Resist/Vitality Jewel 4"/>
+        <handlers:Item Key="item0895" Value="Draw/Vitality Jewel 4"/>
+        <handlers:Item Key="item0896" Value="Throttle/Vitality Jewel 4"/>
+        <handlers:Item Key="item0897" Value="Challenger/Vitality Jewel 4"/>
+        <handlers:Item Key="item0898" Value="Flawless/Vitality Jewel 4"/>
+        <handlers:Item Key="item0899" Value="Furor/Vitality Jewel 4"/>
+        <handlers:Item Key="item089A" Value="Mighty/Vitality Jewel 4"/>
+        <handlers:Item Key="item089B" Value="Brace/Vitality Jewel 4"/>
+        <handlers:Item Key="item089C" Value="Phoenix/Vitality Jewel 4"/>
+        <handlers:Item Key="item089D" Value="Earplug/Vitality Jewel 4"/>
+        <handlers:Item Key="item089E" Value="Critical/Vitality Jewel 4"/>
+        <handlers:Item Key="item089F" Value="Tenderizer/Vitality Jewel 4"/>
+        <handlers:Item Key="item08A0" Value="Handicraft/Vitality Jewel 4"/>
+        <handlers:Item Key="item08A1" Value="Release/Vitality Jewel 4"/>
+        <handlers:Item Key="item08A2" Value="Footing/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08A3" Value="Charger/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08A4" Value="Enhancer/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08A5" Value="Destroyer/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08A6" Value="KO/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08A7" Value="Potential/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08A8" Value="Wind Resist/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08A9" Value="Draw/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08AA" Value="Throttle/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08AB" Value="Challenger/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08AC" Value="Flawless/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08AD" Value="Furor/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08AE" Value="Mighty/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08AF" Value="Brace/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08B0" Value="Phoenix/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08B1" Value="Earplug/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08B2" Value="Critical/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08B3" Value="Tenderizer/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08B4" Value="Handicraft/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08B5" Value="Release/Maintenance Jewel 4"/>
+        <handlers:Item Key="item08B6" Value="Footing/Physique Jewel 4"/>
+        <handlers:Item Key="item08B7" Value="Charger/Physique Jewel 4"/>
+        <handlers:Item Key="item08B8" Value="Enhancer/Physique Jewel 4"/>
+        <handlers:Item Key="item08B9" Value="Destroyer/Physique Jewel 4"/>
+        <handlers:Item Key="item08BA" Value="KO/Physique Jewel 4"/>
+        <handlers:Item Key="item08BB" Value="Potential/Physique Jewel 4"/>
+        <handlers:Item Key="item08BC" Value="Wind Resist/Physique Jewel 4"/>
+        <handlers:Item Key="item08BD" Value="Draw/Physique Jewel 4"/>
+        <handlers:Item Key="item08BE" Value="Throttle/Physique Jewel 4"/>
+        <handlers:Item Key="item08BF" Value="Challenger/Physique Jewel 4"/>
+        <handlers:Item Key="item08C0" Value="Flawless/Physique Jewel 4"/>
+        <handlers:Item Key="item08C1" Value="Furor/Physique Jewel 4"/>
+        <handlers:Item Key="item08C2" Value="Mighty/Physique Jewel 4"/>
+        <handlers:Item Key="item08C3" Value="Brace/Physique Jewel 4"/>
+        <handlers:Item Key="item08C4" Value="Phoenix/Physique Jewel 4"/>
+        <handlers:Item Key="item08C5" Value="Earplug/Physique Jewel 4"/>
+        <handlers:Item Key="item08C6" Value="Critical/Physique Jewel 4"/>
+        <handlers:Item Key="item08C7" Value="Tenderizer/Physique Jewel 4"/>
+        <handlers:Item Key="item08C8" Value="Handicraft/Physique Jewel 4"/>
+        <handlers:Item Key="item08C9" Value="Release/Physique Jewel 4"/>
+        <handlers:Item Key="item08CA" Value="Footing/Evasion Jewel 4"/>
+        <handlers:Item Key="item08CB" Value="Charger/Evasion Jewel 4"/>
+        <handlers:Item Key="item08CC" Value="Enhancer/Evasion Jewel 4"/>
+        <handlers:Item Key="item08CD" Value="Destroyer/Evasion Jewel 4"/>
+        <handlers:Item Key="item08CE" Value="KO/Evasion Jewel 4"/>
+        <handlers:Item Key="item08CF" Value="Potential/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D0" Value="Wind Resist/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D1" Value="Draw/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D2" Value="Throttle/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D3" Value="Challenger/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D4" Value="Flawless/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D5" Value="Furor/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D6" Value="Mighty/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D7" Value="Brace/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D8" Value="Phoenix/Evasion Jewel 4"/>
+        <handlers:Item Key="item08D9" Value="Earplug/Evasion Jewel 4"/>
+        <handlers:Item Key="item08DA" Value="Critical/Evasion Jewel 4"/>
+        <handlers:Item Key="item08DB" Value="Tenderizer/Evasion Jewel 4"/>
+        <handlers:Item Key="item08DC" Value="Handicraft/Evasion Jewel 4"/>
+        <handlers:Item Key="item08DD" Value="Release/Evasion Jewel 4"/>
+        <handlers:Item Key="item08DE" Value="Survival Jewel 1"/>
         <handlers:Item Key="item08DF" Value="Item 2271"/>
-        <handlers:Item Key="item08E0" Value="耐寒珠【２】"/>
+        <handlers:Item Key="item08E0" Value="Warming Jewel 2"/>
         <handlers:Item Key="item08E1" Value="Item 2273"/>
         <handlers:Item Key="item08E2" Value="Item 2274"/>
         <handlers:Item Key="item08E3" Value="Item 2275"/>
@@ -2606,8 +2606,8 @@
         <handlers:Item Key="item0A12" Value="Item 2578"/>
         <handlers:Item Key="item0A13" Value="Item 2579"/>
         <handlers:Item Key="item0A14" Value="Item 2580"/>
-        <handlers:Item Key="item0A15" Value="雪だるま"/>
-        <handlers:Item Key="item0A16" Value="雪だるま"/>
+        <handlers:Item Key="item0A15" Value="Joyful Snowman"/>
+        <handlers:Item Key="item0A16" Value="Appreciative Snowman"/>
         <handlers:Item Key="item0A17" Value="Item 2583"/>
         <handlers:Item Key="item0A18" Value="Item 2584"/>
         <handlers:Item Key="item0A19" Value="Item 2585"/>
@@ -2701,7 +2701,7 @@
         <handlers:Item Key="item0A71" Value="Item 2673"/>
         <handlers:Item Key="item0A72" Value="Item 2674"/>
         <handlers:Item Key="item0A73" Value="レイトウチケット"/>
-        <handlers:Item Key="item0A74" Value="ギンセンチケット"/>
+        <handlers:Item Key="item0A74" Value="Pearlspring Ticket"/>
         <handlers:Item Key="item0A75" Value="雪玉"/>
         <handlers:Item Key="item0A76" Value="雪だるま"/>
         <handlers:Item Key="item0A77" Value="Item 2679"/>
@@ -2713,12 +2713,12 @@
         <handlers:Item Key="item0A7D" Value="Item 2685"/>
         <handlers:Item Key="item0A7E" Value="銅の錬金チケット"/>
         <handlers:Item Key="item0A7F" Value="銀の錬金チケット"/>
-        <handlers:Item Key="item0A80" Value="マカ錬金の​​​​‍‍‏珠・鋼"/>
-        <handlers:Item Key="item0A81" Value="マカ錬金の​​​​‍‍‏珠・銀"/>
+        <handlers:Item Key="item0A80" Value="Steel Melding Feystone"/>
+        <handlers:Item Key="item0A81" Value="Silver Melding Feystone"/>
         <handlers:Item Key="item0A82" Value="金の錬金チケット"/>
         <handlers:Item Key="item0A83" Value="天の錬金チケット"/>
-        <handlers:Item Key="item0A84" Value="マカ錬金の​​​​‍‍‏珠・金"/>
-        <handlers:Item Key="item0A85" Value="マカ錬金の​​​​‍‍‏珠・天"/>
+        <handlers:Item Key="item0A84" Value="Gold Melding Feystone"/>
+        <handlers:Item Key="item0A85" Value="Astral Melding Feystone"/>
         <handlers:Item Key="item0A86" Value="Item 2694"/>
         <handlers:Item Key="item0A87" Value="Item 2695"/>
         <handlers:Item Key="item0A88" Value="Item 2696"/>
