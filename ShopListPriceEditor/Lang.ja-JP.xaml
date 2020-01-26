@@ -1030,10 +1030,10 @@
         <handlers:Item Key="item03EA" Value="Item 1002"/>
         <handlers:Item Key="item03EB" Value="お食事券"/>
         <handlers:Item Key="item03EC" Value="観察キット"/>
-        <handlers:Item Key="item03ED" Value="ライドコールの​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item03EE" Value="とうがらし"/>
-        <handlers:Item Key="item03EF" Value="落陽草の​​​​‍‍‏花"/>
-        <handlers:Item Key="item03F0" Value="生命の​​​​‍‍‏大粉塵"/>
+        <handlers:Item Key="item03ED" Value="ライドコールの指笛"/>
+        <handlers:Item Key="item03EE" Value="トウガラシ"/>
+        <handlers:Item Key="item03EF" Value="落陽草の花"/>
+        <handlers:Item Key="item03F0" Value="生命の大粉塵"/>
         <handlers:Item Key="item03F1" Value="結晶化した骨片"/>
         <handlers:Item Key="item03F2" Value="結晶化した竜骨"/>
         <handlers:Item Key="item03F3" Value="古龍骨"/>
@@ -1047,17 +1047,17 @@
         <handlers:Item Key="item03FB" Value="Item 1019"/>
         <handlers:Item Key="item03FC" Value="Item 1020"/>
         <handlers:Item Key="item03FD" Value="Item 1021"/>
-        <handlers:Item Key="item03FE" Value="ミツムシど根性の​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item03FF" Value="地雷虫かごの​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item0400" Value="大盾カカシの​​​​‍‍‏指笛"/>
-        <handlers:Item Key="item0401" Value="ばくおんゴングの​​​​‍‍‏指笛"/>
+        <handlers:Item Key="item03FE" Value="ミツムシど根性の指笛"/>
+        <handlers:Item Key="item03FF" Value="地雷虫かごの指笛"/>
+        <handlers:Item Key="item0400" Value="大盾カカシの指笛"/>
+        <handlers:Item Key="item0401" Value="ばくおんゴングの指笛"/>
         <handlers:Item Key="item0402" Value="Mount &amp; Plunder"/>
-        <handlers:Item Key="item0403" Value="噴火壷爆弾の​​​​‍‍‏指笛"/>
+        <handlers:Item Key="item0403" Value="噴火壷爆弾の指笛"/>
         <handlers:Item Key="item0404" Value="ゼニー"/>
         <handlers:Item Key="item0405" Value="調査ポイント"/>
         <handlers:Item Key="item0406" Value="エルトライト鉱石"/>
         <handlers:Item Key="item0407" Value="メランジェ鉱石"/>
-        <handlers:Item Key="item0408" Value="霊脈の​​​​‍‍‏結晶"/>
+        <handlers:Item Key="item0408" Value="霊脈の結晶"/>
         <handlers:Item Key="item0409" Value="Item 1033"/>
         <handlers:Item Key="item040A" Value="ピュアクリスタル"/>
         <handlers:Item Key="item040B" Value="Item 1035"/>
@@ -1069,18 +1069,18 @@
         <handlers:Item Key="item0411" Value="鎧玉"/>
         <handlers:Item Key="item0412" Value="頑強な重骨"/>
         <handlers:Item Key="item0413" Value="凍てついた氷骨"/>
-        <handlers:Item Key="item0414" Value="いにしえの​​​​‍‍‏巨龍骨"/>
+        <handlers:Item Key="item0414" Value="いにしえの巨龍骨"/>
         <handlers:Item Key="item0415" Value="Item 1045"/>
         <handlers:Item Key="item0416" Value="Item 1046"/>
         <handlers:Item Key="item0417" Value="Item 1047"/>
-        <handlers:Item Key="item0418" Value="太古の​​​​‍‍‏破片"/>
+        <handlers:Item Key="item0418" Value="太古の破片"/>
         <handlers:Item Key="item0419" Value="強竜骨"/>
         <handlers:Item Key="item041A" Value="重竜骨"/>
         <handlers:Item Key="item041B" Value="剛竜骨"/>
         <handlers:Item Key="item041C" Value="Item 1052"/>
         <handlers:Item Key="item041D" Value="古龍骨"/>
         <handlers:Item Key="item041E" Value="強靭な爪"/>
-        <handlers:Item Key="item041F" Value="モンスターの​​​​‍‍‏特濃"/>
+        <handlers:Item Key="item041F" Value="モンスターの特濃"/>
         <handlers:Item Key="item0420" Value="毒袋"/>
         <handlers:Item Key="item0421" Value="濃縮麻痺袋"/>
         <handlers:Item Key="item0422" Value="卒倒昏睡袋"/>
@@ -1090,246 +1090,246 @@
         <handlers:Item Key="item0426" Value="雷電袋"/>
         <handlers:Item Key="item0427" Value="幻鳥竜玉"/>
         <handlers:Item Key="item0428" Value="竜玉"/>
-        <handlers:Item Key="item0429" Value="古龍の​​​​‍‍‏浄血"/>
-        <handlers:Item Key="item042A" Value="古龍の​​​​‍‍‏大宝玉"/>
+        <handlers:Item Key="item0429" Value="古龍の浄血"/>
+        <handlers:Item Key="item042A" Value="古龍の大宝玉"/>
         <handlers:Item Key="item042B" Value="Item 1067"/>
-        <handlers:Item Key="item042C" Value="極上の​​​​‍‍‏毛皮"/>
-        <handlers:Item Key="item042D" Value="ガウシカの​​​​‍‍‏角"/>
+        <handlers:Item Key="item042C" Value="極上の毛皮"/>
+        <handlers:Item Key="item042D" Value="ガウシカの角"/>
         <handlers:Item Key="item042E" Value="Item 1070"/>
-        <handlers:Item Key="item042F" Value="ランゴスタの​​​​‍‍‏斬羽"/>
+        <handlers:Item Key="item042F" Value="ランゴスタの斬羽"/>
         <handlers:Item Key="item0430" Value="Item 1072"/>
-        <handlers:Item Key="item0431" Value="カンタロスの​​​​‍‍‏斬羽"/>
+        <handlers:Item Key="item0431" Value="カンタロスの斬羽"/>
         <handlers:Item Key="item0432" Value="Item 1074"/>
-        <handlers:Item Key="item0433" Value="咬魚の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item0434" Value="咬魚の​​​​‍‍‏ヒゲ"/>
-        <handlers:Item Key="item0435" Value="翼竜の​​​​‍‍‏特上皮"/>
-        <handlers:Item Key="item0436" Value="バルノスの​​​​‍‍‏剛爪"/>
+        <handlers:Item Key="item0433" Value="咬魚の厚皮"/>
+        <handlers:Item Key="item0434" Value="咬魚のヒゲ"/>
+        <handlers:Item Key="item0435" Value="翼竜の特上皮"/>
+        <handlers:Item Key="item0436" Value="バルノスの剛爪"/>
         <handlers:Item Key="item0437" Value="Item 1079"/>
-        <handlers:Item Key="item0438" Value="コルトスの​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0439" Value="ケストドンの​​​​‍‍‏重殻"/>
+        <handlers:Item Key="item0438" Value="コルトスの剛爪"/>
+        <handlers:Item Key="item0439" Value="ケストドンの重殻"/>
         <handlers:Item Key="item043A" Value="Item 1082"/>
-        <handlers:Item Key="item043B" Value="ガストドンの​​​​‍‍‏重殻"/>
+        <handlers:Item Key="item043B" Value="ガストドンの重殻"/>
         <handlers:Item Key="item043C" Value="Item 1084"/>
-        <handlers:Item Key="item043D" Value="ジャグラスの​​​​‍‍‏厚鱗"/>
+        <handlers:Item Key="item043D" Value="ジャグラスの厚鱗"/>
         <handlers:Item Key="item043E" Value="Item 1086"/>
-        <handlers:Item Key="item043F" Value="シャムオスの​​​​‍‍‏厚鱗"/>
+        <handlers:Item Key="item043F" Value="シャムオスの厚鱗"/>
         <handlers:Item Key="item0440" Value="Item 1088"/>
-        <handlers:Item Key="item0441" Value="ギルオスの​​​​‍‍‏厚鱗"/>
+        <handlers:Item Key="item0441" Value="ギルオスの厚鱗"/>
         <handlers:Item Key="item0442" Value="Item 1090"/>
-        <handlers:Item Key="item0443" Value="ウルグの​​​​‍‍‏厚毛皮"/>
+        <handlers:Item Key="item0443" Value="ウルグの厚毛皮"/>
         <handlers:Item Key="item0444" Value="Item 1092"/>
-        <handlers:Item Key="item0445" Value="ジャグラスの​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0446" Value="賊竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item0447" Value="賊竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0448" Value="賊竜の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0449" Value="掻鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item044A" Value="掻鳥の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item044B" Value="掻鳥の​​​​‍‍‏飾り羽"/>
-        <handlers:Item Key="item044C" Value="掻鳥の​​​​‍‍‏クチバシ"/>
-        <handlers:Item Key="item044D" Value="毒妖鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item044E" Value="毒妖鳥の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item044F" Value="毒妖鳥の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0450" Value="毒妖鳥の​​​​‍‍‏喉袋"/>
-        <handlers:Item Key="item0451" Value="毒妖鳥の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0452" Value="毒妖鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0453" Value="毒妖鳥の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0454" Value="毒妖鳥の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0455" Value="毒妖鳥の​​​​‍‍‏喉袋"/>
-        <handlers:Item Key="item0456" Value="毒妖鳥の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0457" Value="土砂竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0458" Value="土砂竜の​​​​‍‍‏重甲"/>
-        <handlers:Item Key="item0459" Value="土砂竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item045A" Value="土砂竜の​​​​‍‍‏重頭殻"/>
-        <handlers:Item Key="item045B" Value="土砂竜の​​​​‍‍‏靭尾"/>
+        <handlers:Item Key="item0445" Value="賊竜の厚鱗"/>
+        <handlers:Item Key="item0446" Value="賊竜の厚皮"/>
+        <handlers:Item Key="item0447" Value="賊竜の剛爪"/>
+        <handlers:Item Key="item0448" Value="賊竜の大たてがみ"/>
+        <handlers:Item Key="item0449" Value="掻鳥の厚鱗"/>
+        <handlers:Item Key="item044A" Value="掻鳥の厚皮"/>
+        <handlers:Item Key="item044B" Value="掻鳥の特大飾り羽"/>
+        <handlers:Item Key="item044C" Value="掻鳥の巨大クチバシ"/>
+        <handlers:Item Key="item044D" Value="毒妖鳥の厚鱗"/>
+        <handlers:Item Key="item044E" Value="毒妖鳥の重殻"/>
+        <handlers:Item Key="item044F" Value="毒妖鳥の剛翼 "/>
+        <handlers:Item Key="item0450" Value="毒妖鳥の特大喉袋"/>
+        <handlers:Item Key="item0451" Value="毒妖鳥の靭尾"/>
+        <handlers:Item Key="item0452" Value="水妖鳥の厚鱗"/>
+        <handlers:Item Key="item0453" Value="水妖鳥の重殻"/>
+        <handlers:Item Key="item0454" Value="水妖鳥の剛翼 "/>
+        <handlers:Item Key="item0455" Value="水妖鳥の特大喉袋"/>
+        <handlers:Item Key="item0456" Value="水妖鳥の靭尾"/>
+        <handlers:Item Key="item0457" Value="土砂竜の重殻"/>
+        <handlers:Item Key="item0458" Value="土砂竜の重甲"/>
+        <handlers:Item Key="item0459" Value="土砂竜の剛爪"/>
+        <handlers:Item Key="item045A" Value="土砂竜の重頭殻"/>
+        <handlers:Item Key="item045B" Value="土砂竜の靭尾"/>
         <handlers:Item Key="item045C" Value="豊沃なドロ"/>
-        <handlers:Item Key="item045D" Value="泥魚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item045E" Value="泥魚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item045F" Value="泥魚竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item0460" Value="泥魚竜の​​​​‍‍‏特上ヒレ"/>
-        <handlers:Item Key="item0461" Value="凍魚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0462" Value="凍魚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0463" Value="凍魚竜の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item0464" Value="凍魚竜の​​​​‍‍‏特上ヒレ"/>
-        <handlers:Item Key="item0465" Value="飛雷竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0466" Value="飛雷竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item0467" Value="飛雷竜の​​​​‍‍‏皮膜"/>
-        <handlers:Item Key="item0468" Value="飛雷竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0469" Value="飛雷竜の​​​​‍‍‏雷光針"/>
-        <handlers:Item Key="item046A" Value="飛雷竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item046B" Value="飛雷竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item046C" Value="飛雷竜の​​​​‍‍‏皮膜"/>
-        <handlers:Item Key="item046D" Value="飛雷竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item046E" Value="飛毒竜の​​​​‍‍‏猛毒針"/>
-        <handlers:Item Key="item046F" Value="猛牛竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0470" Value="猛牛竜の​​​​‍‍‏重甲"/>
-        <handlers:Item Key="item0471" Value="猛牛竜の​​​​‍‍‏巨大な角"/>
-        <handlers:Item Key="item0472" Value="猛牛竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0473" Value="蛮顎竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0474" Value="蛮顎竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item0475" Value="蛮顎竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item0476" Value="蛮顎竜の​​​​‍‍‏鼻骨"/>
-        <handlers:Item Key="item0477" Value="蛮顎竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0478" Value="蛮顎竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item0479" Value="蛮顎竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item047A" Value="雷顎竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item047B" Value="蛮顎竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item047C" Value="蛮顎竜の​​​​‍‍‏鼻骨"/>
-        <handlers:Item Key="item047D" Value="蛮顎竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item047E" Value="蛮顎竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item047F" Value="雌火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0480" Value="雌火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0481" Value="雌火竜の​​​​‍‍‏厚翼膜"/>
-        <handlers:Item Key="item0482" Value="雌火竜の​​​​‍‍‏秘棘"/>
-        <handlers:Item Key="item0483" Value="雌火竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item0484" Value="雌火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0485" Value="雌火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0486" Value="雌火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0487" Value="雌火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0488" Value="雌火竜の​​​​‍‍‏秘棘"/>
-        <handlers:Item Key="item0489" Value="眩鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item048A" Value="眩鳥の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item048B" Value="眩鳥の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item048C" Value="眩鳥の​​​​‍‍‏輝光膜"/>
-        <handlers:Item Key="item048D" Value="浮空竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item048E" Value="浮空竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item048F" Value="ゴム質の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0490" Value="浮空竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0491" Value="浮空竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item0492" Value="浮空竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0493" Value="浮空竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0494" Value="ギルオスの​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0495" Value="痺賊竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item0496" Value="痺賊竜の​​​​‍‍‏重頭巾"/>
-        <handlers:Item Key="item0497" Value="痺賊竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item0498" Value="痺賊竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0499" Value="骨鎚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item049A" Value="骨鎚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item049B" Value="骨鎚竜の​​​​‍‍‏黒油殻"/>
-        <handlers:Item Key="item049C" Value="竜骨塊"/>
-        <handlers:Item Key="item049D" Value="風漂竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item049E" Value="風漂竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item049F" Value="風漂竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04A0" Value="風漂竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04A1" Value="風漂竜の​​​​‍‍‏尾膜"/>
-        <handlers:Item Key="item04A2" Value="風漂竜の​​​​‍‍‏天鱗"/>
+        <handlers:Item Key="item045D" Value="泥魚竜の厚鱗"/>
+        <handlers:Item Key="item045E" Value="泥魚竜の重殻"/>
+        <handlers:Item Key="item045F" Value="泥魚竜の重牙"/>
+        <handlers:Item Key="item0460" Value="泥魚竜の特上ヒレ"/>
+        <handlers:Item Key="item0461" Value="凍魚竜の厚鱗"/>
+        <handlers:Item Key="item0462" Value="凍魚竜の重殻"/>
+        <handlers:Item Key="item0463" Value="凍魚竜の剛角"/>
+        <handlers:Item Key="item0464" Value="凍魚竜の特上ヒレ"/>
+        <handlers:Item Key="item0465" Value="飛雷竜の厚鱗"/>
+        <handlers:Item Key="item0466" Value="飛雷竜の厚毛皮"/>
+        <handlers:Item Key="item0467" Value="飛雷竜の厚皮膜 "/>
+        <handlers:Item Key="item0468" Value="飛雷竜の剛爪"/>
+        <handlers:Item Key="item0469" Value="飛雷竜の雷光針"/>
+        <handlers:Item Key="item046A" Value="飛毒竜の厚鱗"/>
+        <handlers:Item Key="item046B" Value="飛毒竜の厚毛皮"/>
+        <handlers:Item Key="item046C" Value="飛毒竜の厚皮膜">
+        <handlers:Item Key="item046D" Value="飛毒竜の剛爪"/>
+        <handlers:Item Key="item046E" Value="飛毒竜の猛毒針"/>
+        <handlers:Item Key="item046F" Value="猛牛竜の重殻"/>
+        <handlers:Item Key="item0470" Value="猛牛竜の重甲"/>
+        <handlers:Item Key="item0471" Value="猛牛竜の巨大な角"/>
+        <handlers:Item Key="item0472" Value="猛牛竜の靭尾"/>
+        <handlers:Item Key="item0473" Value="蛮顎竜の厚鱗"/>
+        <handlers:Item Key="item0474" Value="蛮顎竜の厚毛皮"/>
+        <handlers:Item Key="item0475" Value="蛮顎竜の重牙"/>
+        <handlers:Item Key="item0476" Value="蛮顎竜の重鼻骨"/>
+        <handlers:Item Key="item0477" Value="蛮顎竜の靭尾"/>
+        <handlers:Item Key="item0478" Value="蛮顎竜の天鱗"/>
+        <handlers:Item Key="item0479" Value="雷顎竜の厚鱗"/>
+        <handlers:Item Key="item047A" Value="雷顎竜の厚毛皮"/>
+        <handlers:Item Key="item047B" Value="雷顎竜の重牙"/>
+        <handlers:Item Key="item047C" Value="雷顎竜鼻骨"/>
+        <handlers:Item Key="item047D" Value="雷顎竜の靭尾"/>
+        <handlers:Item Key="item047E" Value="雷顎竜の天鱗"/>
+        <handlers:Item Key="item047F" Value="雌火竜の厚鱗"/>
+        <handlers:Item Key="item0480" Value="雌火竜の重殻"/>
+        <handlers:Item Key="item0481" Value="雌火竜の厚翼膜"/>
+        <handlers:Item Key="item0482" Value="雌火竜の秘棘"/>
+        <handlers:Item Key="item0483" Value="雌火竜の天鱗"/>
+        <handlers:Item Key="item0484" Value="桜火竜の厚鱗"/>
+        <handlers:Item Key="item0485" Value="桜火竜の重殻"/>
+        <handlers:Item Key="item0486" Value="金火竜の厚鱗"/>
+        <handlers:Item Key="item0487" Value="金火竜の重殻"/>
+        <handlers:Item Key="item0488" Value="金火竜の秘棘"/>
+        <handlers:Item Key="item0489" Value="眩鳥の厚鱗"/>
+        <handlers:Item Key="item048A" Value="眩鳥の厚皮"/>
+        <handlers:Item Key="item048B" Value="眩鳥の剛爪"/>
+        <handlers:Item Key="item048C" Value="眩鳥の輝光膜"/>
+        <handlers:Item Key="item048D" Value="浮空竜の厚毛皮"/>
+        <handlers:Item Key="item048E" Value="浮空竜の厚鱗"/>
+        <handlers:Item Key="item048F" Value="浮空竜の重殻"/>
+        <handlers:Item Key="item0490" Value="浮空竜の剛翼 "/>
+        <handlers:Item Key="item0491" Value="浮眠竜の厚毛皮"/>
+        <handlers:Item Key="item0492" Value="浮眠竜の厚鱗"/>
+        <handlers:Item Key="item0493" Value="浮眠竜の剛翼 "/>
+        <handlers:Item Key="item0494" Value="痺賊竜の厚鱗"/>
+        <handlers:Item Key="item0495" Value="痺賊竜の厚皮"/>
+        <handlers:Item Key="item0496" Value="痺賊竜の重頭巾"/>
+        <handlers:Item Key="item0497" Value="痺賊竜の重牙"/>
+        <handlers:Item Key="item0498" Value="痺賊竜の靭尾"/>
+        <handlers:Item Key="item0499" Value="骨鎚竜の厚鱗"/>
+        <handlers:Item Key="item049A" Value="骨鎚竜の重殻"/>
+        <handlers:Item Key="item049B" Value="骨鎚竜の重油殻"/>
+        <handlers:Item Key="item049C" Value="大竜骨塊"/>
+        <handlers:Item Key="item049D" Value="風漂竜の厚鱗"/>
+        <handlers:Item Key="item049E" Value="風漂竜の厚皮"/>
+        <handlers:Item Key="item049F" Value="風漂竜の剛爪"/>
+        <handlers:Item Key="item04A0" Value="風漂竜の剛翼"/>
+        <handlers:Item Key="item04A1" Value="風漂竜の重尾膜"/>
+        <handlers:Item Key="item04A2" Value="風漂竜の天鱗"/>
         <handlers:Item Key="item04A3" Value="Item 1187"/>
         <handlers:Item Key="item04A4" Value="氷霜をまとう皮"/>
-        <handlers:Item Key="item04A5" Value="漆黒の​​​​‍‍‏氷刃爪"/>
+        <handlers:Item Key="item04A5" Value="漆黒の氷刃爪"/>
         <handlers:Item Key="item04A6" Value="冷厳なる翼"/>
         <handlers:Item Key="item04A7" Value="Item 1191"/>
         <handlers:Item Key="item04A8" Value="Item 1192"/>
-        <handlers:Item Key="item04A9" Value="惨爪竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04AA" Value="惨爪竜の​​​​‍‍‏硬筋"/>
-        <handlers:Item Key="item04AB" Value="惨爪竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04AC" Value="惨爪竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04AD" Value="惨爪竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04AE" Value="惨爪竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04AF" Value="惨爪竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04B0" Value="惨爪竜の​​​​‍‍‏硬筋"/>
-        <handlers:Item Key="item04B1" Value="惨爪竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04B2" Value="惨爪竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04B3" Value="惨爪竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04B4" Value="惨爪竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04B5" Value="火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04B6" Value="火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04B7" Value="火竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04B8" Value="火竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04B9" Value="火竜の​​​​‍‍‏翼爪"/>
-        <handlers:Item Key="item04BA" Value="火竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04BB" Value="火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04BC" Value="火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04BD" Value="火竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04BE" Value="火竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04BF" Value="火竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04C0" Value="火竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04C1" Value="火竜の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item04C2" Value="火竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04C3" Value="火竜の​​​​‍‍‏煌液"/>
-        <handlers:Item Key="item04C4" Value="角竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04C5" Value="角竜の​​​​‍‍‏重甲"/>
-        <handlers:Item Key="item04C6" Value="角竜の​​​​‍‍‏尾甲"/>
+        <handlers:Item Key="item04A9" Value="惨爪竜の厚鱗"/>
+        <handlers:Item Key="item04AA" Value="惨爪竜の強硬筋"/>
+        <handlers:Item Key="item04AB" Value="惨爪竜の剛爪"/>
+        <handlers:Item Key="item04AC" Value="惨爪竜の重牙"/>
+        <handlers:Item Key="item04AD" Value="惨爪竜の靭尾"/>
+        <handlers:Item Key="item04AE" Value="惨爪竜の天鱗"/>
+        <handlers:Item Key="item04AF" Value="兇爪竜の厚鱗"/>
+        <handlers:Item Key="item04B0" Value="兇爪竜の強硬筋"/>
+        <handlers:Item Key="item04B1" Value="兇爪竜の剛爪"/>
+        <handlers:Item Key="item04B2" Value="兇爪竜の重牙"/>
+        <handlers:Item Key="item04B3" Value="兇爪竜の靭尾"/>
+        <handlers:Item Key="item04B4" Value="兇爪竜の天鱗"/>
+        <handlers:Item Key="item04B5" Value="火竜の厚鱗"/>
+        <handlers:Item Key="item04B6" Value="火竜の重殻"/>
+        <handlers:Item Key="item04B7" Value="火竜 の剛翼 "/>
+        <handlers:Item Key="item04B8" Value="火竜の靭尾"/>
+        <handlers:Item Key="item04B9" Value="火竜の剛翼爪"/>
+        <handlers:Item Key="item04BA" Value="火竜の天鱗"/>
+        <handlers:Item Key="item04BB" Value="蒼火竜の厚鱗"/>
+        <handlers:Item Key="item04BC" Value="蒼火竜の重殻"/>
+        <handlers:Item Key="item04BD" Value="蒼火竜の靭尾"/>
+        <handlers:Item Key="item04BE" Value="蒼火竜の剛翼 "/>
+        <handlers:Item Key="item04BF" Value="銀火竜の厚鱗"/>
+        <handlers:Item Key="item04C0" Value="銀火竜の重殻"/>
+        <handlers:Item Key="item04C1" Value="銀火竜のの剛翼 "/>
+        <handlers:Item Key="item04C2" Value="銀炎竜の靭尾"/>
+        <handlers:Item Key="item04C3" Value="火竜の煌液"/>
+        <handlers:Item Key="item04C4" Value="角竜の重殻"/>
+        <handlers:Item Key="item04C5" Value="角竜の重甲"/>
+        <handlers:Item Key="item04C6" Value="角竜の重尾甲"/>
         <handlers:Item Key="item04C7" Value="堅牢なねじれた角"/>
-        <handlers:Item Key="item04C8" Value="大地を穿つ剛角"/>
-        <handlers:Item Key="item04C9" Value="角竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04CA" Value="角竜の​​​​‍‍‏重甲"/>
+        <handlers:Item Key="item04C8" Value="大地を穿つ剛角 "/>
+        <handlers:Item Key="item04C9" Value="黒角竜の重殻"/>
+        <handlers:Item Key="item04CA" Value="黒角竜の重甲"/>
         <handlers:Item Key="item04CB" Value="堅牢な黒巻き角"/>
-        <handlers:Item Key="item04CC" Value="岩賊竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04CD" Value="岩賊竜の​​​​‍‍‏厚皮"/>
-        <handlers:Item Key="item04CE" Value="岩賊竜の​​​​‍‍‏大顎"/>
-        <handlers:Item Key="item04CF" Value="岩賊竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04D0" Value="岩賊竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04D1" Value="溶岩竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04D2" Value="溶岩竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04D3" Value="溶岩竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04D4" Value="溶岩竜の​​​​‍‍‏特上ヒレ"/>
-        <handlers:Item Key="item04D5" Value="爆鎚竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04D6" Value="爆鎚竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04D7" Value="爆鎚竜の​​​​‍‍‏顎"/>
-        <handlers:Item Key="item04D8" Value="爆鎚竜の​​​​‍‍‏耐熱殻"/>
-        <handlers:Item Key="item04D9" Value="爆鎚竜の​​​​‍‍‏天殻"/>
-        <handlers:Item Key="item04DA" Value="氷牙竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04DB" Value="氷牙竜の​​​​‍‍‏厚毛皮"/>
-        <handlers:Item Key="item04DC" Value="氷牙竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04DD" Value="氷牙竜の​​​​‍‍‏重棘"/>
-        <handlers:Item Key="item04DE" Value="氷牙竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04DF" Value="琥珀色の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04E0" Value="迅竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04E1" Value="迅竜の​​​​‍‍‏豪黒毛"/>
-        <handlers:Item Key="item04E2" Value="迅竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04E3" Value="迅竜の​​​​‍‍‏重尾棘"/>
-        <handlers:Item Key="item04E4" Value="迅竜の​​​​‍‍‏剛刃翼"/>
-        <handlers:Item Key="item04E5" Value="迅竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04E6" Value="迅竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04E7" Value="轟竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04E8" Value="轟竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04E9" Value="轟竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item04EA" Value="轟竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04EB" Value="轟竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04EC" Value="轟竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04ED" Value="轟竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04EE" Value="轟竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04EF" Value="轟竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item04F0" Value="轟竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04F1" Value="斬竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04F2" Value="斬竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04F3" Value="斬竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04F4" Value="斬竜の​​​​‍‍‏獄炎状殻"/>
-        <handlers:Item Key="item04F5" Value="斬竜の​​​​‍‍‏断剣尾"/>
-        <handlers:Item Key="item04F6" Value="赤熱した熔炉嚢"/>
-        <handlers:Item Key="item04F7" Value="斬竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item04F8" Value="斬竜の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item04F9" Value="斬竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item04FA" Value="斬竜の​​​​‍‍‏重牙"/>
-        <handlers:Item Key="item04FB" Value="硫斬竜の​​​​‍‍‏剣山状殻"/>
-        <handlers:Item Key="item04FC" Value="斬竜の​​​​‍‍‏断剣尾"/>
+        <handlers:Item Key="item04CC" Value="岩賊竜の厚鱗"/>
+        <handlers:Item Key="item04CD" Value="岩賊竜の厚皮"/>
+        <handlers:Item Key="item04CE" Value="岩賊竜の大顎 "/>
+        <handlers:Item Key="item04CF" Value="岩賊竜の剛爪"/>
+        <handlers:Item Key="item04D0" Value="岩賊竜の靭尾"/>
+        <handlers:Item Key="item04D1" Value="溶岩竜の厚鱗"/>
+        <handlers:Item Key="item04D2" Value="溶岩竜の重殻"/>
+        <handlers:Item Key="item04D3" Value="溶岩竜の重牙"/>
+        <handlers:Item Key="item04D4" Value="溶岩竜の特上ヒレ"/>
+        <handlers:Item Key="item04D5" Value="爆鎚竜の厚鱗"/>
+        <handlers:Item Key="item04D6" Value="爆鎚竜の重殻"/>
+        <handlers:Item Key="item04D7" Value="爆鎚竜の重顎"/>
+        <handlers:Item Key="item04D8" Value="爆鎚竜の重耐熱殻"/>
+        <handlers:Item Key="item04D9" Value="爆鎚竜の天殻"/>
+        <handlers:Item Key="item04DA" Value="氷牙竜の重殻"/>
+        <handlers:Item Key="item04DB" Value="氷牙竜の厚毛皮"/>
+        <handlers:Item Key="item04DC" Value="氷牙竜の剛爪"/>
+        <handlers:Item Key="item04DD" Value="氷牙竜の重棘"/>
+        <handlers:Item Key="item04DE" Value="氷牙竜の靭尾"/>
+        <handlers:Item Key="item04DF" Value="琥珀色の重牙"/>
+        <handlers:Item Key="item04E0" Value="迅竜の厚鱗"/>
+        <handlers:Item Key="item04E1" Value="迅竜の豪黒毛"/>
+        <handlers:Item Key="item04E2" Value="迅竜の靭尾"/>
+        <handlers:Item Key="item04E3" Value="迅竜の重尾棘"/>
+        <handlers:Item Key="item04E4" Value="迅竜の剛刃翼/"/>
+        <handlers:Item Key="item04E5" Value="迅竜の重牙"/>
+        <handlers:Item Key="item04E6" Value="迅竜の天鱗"/>
+        <handlers:Item Key="item04E7" Value="轟竜の厚鱗"/>
+        <handlers:Item Key="item04E8" Value="轟竜の重殻"/>
+        <handlers:Item Key="item04E9" Value="轟竜の靭尾"/>
+        <handlers:Item Key="item04EA" Value="轟竜の剛爪"/>
+        <handlers:Item Key="item04EB" Value="轟竜の重牙"/>
+        <handlers:Item Key="item04EC" Value="轟竜の天鱗"/>
+        <handlers:Item Key="item04ED" Value="黒轟竜の厚鱗"/>
+        <handlers:Item Key="item04EE" Value="黒轟竜の重殻"/>
+        <handlers:Item Key="item04EF" Value="黒轟竜の剛爪"/>
+        <handlers:Item Key="item04F0" Value="黒轟竜の重牙"/>
+        <handlers:Item Key="item04F1" Value="斬竜の厚鱗"/>
+        <handlers:Item Key="item04F2" Value="斬竜の重殻"/>
+        <handlers:Item Key="item04F3" Value="斬竜の重牙"/>
+        <handlers:Item Key="item04F4" Value="斬竜の獄炎状殻"/>
+        <handlers:Item Key="item04F5" Value="斬竜の断剣尾"/>
+        <handlers:Item Key="item04F6" Value="赤熱した溶炉嚢"/>
+        <handlers:Item Key="item04F7" Value="斬竜の天鱗"/>
+        <handlers:Item Key="item04F8" Value="硫斬竜の厚鱗"/>
+        <handlers:Item Key="item04F9" Value="硫斬竜の重殻"/>
+        <handlers:Item Key="item04FA" Value="硫斬竜の重牙"/>
+        <handlers:Item Key="item04FB" Value="硫斬竜の剣山状殻"/>
+        <handlers:Item Key="item04FC" Value="硫斬竜の断剣尾"/>
         <handlers:Item Key="item04FD" Value="削られた硫晶片"/>
         <handlers:Item Key="item04FE" Value="Item 1278"/>
-        <handlers:Item Key="item04FF" Value="砕竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0500" Value="砕竜の​​​​‍‍‏重黒曜甲"/>
-        <handlers:Item Key="item0501" Value="砕竜の​​​​‍‍‏重頭殻"/>
+        <handlers:Item Key="item04FF" Value="砕竜の重殻"/>
+        <handlers:Item Key="item0500" Value="砕竜の黒曜甲"/>
+        <handlers:Item Key="item0501" Value="砕竜の重頭殻"/>
         <handlers:Item Key="item0502" Value="光る粘菌"/>
-        <handlers:Item Key="item0503" Value="砕竜の​​​​‍‍‏剛鉄拳"/>
-        <handlers:Item Key="item0504" Value="砕竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0505" Value="砕竜の​​​​‍‍‏天殻"/>
+        <handlers:Item Key="item0503" Value="砕竜の剛鉄拳"/>
+        <handlers:Item Key="item0504" Value="砕竜の靭尾"/>
+        <handlers:Item Key="item0505" Value="砕竜の天殻"/>
         <handlers:Item Key="item0506" Value="Item 1286"/>
         <handlers:Item Key="item0507" Value="Item 1287"/>
         <handlers:Item Key="item0508" Value="Item 1288"/>
         <handlers:Item Key="item0509" Value="Item 1289"/>
-        <handlers:Item Key="item050A" Value="黒狼鳥の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item050B" Value="黒狼鳥の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item050C" Value="黒狼鳥の​​​​‍‍‏地獄耳"/>
+        <handlers:Item Key="item050A" Value="黒狼鳥の厚鱗"/>
+        <handlers:Item Key="item050B" Value="黒狼鳥の重殻"/>
+        <handlers:Item Key="item050C" Value="黒狼鳥の地獄耳 "/>
         <handlers:Item Key="item050D" Value="イカしたクチバシ"/>
-        <handlers:Item Key="item050E" Value="黒狼鳥の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item050F" Value="黒狼鳥の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0510" Value="黒狼鳥の​​​​‍‍‏銀狼毛"/>
-        <handlers:Item Key="item0511" Value="雷狼竜の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0512" Value="雷狼竜の​​​​‍‍‏雷電毛"/>
-        <handlers:Item Key="item0513" Value="雷狼竜の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item0514" Value="雷狼竜の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0515" Value="雷狼竜の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0516" Value="雷狼竜の​​​​‍‍‏雷電殻"/>
+        <handlers:Item Key="item050E" Value="黒狼鳥の剛翼 "/>
+        <handlers:Item Key="item050F" Value="黒狼鳥の靭尾"/>
+        <handlers:Item Key="item0510" Value="黒狼鳥の銀狼毛"/>
+        <handlers:Item Key="item0511" Value="雷狼竜の重殻"/>
+        <handlers:Item Key="item0512" Value="雷狼竜の雷電毛"/>
+        <handlers:Item Key="item0513" Value="雷狼竜の剛角"/>
+        <handlers:Item Key="item0514" Value="雷狼竜の剛爪"/>
+        <handlers:Item Key="item0515" Value="雷狼竜の靭尾"/>
+        <handlers:Item Key="item0516" Value="雷狼竜の雷電殻 "/>
         <handlers:Item Key="item0517" Value="超電雷光虫"/>
-        <handlers:Item Key="item0518" Value="雷狼竜の​​​​‍‍‏天玉"/>
+        <handlers:Item Key="item0518" Value="雷狼竜の天玉"/>
         <handlers:Item Key="item0519" Value="Item 1305"/>
         <handlers:Item Key="item051A" Value="Item 1306"/>
         <handlers:Item Key="item051B" Value="Item 1307"/>
@@ -1338,21 +1338,21 @@
         <handlers:Item Key="item051E" Value="Item 1310"/>
         <handlers:Item Key="item051F" Value="Item 1311"/>
         <handlers:Item Key="item0520" Value="Item 1312"/>
-        <handlers:Item Key="item0521" Value="爆鱗竜の​​​​‍‍‏厚鱗"/>
+        <handlers:Item Key="item0521" Value="爆鱗竜の厚鱗"/>
         <handlers:Item Key="item0522" Value="紅蓮にゆれる銀殻"/>
-        <handlers:Item Key="item0523" Value="爆鱗竜の​​​​‍‍‏重尾"/>
+        <handlers:Item Key="item0523" Value="爆鱗竜の重尾"/>
         <handlers:Item Key="item0524" Value="凝縮された爆腺液"/>
-        <handlers:Item Key="item0525" Value="爆鱗竜の​​​​‍‍‏剛爪"/>
+        <handlers:Item Key="item0525" Value="爆鱗竜の剛爪"/>
         <handlers:Item Key="item0526" Value="天を焦がす銀翼"/>
-        <handlers:Item Key="item0527" Value="爆鱗竜の​​​​‍‍‏天鱗"/>
-        <handlers:Item Key="item0528" Value="恐暴竜の​​​​‍‍‏厚黒鱗"/>
-        <handlers:Item Key="item0529" Value="恐暴竜の​​​​‍‍‏厚黒皮"/>
+        <handlers:Item Key="item0527" Value="爆鱗竜の天鱗"/>
+        <handlers:Item Key="item0528" Value="恐暴竜の厚鱗"/>
+        <handlers:Item Key="item0529" Value="恐暴竜の厚黒皮"/>
         <handlers:Item Key="item052A" Value="Item 1322"/>
         <handlers:Item Key="item052B" Value="極悪な牙"/>
-        <handlers:Item Key="item052C" Value="恐暴竜の​​​​‍‍‏剛鉤爪"/>
-        <handlers:Item Key="item052D" Value="恐暴竜の​​​​‍‍‏重尾"/>
+        <handlers:Item Key="item052C" Value="恐暴竜の剛鉤爪"/>
+        <handlers:Item Key="item052D" Value="恐暴竜の重尾"/>
         <handlers:Item Key="item052E" Value="ドス黒い血"/>
-        <handlers:Item Key="item052F" Value="恐暴竜の​​​​‍‍‏滅鱗"/>
+        <handlers:Item Key="item052F" Value="恐暴竜の滅鱗"/>
         <handlers:Item Key="item0530" Value="Item 1328"/>
         <handlers:Item Key="item0531" Value="Item 1329"/>
         <handlers:Item Key="item0532" Value="Item 1330"/>
@@ -1362,55 +1362,55 @@
         <handlers:Item Key="item0536" Value="Item 1334"/>
         <handlers:Item Key="item0537" Value="Item 1335"/>
         <handlers:Item Key="item0538" Value="Item 1336"/>
-        <handlers:Item Key="item0539" Value="幻獣の​​​​‍‍‏特上皮"/>
-        <handlers:Item Key="item053A" Value="幻獣の​​​​‍‍‏雷尾"/>
-        <handlers:Item Key="item053B" Value="幻獣の​​​​‍‍‏銀たてがみ"/>
-        <handlers:Item Key="item053C" Value="幻獣の​​​​‍‍‏蒼角"/>
-        <handlers:Item Key="item053D" Value="不滅の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item053E" Value="滅尽龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item053F" Value="滅尽龍の​​​​‍‍‏重尾"/>
-        <handlers:Item Key="item0540" Value="殲滅の​​​​‍‍‏大剛角"/>
-        <handlers:Item Key="item0541" Value="滅尽龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0542" Value="無窮の​​​​‍‍‏新生殻"/>
-        <handlers:Item Key="item0543" Value="氷晶の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item0544" Value="冰龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0545" Value="冰龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0546" Value="冰龍の​​​​‍‍‏冠角"/>
-        <handlers:Item Key="item0547" Value="冰龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0548" Value="冰龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0549" Value="冰龍の​​​​‍‍‏零玉"/>
-        <handlers:Item Key="item054A" Value="炎王龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item054B" Value="炎王龍の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item054C" Value="炎王龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item054D" Value="炎王龍の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item054E" Value="獄炎の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item054F" Value="炎龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0550" Value="炎龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0551" Value="炎妃龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0552" Value="炎妃龍の​​​​‍‍‏たてがみ"/>
-        <handlers:Item Key="item0553" Value="炎妃龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0554" Value="炎妃龍の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item0555" Value="炎妃龍の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item0556" Value="炎妃龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0557" Value="鋼龍の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item0558" Value="鋼の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item0559" Value="鋼龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item055A" Value="鋼龍の​​​​‍‍‏剛角"/>
-        <handlers:Item Key="item055B" Value="鋼龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item055C" Value="鋼龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item055D" Value="死屍の​​​​‍‍‏厚龍鱗"/>
-        <handlers:Item Key="item055E" Value="屍套龍の​​​​‍‍‏重殻"/>
+        <handlers:Item Key="item0539" Value="幻獣の特上皮"/>
+        <handlers:Item Key="item053A" Value="幻獣の靭雷尾"/>
+        <handlers:Item Key="item053B" Value="幻獣の銀たてがみ"/>
+        <handlers:Item Key="item053C" Value="幻獣の剛蒼角"/>
+        <handlers:Item Key="item053D" Value="不滅の厚龍鱗"/>
+        <handlers:Item Key="item053E" Value="滅尽龍の重殻"/>
+        <handlers:Item Key="item053F" Value="滅尽龍の重尾"/>
+        <handlers:Item Key="item0540" Value="殲滅の大剛角 "/>
+        <handlers:Item Key="item0541" Value="滅尽龍の剛爪"/>
+        <handlers:Item Key="item0542" Value="無窮の新生殻"/>
+        <handlers:Item Key="item0543" Value="氷晶の厚龍鱗"/>
+        <handlers:Item Key="item0544" Value="冰龍の重殻"/>
+        <handlers:Item Key="item0545" Value="冰龍の剛翼"/>
+        <handlers:Item Key="item0546" Value="冰龍の冠角"/>
+        <handlers:Item Key="item0547" Value="冰龍の靭尾"/>
+        <handlers:Item Key="item0548" Value="冰龍の剛爪"/>
+        <handlers:Item Key="item0549" Value="冰龍の零玉"/>
+        <handlers:Item Key="item054A" Value="炎王龍の重殻"/>
+        <handlers:Item Key="item054B" Value="炎王龍の大たてがみ"/>
+        <handlers:Item Key="item054C" Value="炎龍の靭尾"/>
+        <handlers:Item Key="item054D" Value="炎王龍の剛角"/>
+        <handlers:Item Key="item054E" Value="獄炎の厚龍鱗"/>
+        <handlers:Item Key="item054F" Value="炎龍の剛爪"/>
+        <handlers:Item Key="item0550" Value="炎龍の剛翼"/>
+        <handlers:Item Key="item0551" Value="炎妃龍の重殻"/>
+        <handlers:Item Key="item0552" Value="炎妃龍の大たてがみ"/>
+        <handlers:Item Key="item0553" Value="炎妃龍の靭尾"/>
+        <handlers:Item Key="item0554" Value="炎妃龍の剛角"/>
+        <handlers:Item Key="item0555" Value="炎妃龍の厚鱗"/>
+        <handlers:Item Key="item0556" Value="炎妃龍の剛翼"/>
+        <handlers:Item Key="item0557" Value="鋼龍の重殻"/>
+        <handlers:Item Key="item0558" Value="鋼の厚龍鱗"/>
+        <handlers:Item Key="item0559" Value="鋼龍の剛翼"/>
+        <handlers:Item Key="item055A" Value="鋼龍の剛角"/>
+        <handlers:Item Key="item055B" Value="鋼龍のの靭尾"/>
+        <handlers:Item Key="item055C" Value="鋼龍のの剛爪"/>
+        <handlers:Item Key="item055D" Value="死屍の厚鱗"/>
+        <handlers:Item Key="item055E" Value="屍套龍の重殻"/>
         <handlers:Item Key="item055F" Value="死屍を紡いだ被膜"/>
-        <handlers:Item Key="item0560" Value="屍套龍の​​​​‍‍‏重尾"/>
+        <handlers:Item Key="item0560" Value="屍套龍の重尾"/>
         <handlers:Item Key="item0561" Value="闇を食む牙"/>
-        <handlers:Item Key="item0562" Value="屍套龍の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item0563" Value="屍套龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0564" Value="溟龍の​​​​‍‍‏特上皮"/>
+        <handlers:Item Key="item0562" Value="屍套龍の剛爪"/>
+        <handlers:Item Key="item0563" Value="屍套龍の剛翼"/>
+        <handlers:Item Key="item0564" Value="溟龍の特上皮"/>
         <handlers:Item Key="item0565" Value="Item 1381"/>
-        <handlers:Item Key="item0566" Value="溟龍の​​​​‍‍‏剛翼"/>
-        <handlers:Item Key="item0567" Value="溟龍の​​​​‍‍‏幻曜ヒゲ"/>
-        <handlers:Item Key="item0568" Value="溟龍の​​​​‍‍‏靭尾"/>
-        <handlers:Item Key="item0569" Value="溟龍の​​​​‍‍‏剛爪"/>
+        <handlers:Item Key="item0566" Value="溟龍の剛翼"/>
+        <handlers:Item Key="item0567" Value="溟龍の幻曜ヒゲ"/>
+        <handlers:Item Key="item0568" Value="溟龍の靭尾"/>
+        <handlers:Item Key="item0569" Value="溟龍の剛爪"/>
         <handlers:Item Key="item056A" Value="Item 1386"/>
         <handlers:Item Key="item056B" Value="Item 1387"/>
         <handlers:Item Key="item056C" Value="Item 1388"/>
@@ -1420,13 +1420,13 @@
         <handlers:Item Key="item0570" Value="Item 1392"/>
         <handlers:Item Key="item0571" Value="Item 1393"/>
         <handlers:Item Key="item0572" Value="Item 1394"/>
-        <handlers:Item Key="item0573" Value="地啼龍の​​​​‍‍‏慈鱗"/>
-        <handlers:Item Key="item0574" Value="地啼龍の​​​​‍‍‏厳岩殻"/>
+        <handlers:Item Key="item0573" Value="地啼龍の慈鱗"/>
+        <handlers:Item Key="item0574" Value="地啼龍の厳岩殻"/>
         <handlers:Item Key="item0575" Value="Item 1397"/>
-        <handlers:Item Key="item0576" Value="地啼龍の​​​​‍‍‏慈眼殻"/>
-        <handlers:Item Key="item0577" Value="地啼龍の​​​​‍‍‏散華石"/>
-        <handlers:Item Key="item0578" Value="地啼龍の​​​​‍‍‏慈爪"/>
-        <handlers:Item Key="item0579" Value="地啼龍の​​​​‍‍‏顕玉"/>
+        <handlers:Item Key="item0576" Value="地啼龍の慈眼殻"/>
+        <handlers:Item Key="item0577" Value="地啼龍の散華石"/>
+        <handlers:Item Key="item0578" Value="地啼龍の慈爪"/>
+        <handlers:Item Key="item0579" Value="地啼龍の顕玉"/>
         <handlers:Item Key="item057A" Value="Item 1402"/>
         <handlers:Item Key="item057B" Value="Item 1403"/>
         <handlers:Item Key="item057C" Value="Item 1404"/>
@@ -1434,7 +1434,7 @@
         <handlers:Item Key="item057E" Value="Item 1406"/>
         <handlers:Item Key="item057F" Value="Item 1407"/>
         <handlers:Item Key="item0580" Value="Item 1408"/>
-        <handlers:Item Key="item0581" Value="太古の​​​​‍‍‏珠"/>
+        <handlers:Item Key="item0581" Value="太古の珠"/>
         <handlers:Item Key="item0582" Value="刻まれた珠"/>
         <handlers:Item Key="item0583" Value="封じられた珠"/>
         <handlers:Item Key="item0584" Value="朽ちた龍鱗"/>
@@ -1442,12 +1442,12 @@
         <handlers:Item Key="item0586" Value="龍秘宝"/>
         <handlers:Item Key="item0587" Value="Item 1415"/>
         <handlers:Item Key="item0588" Value="Item 1416"/>
-        <handlers:Item Key="item0589" Value="？？？の​​​​‍‍‏厚鱗"/>
-        <handlers:Item Key="item058A" Value="？？？の​​​​‍‍‏岩殻"/>
-        <handlers:Item Key="item058B" Value="？？？の​​​​‍‍‏重殻"/>
-        <handlers:Item Key="item058C" Value="？？？の​​​​‍‍‏岩石"/>
-        <handlers:Item Key="item058D" Value="？？？の​​​​‍‍‏剛爪"/>
-        <handlers:Item Key="item058E" Value="？？？の​​​​‍‍‏大宝玉"/>
+        <handlers:Item Key="item0589" Value="？？？の厚鱗"/>
+        <handlers:Item Key="item058A" Value="？？？の岩殻"/>
+        <handlers:Item Key="item058B" Value="？？？の重殻"/>
+        <handlers:Item Key="item058C" Value="？？？の岩石"/>
+        <handlers:Item Key="item058D" Value="？？？の剛爪"/>
+        <handlers:Item Key="item058E" Value="？？？の大宝玉"/>
         <handlers:Item Key="item058F" Value="Item 1423"/>
         <handlers:Item Key="item0590" Value="Item 1424"/>
         <handlers:Item Key="item0591" Value="Item 1425"/>
@@ -1457,7 +1457,7 @@
         <handlers:Item Key="item0595" Value="Item 1429"/>
         <handlers:Item Key="item0596" Value="Item 1430"/>
         <handlers:Item Key="item0597" Value="天の竜人手形"/>
-        <handlers:Item Key="item0598" Value="覇王の​​​​‍‍‏証"/>
+        <handlers:Item Key="item0598" Value="覇王の証"/>
         <handlers:Item Key="item0599" Value="調査団チケット"/>
         <handlers:Item Key="item059A" Value="バフバロコイン"/>
         <handlers:Item Key="item059B" Value="ウルムーコイン"/>
@@ -1471,15 +1471,15 @@
         <handlers:Item Key="item05A3" Value="巨大なウロコ"/>
         <handlers:Item Key="item05A4" Value="すばらしいウロコ"/>
         <handlers:Item Key="item05A5" Value="ボワボワチケット"/>
-        <handlers:Item Key="item05A6" Value="特産ふきの​​​​‍‍‏とう"/>
-        <handlers:Item Key="item05A7" Value="厳選ふきの​​​​‍‍‏とう"/>
-        <handlers:Item Key="item05A8" Value="万年ふきの​​​​‍‍‏とう"/>
+        <handlers:Item Key="item05A6" Value="特産ふきのとう"/>
+        <handlers:Item Key="item05A7" Value="厳選ふきのとう"/>
+        <handlers:Item Key="item05A8" Value="万年ふきのとう"/>
         <handlers:Item Key="item05A9" Value="氷瑞花"/>
         <handlers:Item Key="item05AA" Value="氷瑞花"/>
         <handlers:Item Key="item05AB" Value="氷瑞花"/>
         <handlers:Item Key="item05AC" Value="スノーホワイト"/>
         <handlers:Item Key="item05AD" Value="クリスタルフラワー"/>
-        <handlers:Item Key="item05AE" Value="生命の​​​​‍‍‏大粉塵"/>
+        <handlers:Item Key="item05AE" Value="支給専用大粉塵"/>
         <handlers:Item Key="item05AF" Value="ギンセンザル"/>
         <handlers:Item Key="item05B0" Value="キンセンザル"/>
         <handlers:Item Key="item05B1" Value="Item 1457"/>
@@ -1492,10 +1492,10 @@
         <handlers:Item Key="item05B8" Value="グラスパレクス"/>
         <handlers:Item Key="item05B9" Value="ツキノハゴロモ"/>
         <handlers:Item Key="item05BA" Value="モギー"/>
-        <handlers:Item Key="item05BB" Value="モギー"/>
-        <handlers:Item Key="item05BC" Value="モギー"/>
-        <handlers:Item Key="item05BD" Value="モギー"/>
-        <handlers:Item Key="item05BE" Value="モギー"/>
+        <handlers:Item Key="item05BB" Value="モリモギー"/>
+        <handlers:Item Key="item05BC" Value="ディグモギー"/>
+        <handlers:Item Key="item05BD" Value="フラフィモギー"/>
+        <handlers:Item Key="item05BE" Value="ノーティモギー"/>
         <handlers:Item Key="item05BF" Value="Item 1471"/>
         <handlers:Item Key="item05C0" Value="Item 1472"/>
         <handlers:Item Key="item05C1" Value="ドスグラスパレクス"/>
@@ -1503,9 +1503,9 @@
         <handlers:Item Key="item05C3" Value="Item 1475"/>
         <handlers:Item Key="item05C4" Value="Item 1476"/>
         <handlers:Item Key="item05C5" Value="Item 1477"/>
-        <handlers:Item Key="item05C6" Value="龍脈炭の​​​​‍‍‏かけら"/>
+        <handlers:Item Key="item05C6" Value="龍脈炭のかけら"/>
         <handlers:Item Key="item05C7" Value="龍脈炭"/>
-        <handlers:Item Key="item05C8" Value="龍脈炭"/>
+        <handlers:Item Key="item05C8" Value="龍脈炭（Chunk)"/>
         <handlers:Item Key="item05C9" Value="布製の​​​​‍‍‏カーテン【小】"/>
         <handlers:Item Key="item05CA" Value="毛皮の​​​​‍‍‏カーテン【小】"/>
         <handlers:Item Key="item05CB" Value="上品なカーテン【小】"/>
@@ -1546,7 +1546,7 @@
         <handlers:Item Key="item05EE" Value="渡りの​​​​‍‍‏凍て地の​​​​‍‍‏植物３"/>
         <handlers:Item Key="item05EF" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物１"/>
         <handlers:Item Key="item05F0" Value="Item 1520"/>
-        <handlers:Item Key="item05F1" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物４"/>
+        <handlers:Item Key="item05F1" Value="古代樹の森の植物４"/>
         <handlers:Item Key="item05F2" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物５"/>
         <handlers:Item Key="item05F3" Value="古代樹の​​​​‍‍‏森の​​​​‍‍‏植物３"/>
         <handlers:Item Key="item05F4" Value="大蟻塚の​​​​‍‍‏荒地の​​​​‍‍‏植物２"/>
@@ -1768,10 +1768,10 @@
         <handlers:Item Key="item06CC" Value="Item 1740"/>
         <handlers:Item Key="item06CD" Value="Item 1741"/>
         <handlers:Item Key="item06CE" Value="Item 1742"/>
-        <handlers:Item Key="item06CF" Value="石ころ"/>
+        <handlers:Item Key="item06CF" Value="素朴な石畳"/>
         <handlers:Item Key="item06D0" Value="Wooden Wall"/>
         <handlers:Item Key="item06D1" Value="Chic Wooden Wall"/>
-        <handlers:Item Key="item06D2" Value="石ころ"/>
+        <handlers:Item Key="item06D2" Value="素朴な石壁"/>
         <handlers:Item Key="item06D3" Value="Item 1747"/>
         <handlers:Item Key="item06D4" Value="Item 1748"/>
         <handlers:Item Key="item06D5" Value="Simple Stucco Wall"/>
@@ -1807,7 +1807,7 @@
         <handlers:Item Key="item06F3" Value="Traditional Lights"/>
         <handlers:Item Key="item06F4" Value="Item 1780"/>
         <handlers:Item Key="item06F5" Value="撃龍杭砲の​​​​‍‍‏燃料"/>
-        <handlers:Item Key="item06F6" Value="救援の​​​​‍‍‏ろしの​​​​‍‍‏指笛"/>
+        <handlers:Item Key="item06F6" Value="救援のろしの指笛"/>
         <handlers:Item Key="item06F7" Value="Item 1783"/>
         <handlers:Item Key="item06F8" Value="虫かご族・蜻蛉フライ"/>
         <handlers:Item Key="item06F9" Value="まもり族・黄金干物"/>
@@ -1883,10 +1883,10 @@
         <handlers:Item Key="item073F" Value="Item 1855"/>
         <handlers:Item Key="item0740" Value="艶やかな飾り羽"/>
         <handlers:Item Key="item0741" Value="Item 1857"/>
-        <handlers:Item Key="item0742" Value="毒袋"/>
-        <handlers:Item Key="item0743" Value="毒袋"/>
+        <handlers:Item Key="item0742" Value="甘く香り立つ毒喉袋"/>
+        <handlers:Item Key="item0743" Value="歴戦の猛毒喉袋"/>
         <handlers:Item Key="item0744" Value="潤いに満ちた喉袋"/>
-        <handlers:Item Key="item0745" Value="大水袋"/>
+        <handlers:Item Key="item0745" Value="歴戦の大水喉袋"/>
         <handlers:Item Key="item0746" Value="泥の​​​​‍‍‏王冠殻"/>
         <handlers:Item Key="item0747" Value="歴戦の​​​​‍‍‏王冠殻"/>
         <handlers:Item Key="item0748" Value="Item 1864"/>
@@ -1910,7 +1910,7 @@
         <handlers:Item Key="item075A" Value="ギラつく閃光膜"/>
         <handlers:Item Key="item075B" Value="Item 1883"/>
         <handlers:Item Key="item075C" Value="超弾力ゴム殻"/>
-        <handlers:Item Key="item075D" Value="超弾力ゴム殻"/>
+        <handlers:Item Key="item075D" Value="歴戦のゴム質殻"/>
         <handlers:Item Key="item075E" Value="漆黒の​​​​‍‍‏高級毛皮"/>
         <handlers:Item Key="item075F" Value="歴戦の​​​​‍‍‏黒毛皮"/>
         <handlers:Item Key="item0760" Value="闇夜の​​​​‍‍‏頭巾殻"/>
