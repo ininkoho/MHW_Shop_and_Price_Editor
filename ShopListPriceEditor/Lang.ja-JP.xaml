@@ -2,8 +2,6 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:system="clr-namespace:System;assembly=mscorlib"
                     xmlns:handlers="clr-namespace:ShopListPriceEditor.Handlers">
-
-
     <!--application-->
     <system:String x:Key="title">Provisions Shop List and Price Editor</system:String>
     <system:String x:Key="file">ファイル</system:String>
@@ -1157,7 +1155,7 @@
         <handlers:Item Key="item0469" Value="飛雷竜の雷光針"/>
         <handlers:Item Key="item046A" Value="飛毒竜の厚鱗"/>
         <handlers:Item Key="item046B" Value="飛毒竜の厚毛皮"/>
-        <handlers:Item Key="item046C" Value="飛毒竜の厚皮膜">
+        <handlers:Item Key="item046C" Value="飛毒竜の厚皮膜"/>
         <handlers:Item Key="item046D" Value="飛毒竜の剛爪"/>
         <handlers:Item Key="item046E" Value="飛毒竜の猛毒針"/>
         <handlers:Item Key="item046F" Value="猛牛竜の重殻"/>
@@ -2702,7 +2700,7 @@
         <handlers:Item Key="item0A72" Value="Item 2674"/>
         <handlers:Item Key="item0A73" Value="レイトウチケット"/>
         <handlers:Item Key="item0A74" Value="ギンセンチケット"/>
-        <handlers:Item Key="item0A75" Value="雪玉"/>
+        <handlers:Item Key="item0A75" Value="雪玉"/> 
         <handlers:Item Key="item0A76" Value="雪だるま"/>
         <handlers:Item Key="item0A77" Value="Item 2679"/>
         <handlers:Item Key="item0A78" Value="Item 2680"/>

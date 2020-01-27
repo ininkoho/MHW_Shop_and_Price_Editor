@@ -204,6 +204,9 @@ namespace ShopListPriceEditor
                     case "ja-JP":
                         dict.Source = new Uri("Lang.ja-JP.xaml", UriKind.Relative);
                         break;
+                    case "zh-Hans":
+                        dict.Source = new Uri("Lang.zh-Hans.xaml", UriKind.Relative);
+                        break;
                 default:
                         break;
                 }

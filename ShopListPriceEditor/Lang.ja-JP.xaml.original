@@ -2,8 +2,6 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                     xmlns:system="clr-namespace:System;assembly=mscorlib"
                     xmlns:handlers="clr-namespace:ShopListPriceEditor.Handlers">
-
-
     <!--application-->
     <system:String x:Key="title">Provisions Shop List and Price Editor</system:String>
     <system:String x:Key="file">ファイル</system:String>

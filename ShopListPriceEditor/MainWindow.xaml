@@ -53,8 +53,9 @@
                         <MenuItem Header="{DynamicResource lang}" Height="19" Width="100">
                             <ComboBox Width="120" SelectionChanged="LanguageChanged" x:Name="Language">
                                 <ComboBoxItem Content="English" Tag="en-US"/>
-                                <ComboBoxItem Content="繁體中文" Tag="zh-TW"/>
                                 <ComboBoxItem Content="日本語" Tag="ja-JP"/>
+                                <ComboBoxItem Content="繁體中文" Tag="zh-TW"/>
+                                <ComboBoxItem Content="维基百科" Tag="zh-Hans"/>
                             </ComboBox>
                         </MenuItem>
                     </Menu>
