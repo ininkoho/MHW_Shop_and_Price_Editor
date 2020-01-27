@@ -2436,8 +2436,8 @@
         <handlers:Item Key="item096A" Value="Item 2410"/>
         <handlers:Item Key="item096B" Value="Item 2411"/>
         <handlers:Item Key="item096C" Value="Item 2412"/>
-        <handlers:Item Key="item096D" Value="Plum Flower Pot"/>
-        <handlers:Item Key="item096E" Value="Decorative Tree"/>
+        <handlers:Item Key="item096D" Value="梅花の植木鉢"/>
+        <handlers:Item Key="item096E" Value="飾り木の植木鉢"/>
         <handlers:Item Key="item096F" Value="Item 2415"/>
         <handlers:Item Key="item0970" Value="Item 2416"/>
         <handlers:Item Key="item0971" Value="Item 2417"/>
@@ -2453,10 +2453,10 @@
         <handlers:Item Key="item097B" Value="Item 2427"/>
         <handlers:Item Key="item097C" Value="Item 2428"/>
         <handlers:Item Key="item097D" Value="Item 2429"/>
-        <handlers:Item Key="item097E" Value="Felyne Balloon"/>
-        <handlers:Item Key="item097F" Value="Grimalkyne Balloon (White)"/>
-        <handlers:Item Key="item0980" Value="Grimalkyne Balloon (Black)"/>
-        <handlers:Item Key="item0981" Value="Gajalaka Balloon"/>
+        <handlers:Item Key="item097E" Value="アイルーバルーン"/>
+        <handlers:Item Key="item097F" Value="テトルーバルーン・白"/>
+        <handlers:Item Key="item0980" Value="テトルーバルーン・黒"/>
+        <handlers:Item Key="item0981" Value="ガジャブーバルーン"/>
         <handlers:Item Key="item0982" Value="Item 2434"/>
         <handlers:Item Key="item0983" Value="Item 2435"/>
         <handlers:Item Key="item0984" Value="Item 2436"/>
@@ -2478,8 +2478,8 @@
         <handlers:Item Key="item0994" Value="Item 2452"/>
         <handlers:Item Key="item0995" Value="Item 2453"/>
         <handlers:Item Key="item0996" Value="Item 2454"/>
-        <handlers:Item Key="item0997" Value="Joyful Lanterns"/>
-        <handlers:Item Key="item0998" Value="Sky Lantern Lights"/>
+        <handlers:Item Key="item0997" Value="万福提灯"/>
+        <handlers:Item Key="item0998" Value="天橙の証明"/>
         <handlers:Item Key="item0999" Value="Item 2457"/>
         <handlers:Item Key="item099A" Value="Item 2458"/>
         <handlers:Item Key="item099B" Value="Item 2459"/>
@@ -2497,9 +2497,9 @@
         <handlers:Item Key="item09A7" Value="Item 2471"/>
         <handlers:Item Key="item09A8" Value="Item 2472"/>
         <handlers:Item Key="item09A9" Value="Item 2473"/>
-        <handlers:Item Key="item09AA" Value="Paper Lantern"/>
+        <handlers:Item Key="item09AA" Value="灯籠"/>
         <handlers:Item Key="item09AB" Value="Item 2475"/>
-        <handlers:Item Key="item09AC" Value="Round Paper Lanterns"/>
+        <handlers:Item Key="item09AC" Value="行燈"/>
         <handlers:Item Key="item09AD" Value="Item 2477"/>
         <handlers:Item Key="item09AE" Value="Item 2478"/>
         <handlers:Item Key="item09AF" Value="Item 2479"/>
@@ -2553,8 +2553,8 @@
         <handlers:Item Key="item09DF" Value="Item 2527"/>
         <handlers:Item Key="item09E0" Value="Item 2528"/>
         <handlers:Item Key="item09E1" Value="Item 2529"/>
-        <handlers:Item Key="item09E2" Value="Joyful Platter"/>
-        <handlers:Item Key="item09E3" Value="Luxury Platter"/>
+        <handlers:Item Key="item09E2" Value="万福料理セット"/>
+        <handlers:Item Key="item09E3" Value="高級料理プレート"/>
         <handlers:Item Key="item09E4" Value="Item 2532"/>
         <handlers:Item Key="item09E5" Value="Item 2533"/>
         <handlers:Item Key="item09E6" Value="Item 2534"/>
@@ -2604,12 +2604,12 @@
         <handlers:Item Key="item0A12" Value="Item 2578"/>
         <handlers:Item Key="item0A13" Value="Item 2579"/>
         <handlers:Item Key="item0A14" Value="Item 2580"/>
-        <handlers:Item Key="item0A15" Value="雪だるま"/>
-        <handlers:Item Key="item0A16" Value="雪だるま"/>
+        <handlers:Item Key="item0A15" Value="雪だるま【万福】"/>
+        <handlers:Item Key="item0A16" Value="雪だるま【大感謝】"/>
         <handlers:Item Key="item0A17" Value="Item 2583"/>
         <handlers:Item Key="item0A18" Value="Item 2584"/>
         <handlers:Item Key="item0A19" Value="Item 2585"/>
-        <handlers:Item Key="item0A1A" Value="Sky Lanterns"/>
+        <handlers:Item Key="item0A1A" Value="天燈"/>
         <handlers:Item Key="item0A1B" Value="Item 2587"/>
         <handlers:Item Key="item0A1C" Value="Item 2588"/>
         <handlers:Item Key="item0A1D" Value="Item 2589"/>
@@ -2618,7 +2618,7 @@
         <handlers:Item Key="item0A20" Value="Item 2592"/>
         <handlers:Item Key="item0A21" Value="Item 2593"/>
         <handlers:Item Key="item0A22" Value="Item 2594"/>
-        <handlers:Item Key="item0A23" Value="Masterpiece Sketches"/>
+        <handlers:Item Key="item0A23" Value="絵画【巨匠達の極品】"/>
         <handlers:Item Key="item0A24" Value="Item 2596"/>
         <handlers:Item Key="item0A25" Value="Item 2597"/>
         <handlers:Item Key="item0A26" Value="Item 2598"/>
