@@ -50,12 +50,12 @@
                                 <ComboBoxItem Content="{DynamicResource insertBottom}" HorizontalAlignment="Left" Width="118"/>
                             </ComboBox>
                         </MenuItem>
-                        <MenuItem Header="{DynamicResource lang}" Height="19" Width="100">
-                            <ComboBox Width="120" SelectionChanged="LanguageChanged" x:Name="Language">
-                                <ComboBoxItem Content="English" Tag="en-US"/>
-                                <ComboBoxItem Content="日本語" Tag="ja-JP"/>
-                                <ComboBoxItem Content="繁體中文" Tag="zh-TW"/>
-                                <ComboBoxItem Content="简体中文" Tag="zh-Hans"/>
+                        <MenuItem Header="{DynamicResource lang}" Height="19" Width="74">
+                            <ComboBox Width="135" SelectionChanged="LanguageChanged" x:Name="Language">
+                                <ComboBoxItem Content="English (en-US)" Tag="en-US"/>
+                                <ComboBoxItem Content="日本語 (ja-JP)" Tag="ja-JP"/>
+                                <ComboBoxItem Content="繁體中文 (zh-TW)" Tag="zh-TW"/>
+                                <ComboBoxItem Content="简体中文 (zh-Hans)" Tag="zh-Hans"/>
                             </ComboBox>
                         </MenuItem>
                     </Menu>
