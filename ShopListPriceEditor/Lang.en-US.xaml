@@ -2593,9 +2593,9 @@
         <handlers:Item Key="item0A05" Value="Grand Appreciation Figure"/>
         <handlers:Item Key="item0A06" Value="Item 2566"/>
         <handlers:Item Key="item0A07" Value="Item 2567"/>
-        <handlers:Item Key="item0A08" Value="Green Herb (Room)"/>
-        <handlers:Item Key="item0A09" Value="Red Herb (Room)"/>
-        <handlers:Item Key="item0A0A" Value="Blue Herb (Room)"/>
+        <handlers:Item Key="item0A08" Value="(Room)Green Herb"/>
+        <handlers:Item Key="item0A09" Value="(Room) Red Herb"/>
+        <handlers:Item Key="item0A0A" Value="(Room) Blue Herb"/>
         <handlers:Item Key="item0A0B" Value="First Aid Sprays"/>
         <handlers:Item Key="item0A0C" Value="Mr. Raccoon"/>
         <handlers:Item Key="item0A0D" Value="Creepy Rugs (1F)"/>
@@ -2603,7 +2603,7 @@
         <handlers:Item Key="item0A0F" Value="S.T.A.R.S. Plaque Set 1"/>
         <handlers:Item Key="item0A10" Value="S.T.A.R.S. Plaque Set 2"/>
         <handlers:Item Key="item0A11" Value="Typewriter"/>
-        <handlers:Item Key="item0A12" Value="Item Box"/>
+        <handlers:Item Key="item0A12" Value="(Room) Item Box"/>
         <handlers:Item Key="item0A13" Value="Item 2579"/>
         <handlers:Item Key="item0A14" Value="Item 2580"/>
         <handlers:Item Key="item0A15" Value="Joyful Snowman"/>

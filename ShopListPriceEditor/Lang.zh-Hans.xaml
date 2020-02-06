@@ -1353,13 +1353,13 @@
 		<handlers:Item Key="item052D" Value="恐暴龙的重尾"/>
 		<handlers:Item Key="item052E" Value="浓黑之血"/>
 		<handlers:Item Key="item052F" Value="恐暴龙的灭鳞"/>
-		<handlers:Item Key="item0530" Value="Item 1328"/>
-		<handlers:Item Key="item0531" Value="Item 1329"/>
-		<handlers:Item Key="item0532" Value="Item 1330"/>
-		<handlers:Item Key="item0533" Value="Item 1331"/>
-		<handlers:Item Key="item0534" Value="Item 1332"/>
+        <handlers:Item Key="item0530" Value="Rajang Wildpelt"/>
+        <handlers:Item Key="item0531" Value="Rajang Hardfang"/>
+        <handlers:Item Key="item0532" Value="Rajang Hardclaw"/>
+        <handlers:Item Key="item0533" Value="Rajang Tail"/>
+        <handlers:Item Key="item0534" Value="Gold Rajang Pelt+"/>
 		<handlers:Item Key="item0535" Value="Item 1333"/>
-		<handlers:Item Key="item0536" Value="Item 1334"/>
+        <handlers:Item Key="item0536" Value="Rajang Hardhorn"/>
 		<handlers:Item Key="item0537" Value="Item 1335"/>
 		<handlers:Item Key="item0538" Value="Item 1336"/>
 		<handlers:Item Key="item0539" Value="麒麟的特上皮"/>
@@ -1980,11 +1980,11 @@
 		<handlers:Item Key="item07A0" Value="月光的龙鳞"/>
 		<handlers:Item Key="item07A1" Value="Item 1953"/>
 		<handlers:Item Key="item07A2" Value="烈日的龙鳞"/>
-		<handlers:Item Key="item07A3" Value="Item 1955"/>
+        <handlers:Item Key="item07A3" Value="Tempered Silver Scale"/>
 		<handlers:Item Key="item07A4" Value="Item 1956"/>
 		<handlers:Item Key="item07A5" Value="Item 1957"/>
-		<handlers:Item Key="item07A6" Value="Item 1958"/>
-		<handlers:Item Key="item07A7" Value="Item 1959"/>
+        <handlers:Item Key="item07A6" Value="Bloodthirsty Glimmerpelt"/>
+        <handlers:Item Key="item07A7" Value="Tempered Glimmerpelt"/>
 		<handlers:Item Key="item07A8" Value="Item 1960"/>
 		<handlers:Item Key="item07A9" Value="Item 1961"/>
 		<handlers:Item Key="item07AA" Value="Item 1962"/>
@@ -2590,20 +2590,20 @@
 		<handlers:Item Key="item0A02" Value="Item 2562"/>
 		<handlers:Item Key="item0A03" Value="Item 2563"/>
 		<handlers:Item Key="item0A04" Value="Item 2564"/>
-		<handlers:Item Key="item0A05" Value="Item 2565"/>
+        <handlers:Item Key="item0A05" Value="Grand Appreciation Figure"/>
 		<handlers:Item Key="item0A06" Value="Item 2566"/>
 		<handlers:Item Key="item0A07" Value="Item 2567"/>
-		<handlers:Item Key="item0A08" Value="Item 2568"/>
-		<handlers:Item Key="item0A09" Value="Item 2569"/>
-		<handlers:Item Key="item0A0A" Value="Item 2570"/>
-		<handlers:Item Key="item0A0B" Value="Item 2571"/>
-		<handlers:Item Key="item0A0C" Value="Item 2572"/>
-		<handlers:Item Key="item0A0D" Value="Item 2573"/>
-		<handlers:Item Key="item0A0E" Value="Item 2574"/>
-		<handlers:Item Key="item0A0F" Value="Item 2575"/>
-		<handlers:Item Key="item0A10" Value="Item 2576"/>
-		<handlers:Item Key="item0A11" Value="Item 2577"/>
-		<handlers:Item Key="item0A12" Value="Item 2578"/>
+        <handlers:Item Key="item0A08" Value="(Room) Green Herb"/>
+        <handlers:Item Key="item0A09" Value="(Room) Red Herb"/>
+        <handlers:Item Key="item0A0A" Value="(Room) Blue Herb"/>
+        <handlers:Item Key="item0A0B" Value="First Aid Sprays"/>
+        <handlers:Item Key="item0A0C" Value="Mr. Raccoon"/>
+        <handlers:Item Key="item0A0D" Value="Creepy Rugs (1F)"/>
+        <handlers:Item Key="item0A0E" Value="Creepy Rugs (2F)"/>
+        <handlers:Item Key="item0A0F" Value="S.T.A.R.S. Plaque Set 1"/>
+        <handlers:Item Key="item0A10" Value="S.T.A.R.S. Plaque Set 2"/>
+        <handlers:Item Key="item0A11" Value="Typewriter"/>
+        <handlers:Item Key="item0A12" Value="(Room) Item Box"/>
 		<handlers:Item Key="item0A13" Value="Item 2579"/>
 		<handlers:Item Key="item0A14" Value="Item 2580"/>
 		<handlers:Item Key="item0A15" Value="雪人【万福】"/>
@@ -2708,9 +2708,9 @@
 		<handlers:Item Key="item0A78" Value="Item 2680"/>
 		<handlers:Item Key="item0A79" Value="Item 2681"/>
 		<handlers:Item Key="item0A7A" Value="Item 2682"/>
-		<handlers:Item Key="item0A7B" Value="Item 2683"/>
-		<handlers:Item Key="item0A7C" Value="Item 2684"/>
-		<handlers:Item Key="item0A7D" Value="Item 2685"/>
+        <handlers:Item Key="item0A7B" Value="Green Herb"/>
+        <handlers:Item Key="item0A7C" Value="Red Herb"/>
+        <handlers:Item Key="item0A7D" Value="Mixed Herb (G+R)"/>
 		<handlers:Item Key="item0A7E" Value="钢之炼金票"/>
 		<handlers:Item Key="item0A7F" Value="银之炼金票"/>
 		<handlers:Item Key="item0A80" Value="神秘炼金珠·钢"/>
@@ -2729,9 +2729,9 @@
 		<handlers:Item Key="item0A8D" Value="Item 2701"/>
 		<handlers:Item Key="item0A8E" Value="Item 2702"/>
 		<handlers:Item Key="item0A8F" Value="Item 2703"/>
-		<handlers:Item Key="item0A90" Value="Item 2704"/>
-		<handlers:Item Key="item0A91" Value="Item 2705"/>
-		<handlers:Item Key="item0A92" Value="Item 2706"/>
+        <handlers:Item Key="item0A90" Value="Black Eagle Blueprint"/>
+        <handlers:Item Key="item0A91" Value="Wiggler Pot"/>
+        <handlers:Item Key="item0A92" Value="S.T.A.R.S. Badge"/>
 		<handlers:Item Key="item0A93" Value="Item 2707"/>
 		<handlers:Item Key="item0A94" Value="Item 2708"/>
 		<handlers:Item Key="item0A95" Value="Item 2709"/>
@@ -2758,8 +2758,8 @@
 		<handlers:Item Key="item0AAA" Value="好友之证"/>
 		<handlers:Item Key="item0AAB" Value="Item 2731"/>
 		<handlers:Item Key="item0AAC" Value="Item 2732"/>
-		<handlers:Item Key="item0AAD" Value="Item 2733"/>
-		<handlers:Item Key="item0AAE" Value="Item 2734"/>
+        <handlers:Item Key="item0AAD" Value="Large Beast Tear"/>
+        <handlers:Item Key="item0AAE" Value="Magnificent Pelt"/>
 		<handlers:Item Key="item0AAF" Value="万福票ＳＰ"/>
 		<handlers:Item Key="item0AB0" Value="大感谢票ＳＰ"/>
     </x:Array>
