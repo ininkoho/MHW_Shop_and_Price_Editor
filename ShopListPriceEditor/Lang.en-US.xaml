@@ -1638,12 +1638,12 @@
         <handlers:Item Key="item064A" Value="Cluttered Shelves"/>
         <handlers:Item Key="item064B" Value="Luxury Shelves"/>
         <handlers:Item Key="item064C" Value="Elegant Shelves"/>
-        <handlers:Item Key="item064D" Value="Item 1613"/>
-        <handlers:Item Key="item064E" Value="Item 1614"/>
+        <handlers:Item Key="item064D" Value="Cute Shelves"/>
+        <handlers:Item Key="item064E" Value="Music Player"/>
         <handlers:Item Key="item064F" Value="Familiar Lights"/>
         <handlers:Item Key="item0650" Value="Sturdy Lights"/>
         <handlers:Item Key="item0651" Value="Luxury Lights"/>
-        <handlers:Item Key="item0652" Value="Item 1618"/>
+        <handlers:Item Key="item0652" Value="Cute Lights"/>
         <handlers:Item Key="item0653" Value="Simple Lights"/>
         <handlers:Item Key="item0654" Value="Item 1620"/>
         <handlers:Item Key="item0655" Value="Item 1621"/>
@@ -1653,7 +1653,7 @@
         <handlers:Item Key="item0659" Value="Item 1625"/>
         <handlers:Item Key="item065A" Value="Simple Wall Shelf (Large)"/>
         <handlers:Item Key="item065B" Value="Luxury Wall Shelf (Large)"/>
-        <handlers:Item Key="item065C" Value="Item 1628"/>
+        <handlers:Item Key="item065C" Value="Cute Wall Shelf (Large)"/>
         <handlers:Item Key="item065D" Value="Simple Wall Shelf (Small)"/>
         <handlers:Item Key="item065E" Value="Luxury Wall Shelf (Small)"/>
         <handlers:Item Key="item065F" Value="Item 1631"/>
@@ -1675,18 +1675,18 @@
         <handlers:Item Key="item066F" Value="Hoarfrost Reach Painting"/>
         <handlers:Item Key="item0670" Value="Books and Documents"/>
         <handlers:Item Key="item0671" Value="Healthy Refreshments"/>
-        <handlers:Item Key="item0672" Value="Item 1650"/>
+        <handlers:Item Key="item0672" Value="Stuffed Doll Crafting Set"/>
         <handlers:Item Key="item0673" Value="Maps"/>
         <handlers:Item Key="item0674" Value="Crafting Set"/>
         <handlers:Item Key="item0675" Value="Baking Set"/>
         <handlers:Item Key="item0676" Value="Tool Set"/>
         <handlers:Item Key="item0677" Value="Familiar Rugs (1F)"/>
         <handlers:Item Key="item0678" Value="Luxury Rugs (1F)"/>
-        <handlers:Item Key="item0679" Value="Item 1657"/>
+        <handlers:Item Key="item0679" Value="Cute Rugs (1F)"/>
         <handlers:Item Key="item067A" Value="Fur Rugs (1F)"/>
         <handlers:Item Key="item067B" Value="Familiar Rugs (2F)"/>
         <handlers:Item Key="item067C" Value="Luxury Rugs (2F)"/>
-        <handlers:Item Key="item067D" Value="Item 1661"/>
+        <handlers:Item Key="item067D" Value="Cute Rugs (2F)"/>
         <handlers:Item Key="item067E" Value="Fur Rugs (2F)"/>
         <handlers:Item Key="item067F" Value="Lantern"/>
         <handlers:Item Key="item0680" Value="Item 1664"/>
@@ -1730,7 +1730,7 @@
         <handlers:Item Key="item06A6" Value="Item 1702"/>
         <handlers:Item Key="item06A7" Value="Item 1703"/>
         <handlers:Item Key="item06A8" Value="Item 1704"/>
-        <handlers:Item Key="item06A9" Value="Item 1705"/>
+        <handlers:Item Key="item06A9" Value="Check (Vibrant)"/>
         <handlers:Item Key="item06AA" Value="Item 1706"/>
         <handlers:Item Key="item06AB" Value="Palico Print (Pink)"/>
         <handlers:Item Key="item06AC" Value="Palico Print (Brown)"/>
@@ -1836,14 +1836,14 @@
         <handlers:Item Key="item0710" Value="Effluvial Crystal"/>
         <handlers:Item Key="item0711" Value="Twilight Crystal"/>
         <handlers:Item Key="item0712" Value="Guiding Effluvial Crystal"/>
-        <handlers:Item Key="item0713" Value="Item 1811"/>
-        <handlers:Item Key="item0714" Value="Item 1812"/>
-        <handlers:Item Key="item0715" Value="Item 1813"/>
-        <handlers:Item Key="item0716" Value="Item 1814"/>
-        <handlers:Item Key="item0717" Value="Item 1815"/>
-        <handlers:Item Key="item0718" Value="Item 1816"/>
-        <handlers:Item Key="item0719" Value="Item 1817"/>
-        <handlers:Item Key="item071A" Value="Item 1818"/>
+        <handlers:Item Key="item0713" Value="Melted Crystal"/>
+        <handlers:Item Key="item0714" Value="Magma Crystal"/>
+        <handlers:Item Key="item0715" Value="Hellfire Crystal"/>
+        <handlers:Item Key="item0716" Value="Guiding Magma Crystal"/>
+        <handlers:Item Key="item0717" Value="Frozen Crystal DNI"/>
+        <handlers:Item Key="item0718" Value="Rime Crystal DNI"/>
+        <handlers:Item Key="item0719" Value="Daybreak Crystal DNI"/>
+        <handlers:Item Key="item071A" Value="Guiding Rime Crystal DNI"/>
         <handlers:Item Key="item071B" Value="Mossy Greatbone"/>
         <handlers:Item Key="item071C" Value="Woodland Greatbone"/>
         <handlers:Item Key="item071D" Value="Slumbering Greatbone"/>
@@ -1860,14 +1860,14 @@
         <handlers:Item Key="item0728" Value="Effluvial Frenzybone"/>
         <handlers:Item Key="item0729" Value="Afflicted Frenzybone"/>
         <handlers:Item Key="item072A" Value="Guiding Rotted Dragonbone"/>
-        <handlers:Item Key="item072B" Value="Item 1835"/>
-        <handlers:Item Key="item072C" Value="Item 1836"/>
-        <handlers:Item Key="item072D" Value="Item 1837"/>
-        <handlers:Item Key="item072E" Value="Item 1838"/>
-        <handlers:Item Key="item072F" Value="Item 1839"/>
-        <handlers:Item Key="item0730" Value="Item 1840"/>
-        <handlers:Item Key="item0731" Value="Item 1841"/>
-        <handlers:Item Key="item0732" Value="Item 1842"/>
+        <handlers:Item Key="item072B" Value="Simmering Wildbone"/>
+        <handlers:Item Key="item072C" Value="Volcanic Wildbone"/>
+        <handlers:Item Key="item072D" Value="Dragonscorched Wildbone"/>
+        <handlers:Item Key="item072E" Value="Guiding Volcanic Dragonbone"/>
+        <handlers:Item Key="item072F" Value="Hoary Icebone DNI"/>
+        <handlers:Item Key="item0730" Value="Tundra Icebone DNI"/>
+        <handlers:Item Key="item0731" Value="Evefrost Icebone DNI"/>
+        <handlers:Item Key="item0732" Value="Guiding Tundra Dragonbone DNI"/>
         <handlers:Item Key="item0733" Value="Fierce Dragonvein Bone"/>
         <handlers:Item Key="item0734" Value="Heavy Dragonvein Bone"/>
         <handlers:Item Key="item0735" Value="Dragonvein Solidbone"/>
@@ -1917,12 +1917,12 @@
         <handlers:Item Key="item0761" Value="Item 1889"/>
         <handlers:Item Key="item0762" Value="Inkstained Oilshell+"/>
         <handlers:Item Key="item0763" Value="Tempered Oilshell+"/>
-        <handlers:Item Key="item0764" Value="Item 1892"/>
+        <handlers:Item Key="item0764" Value="Heavy Jaw"/>
         <handlers:Item Key="item0765" Value="Item 1893"/>
-        <handlers:Item Key="item0766" Value="Item 1894"/>
-        <handlers:Item Key="item0767" Value="Item 1895"/>
-        <handlers:Item Key="item0768" Value="Item 1896"/>
-        <handlers:Item Key="item0769" Value="Item 1897"/>
+        <handlers:Item Key="item0766" Value="Incandescent Magmafin"/>
+        <handlers:Item Key="item0767" Value="Tempered Magmafin"/>
+        <handlers:Item Key="item0768" Value="Metallic Scute"/>
+        <handlers:Item Key="item0769" Value="Tempered Scute"/>
         <handlers:Item Key="item076A" Value="Item 1898"/>
         <handlers:Item Key="item076B" Value="Item 1899"/>
         <handlers:Item Key="item076C" Value="Sinister Silverpelt"/>
@@ -1949,16 +1949,16 @@
         <handlers:Item Key="item0781" Value="Tempered Tailedge"/>
         <handlers:Item Key="item0782" Value="Honed Tailblade"/>
         <handlers:Item Key="item0783" Value="Tempered Tailblade"/>
-        <handlers:Item Key="item0784" Value="Item 1924"/>
-        <handlers:Item Key="item0785" Value="Item 1925"/>
+        <handlers:Item Key="item0784" Value="Glossy Ebonshell"/>
+        <handlers:Item Key="item0785" Value="Tempered Ebonshell"/>
         <handlers:Item Key="item0786" Value="Strongman's Jaw"/>
         <handlers:Item Key="item0787" Value="Tempered Jaw"/>
         <handlers:Item Key="item0788" Value="Shuddering Darkjaw"/>
         <handlers:Item Key="item0789" Value="Tempered Ebonjaw"/>
         <handlers:Item Key="item078A" Value="Charged Deathly Shocker"/>
         <handlers:Item Key="item078B" Value="Tempered Shocker"/>
-        <handlers:Item Key="item078C" Value="Item 1932"/>
-        <handlers:Item Key="item078D" Value="Item 1933"/>
+        <handlers:Item Key="item078C" Value="Crimson Blastscale"/>
+        <handlers:Item Key="item078D" Value="Tempered Blastscale"/>
         <handlers:Item Key="item078E" Value="Bloodstained Ebonhide"/>
         <handlers:Item Key="item078F" Value="Spattered Hide"/>
         <handlers:Item Key="item0790" Value="Solemn Azure Horn"/>
@@ -1978,7 +1978,7 @@
         <handlers:Item Key="item079E" Value="Extinction Greathorn"/>
         <handlers:Item Key="item079F" Value="Item 1951"/>
         <handlers:Item Key="item07A0" Value="Moonlight Scale"/>
-        <handlers:Item Key="item07A1" Value="Item 1953"/>
+        <handlers:Item Key="item07A1" Value="Tempered Gold Scale"/>
         <handlers:Item Key="item07A2" Value="Scorching Scale"/>
         <handlers:Item Key="item07A3" Value="Tempered Silver Scale"/>
         <handlers:Item Key="item07A4" Value="Item 1956"/>

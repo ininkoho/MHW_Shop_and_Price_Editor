@@ -1,5 +1,6 @@
 ﻿<Window x:Class="ShopListPriceEditor.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:dd="urn:gong-wpf-dragdrop"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
@@ -19,9 +20,9 @@
                         <Button Content="{DynamicResource consumables}" HorizontalAlignment="Left" VerticalAlignment="Top" Click="AllConsumables" Height="33" Width="126" Margin="0,0,0,5"/>
                         <Button Content="{DynamicResource lr_mats}" HorizontalAlignment="Left" VerticalAlignment="Top" Click="LRMaterials" Height="34" Width="126" Margin="0,0,0,5"/>
                         <Button Content="{DynamicResource hr_mats}" HorizontalAlignment="Left" VerticalAlignment="Top" Click="HRMaterials" Height="34" Width="126" Margin="0,0,0,5"/>
-                        <Button Content="{DynamicResource sort}" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Sort" Height="34" Width="116" Margin="5,20,5,0"/>
+                        <Button Content="{DynamicResource sort}" Visibility="Hidden"  HorizontalAlignment="Left" VerticalAlignment="Top" Click="Sort" Height="34" Width="116" Margin="5,20,5,0"/>
                         <Button Content="{DynamicResource clear}" HorizontalAlignment="Left" VerticalAlignment="Top" Click="ClearItems" Height="34" Width="116" Margin="5,10,5,5" />
-                        <Button Content="{DynamicResource undo}" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Undo" Height="34" Width="116" Margin="5,10,0,0"/>
+                        <Button Content="{DynamicResource undo}" Visibility="Hidden" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Undo" Height="34" Width="116" Margin="5,10,0,0"/>
 
                     </StackPanel>
                     <Button Content="&gt;" HorizontalAlignment="Left" Margin="223,163,0,0" VerticalAlignment="Top" Width="91" Click="SendOut" BorderThickness="1" FontSize="14" FontWeight="Bold" Height="29"/>
@@ -35,7 +36,7 @@
                     </StackPanel>
                     <StackPanel HorizontalAlignment="Left" Height="391" Margin="329,30,0,0" VerticalAlignment="Top" Width="170" DataContext="{Binding Mode=OneWay, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type local:MainWindow}}}">
                         <TextBox Height="23" TextWrapping="Wrap" x:Name="OutputFilter" Text="{Binding filterOutputText, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,3"/>
-                        <ListBox Height="344" x:Name="output" SelectionMode="Extended" ItemsSource="{Binding filteredOutput}" MouseDoubleClick="OutputDoubleClick" RenderTransformOrigin="0.543,0.481"/>
+                        <ListBox Height="344" x:Name="output" SelectionMode="Extended" ItemsSource="{Binding filteredOutput}" dd:DragDrop.IsDragSource="True" dd:DragDrop.IsDropTarget="True" MouseDoubleClick="OutputDoubleClick" RenderTransformOrigin="0.543,0.481"/>
                         <TextBlock x:Name="itemCount" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Width="170" RenderTransformOrigin="0.97,0.407" Height="19"><Run Text="Items in Shop: 0 / 255"/></TextBlock>
                     </StackPanel>
                     <Menu Height="22" VerticalAlignment="Top" Margin="-1,-17,-11,0" BorderBrush="Black" Background="#FFC1C1C1">
@@ -76,8 +77,10 @@
                             <MenuItem Name="savePriceFile" Header="{DynamicResource save}" HorizontalAlignment="Left" Height="30" Width="140" Click="SaveFile"/>
                         </MenuItem>
                     </Menu>
-                    <TextBox TextWrapping="Wrap" Name="priceFilterText" Text="{Binding filterPriceInputText, UpdateSourceTrigger=PropertyChanged}" Margin="10,29,268,394" Grid.ColumnSpan="2"/>
-                    <DataGrid Name="priceGrid" HorizontalAlignment="Left" ItemsSource="{Binding filteredPriceInput}" HorizontalScrollBarVisibility="Hidden" AutoGenerateColumns="False" Height="362" Margin="10,59,0,0" VerticalAlignment="Top" Width="411" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" Grid.ColumnSpan="2" MinWidth="200">
+                    <TextBox TextWrapping="Wrap" Name="priceFilterText" Text="{Binding filterPriceInputText, UpdateSourceTrigger=PropertyChanged}" Margin="10,29,268,394" Grid.ColumnSpan="2"
+                             Grid.Column="0" />
+                    <DataGrid Name="priceGrid" HorizontalAlignment="Left" ItemsSource="{Binding filteredPriceInput}" HorizontalScrollBarVisibility="Hidden" AutoGenerateColumns="False" Height="362" Margin="10,59,0,0" VerticalAlignment="Top" Width="411" CanUserReorderColumns="False" CanUserResizeColumns="False" CanUserSortColumns="False" Grid.ColumnSpan="2"
+                              Grid.Column="0" MinWidth="200">
                         <DataGrid.Columns>
                             <DataGridTextColumn Header="Item" Binding="{Binding Value}" Width="185" ClipboardContentBinding="{x:Null}" IsReadOnly="True"/>
                             <DataGridTextColumn Header="Sell Price" Binding="{Binding ItemSellPrice}" Width="102" ClipboardContentBinding="{x:Null}"/>

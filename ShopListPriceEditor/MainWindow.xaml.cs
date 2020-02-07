@@ -136,6 +136,34 @@ namespace ShopListPriceEditor
             Properties.Settings.Default.Save();
         }
 
+        private void ListOutUpdate()
+        {
+            Item[] itemlist = new Item[listBoxOut.Count];
+            listBoxOut.CopyTo(itemlist, 0);
+            var currentOutput = output.Items;
+            List<string> currentItems = new List<string>();
+
+            foreach (var x in currentOutput)
+            {
+                currentItems.Add(x.ToString());
+            }
+
+            listBoxOut = new List<Item>();
+            currentItems.Reverse();
+
+            foreach (string item in currentItems)
+            {
+                
+                var result = itemlist.SingleOrDefault(x => x.Value == item);
+                
+                if (result != null)
+                {
+                    listBoxOut.Insert(0, result);
+                }
+            }
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredOutput"));
+        }
+
         private void SaveFile(object sender, RoutedEventArgs e)
         {
             Stream fs;
@@ -143,6 +171,36 @@ namespace ShopListPriceEditor
             string fileExt = "";
             string fileFilter = "";
             FileHandler fileHandler = new FileHandler();
+
+            listBoxOutUndo.Add(new List<Item>(listBoxOut));
+            ListOutUpdate();
+            /*
+            Item[] itemlist = new Item[listBoxOut.Count];
+            listBoxOut.CopyTo(itemlist, 0);
+            var currentOutput = output.Items;
+            List<string> currentItems = new List<string>();
+
+            foreach (var x in currentOutput)
+            {
+                currentItems.Add(x.ToString());
+            }
+
+            listBoxOut = new List<Item>();
+
+            foreach (string item in currentItems)
+            {
+                Console.WriteLine("item: " + item);
+                var result = itemlist.SingleOrDefault(x => x.Value == item);
+                Console.WriteLine("result: " + result);
+                if (result != null)
+                {
+                    listBoxOut.Insert(0, result);
+                }
+            }
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredOutput"));
+            */
+
+
 
             if (((MenuItem)sender).Name.Equals("saveShopFile"))
             {
@@ -286,7 +344,7 @@ namespace ShopListPriceEditor
             itemHandler.hiddenList.CopyTo(itemlist, 0);
             foreach (Item item in itemlist)
             {
-                if (item.Value.Contains("Item "))
+                if (item.Value.Contains("Item ") || item.Value.Contains("DNI"))
                 {
                     continue;
                 }
@@ -308,6 +366,7 @@ namespace ShopListPriceEditor
 
         private void Sort(object sender, RoutedEventArgs e)
         {
+            ListOutUpdate();
             listBoxOutUndo.Add(new List<Item>(listBoxOut));
             var sortedList = listBoxOut.OrderBy(items => items.Key).ToList();
             listBoxOut = new List<Item>(sortedList);
@@ -319,6 +378,7 @@ namespace ShopListPriceEditor
         {
             if (listBoxOutUndo.Count > 0)
             {
+
                 listBoxOut = new List<Item>(listBoxOutUndo.Last());
                 PropertyChanged?.Invoke(this, new PropertyChangedEventArgs("filteredOutput"));
                 itemCount.Text = "Items in Shop: " + listBoxOut.Count.ToString() + " / 255";
@@ -334,6 +394,7 @@ namespace ShopListPriceEditor
 
         private void SendOut(object sender, RoutedEventArgs e)
         {
+            ListOutUpdate();
             listBoxOutUndo.Add(new List<Item>(listBoxOut));
 
             if (input.SelectedItems != null && input.SelectedItems.Count + listBoxOut.Count < 256)
@@ -373,6 +434,7 @@ namespace ShopListPriceEditor
 
         private void SendIn(object sender, RoutedEventArgs e)
         {
+            ListOutUpdate();
             listBoxOutUndo.Add(new List<Item>(listBoxOut));
 
             if (output.SelectedItems != null)
