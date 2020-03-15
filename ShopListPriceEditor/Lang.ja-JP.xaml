@@ -2760,6 +2760,44 @@
         <handlers:Item Key="item0AAE" Value="Magnificent Pelt"/>
         <handlers:Item Key="item0AAF" Value="万福チケットSP"/>
         <handlers:Item Key="item0AB0" Value="大感謝チケットSP"/>
+		<handlers:Item Key="item0AB1" Value="Item 2737"/>
+		<handlers:Item Key="item0AB2" Value="Item 2738"/>
+		<handlers:Item Key="item0AB3" Value="Item 2739"/>
+		<handlers:Item Key="item0AB4" Value="Item 2740"/>
+		<handlers:Item Key="item0AB5" Value="Item 2741"/>
+		<handlers:Item Key="item0AB6" Value="蕴藏龙力的凝块‧大剑"/>
+		<handlers:Item Key="item0AB7" Value="蕴藏龙力的凝块‧太刀"/>
+		<handlers:Item Key="item0AB8" Value="蕴藏龙力的凝块‧单手"/>
+		<handlers:Item Key="item0AB9" Value="蕴藏龙力的凝块‧双剑"/>
+		<handlers:Item Key="item0ABA" Value="蕴藏龙力的凝块‧枪"/>
+		<handlers:Item Key="item0ABB" Value="蕴藏龙力的凝块‧铳枪"/>
+		<handlers:Item Key="item0ABC" Value="蕴藏龙力的凝块‧锤"/>
+		<handlers:Item Key="item0ABD" Value="蕴藏龙力的凝块‧笛"/>
+		<handlers:Item Key="item0ABE" Value="蕴藏龙力的凝块‧剑斧"/>
+		<handlers:Item Key="item0ABF" Value="蕴藏龙力的凝块‧盾斧"/>
+		<handlers:Item Key="item0AC0" Value="蕴藏龙力的凝块‧棍"/>
+		<handlers:Item Key="item0AC1" Value="蕴藏龙力的凝块‧轻弩"/>
+		<handlers:Item Key="item0AC2" Value="蕴藏龙力的凝块‧重弩"/>
+		<handlers:Item Key="item0AC3" Value="蕴藏龙力的凝块‧弓"/>
+		<handlers:Item Key="item0AC4" Value="Item 2756"/>
+		<handlers:Item Key="item0AC5" Value="Item 2757"/>
+		<handlers:Item Key="item0AC6" Value="Item 2758"/>
+		<handlers:Item Key="item0AC7" Value="Item 2759"/>
+		<handlers:Item Key="item0AC8" Value="Item 2760"/>
+		<handlers:Item Key="item0AC9" Value="Item 2761"/>
+		<handlers:Item Key="item0ACA" Value="Item 2762"/>
+		<handlers:Item Key="item0ACB" Value="Item 2763"/>
+		<handlers:Item Key="item0ACC" Value="Item 2764"/>
+		<handlers:Item Key="item0ACD" Value="Item 2765"/>
+		<handlers:Item Key="item0ACE" Value="Item 2766"/>
+		<handlers:Item Key="item0ACF" Value="Item 2767"/>
+		<handlers:Item Key="item0AD0" Value="Item 2768"/>
+		<handlers:Item Key="item0AD1" Value="Item 2769"/>
+		<handlers:Item Key="item0AD2" Value="Item 2770"/>
+		<handlers:Item Key="item0AD3" Value="Item 2771"/>
+		<handlers:Item Key="item0AD4" Value="Item 2772"/>
+		<handlers:Item Key="item0AD5" Value="Item 2773"/>
+		<handlers:Item Key="item0AD6" Value="Item 2774"/>
     </x:Array>
 
 </ResourceDictionary>
