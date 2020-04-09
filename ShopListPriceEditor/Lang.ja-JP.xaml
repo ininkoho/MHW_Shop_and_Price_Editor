@@ -1309,10 +1309,10 @@
 		<handlers:Item Key="item0503" Value="砕竜の剛鉄拳"/>
 		<handlers:Item Key="item0504" Value="砕竜の靭尾"/>
 		<handlers:Item Key="item0505" Value="砕竜の天殻"/>
-		<handlers:Item Key="item0506" Value="Item 1286"/>
-		<handlers:Item Key="item0507" Value="Item 1287"/>
-		<handlers:Item Key="item0508" Value="Item 1288"/>
-		<handlers:Item Key="item0509" Value="Item 1289"/>
+		<handlers:Item Key="item0506" Value="砕竜の弾頭殻"/>
+		<handlers:Item Key="item0507" Value="臨界極まる粘菌"/>
+		<handlers:Item Key="item0508" Value="砕竜の撃滅拳"/>
+		<handlers:Item Key="item0509" Value="不滅の炉心殻"/>
 		<handlers:Item Key="item050A" Value="黒狼鳥の厚鱗"/>
 		<handlers:Item Key="item050B" Value="黒狼鳥の重殻"/>
 		<handlers:Item Key="item050C" Value="黒狼鳥の地獄耳"/>
@@ -1356,10 +1356,10 @@
 		<handlers:Item Key="item0532" Value="金獅子の剛爪"/>
 		<handlers:Item Key="item0533" Value="金獅子の尻尾"/>
 		<handlers:Item Key="item0534" Value="黄金の煌毛"/>
-		<handlers:Item Key="item0535" Value="Item 1333"/>
+		<handlers:Item Key="item0535" Value="金獅子の怒髪天"/>
 		<handlers:Item Key="item0536" Value="金獅子の剛角"/>
-		<handlers:Item Key="item0537" Value="Item 1335"/>
-		<handlers:Item Key="item0538" Value="Item 1336"/>
+		<handlers:Item Key="item0537" Value="羅刹の金剛角"/>
+		<handlers:Item Key="item0538" Value="ラージャンハート"/>
 		<handlers:Item Key="item0539" Value="幻獣の特上皮"/>
 		<handlers:Item Key="item053A" Value="幻獣の靭雷尾"/>
 		<handlers:Item Key="item053B" Value="幻獣の銀たてがみ"/>
@@ -1438,7 +1438,7 @@
 		<handlers:Item Key="item0584" Value="朽ちた龍鱗"/>
 		<handlers:Item Key="item0585" Value="かがやく龍鱗"/>
 		<handlers:Item Key="item0586" Value="いにしえの龍秘宝"/>
-		<handlers:Item Key="item0587" Value="Item 1415"/>
+		<handlers:Item Key="item0587" Value="不壊の黒曜甲"/>
 		<handlers:Item Key="item0588" Value="Item 1416"/>
 		<handlers:Item Key="item0589" Value="？？？の厚鱗"/>
 		<handlers:Item Key="item058A" Value="？？？の岩殻"/>
@@ -1567,7 +1567,7 @@
 		<handlers:Item Key="item0605" Value="Item 1541"/>
 		<handlers:Item Key="item0606" Value="Item 1542"/>
 		<handlers:Item Key="item0607" Value="高級みずさし"/>
-		<handlers:Item Key="item0608" Value="Item 1544"/>
+		<handlers:Item Key="item0608" Value="高級なつぼ"/>
 		<handlers:Item Key="item0609" Value="素朴な壺のセット"/>
 		<handlers:Item Key="item060A" Value="麻袋"/>
 		<handlers:Item Key="item060B" Value="酒瓶"/>
@@ -1578,7 +1578,7 @@
 		<handlers:Item Key="item0610" Value="化石の置物"/>
 		<handlers:Item Key="item0611" Value="素朴な土鍋"/>
 		<handlers:Item Key="item0612" Value="鍋セット"/>
-		<handlers:Item Key="item0613" Value="Item 1555"/>
+		<handlers:Item Key="item0613" Value="絵皿セット【小】"/>
 		<handlers:Item Key="item0614" Value="絵皿セット【大】"/>
 		<handlers:Item Key="item0615" Value="鉱石の入ったカゴ"/>
 		<handlers:Item Key="item0616" Value="酒樽"/>
@@ -1591,7 +1591,7 @@
 		<handlers:Item Key="item061D" Value="サボテンの鉢植え"/>
 		<handlers:Item Key="item061E" Value="彩りの鉢植え"/>
 		<handlers:Item Key="item061F" Value="キノコたっぷりのカゴ"/>
-		<handlers:Item Key="item0620" Value="Item 1568"/>
+		<handlers:Item Key="item0620" Value="果実の盛り合わせ"/>
 		<handlers:Item Key="item0621" Value="野菜の盛り合わせ"/>
 		<handlers:Item Key="item0622" Value="奇面族のお面【威】"/>
 		<handlers:Item Key="item0623" Value="奇面族のお面【嘆】"/>
@@ -1687,7 +1687,7 @@
 		<handlers:Item Key="item067D" Value="可憐な絨毯（2階）"/>
 		<handlers:Item Key="item067E" Value="毛皮の絨毯（2階）"/>
 		<handlers:Item Key="item067F" Value="ランタン"/>
-		<handlers:Item Key="item0680" Value="Item 1664"/>
+		<handlers:Item Key="item0680" Value="行燈"/>
 		<handlers:Item Key="item0681" Value="ランプ"/>
 		<handlers:Item Key="item0682" Value="ろうそく"/>
 		<handlers:Item Key="item0683" Value="燭台"/>
@@ -1732,13 +1732,13 @@
 		<handlers:Item Key="item06AA" Value="チェックの柄【緑】"/>
 		<handlers:Item Key="item06AB" Value="オトモの柄【桃】"/>
 		<handlers:Item Key="item06AC" Value="オトモの柄【茶】"/>
-		<handlers:Item Key="item06AD" Value="Item 1709"/>
-		<handlers:Item Key="item06AE" Value="Item 1710"/>
+		<handlers:Item Key="item06AD" Value="アイルーの柄【黄】"/>
+		<handlers:Item Key="item06AE" Value="アイルーの柄【青】"/>
 		<handlers:Item Key="item06AF" Value="いのちの柄・小【白】"/>
 		<handlers:Item Key="item06B0" Value="いのちの柄・小【青】"/>
 		<handlers:Item Key="item06B1" Value="いのちの柄・小【桃】"/>
-		<handlers:Item Key="item06B2" Value="Item 1714"/>
-		<handlers:Item Key="item06B3" Value="Item 1715"/>
+		<handlers:Item Key="item06B2" Value="いのちの柄・大【白】"/>
+		<handlers:Item Key="item06B3" Value="いのちの柄・大【黄】"/>
 		<handlers:Item Key="item06B4" Value="縞模様の柄"/>
 		<handlers:Item Key="item06B5" Value="Item 1717"/>
 		<handlers:Item Key="item06B6" Value="Item 1718"/>
@@ -1749,13 +1749,13 @@
 		<handlers:Item Key="item06BB" Value="鉄(明)"/>
 		<handlers:Item Key="item06BC" Value="鉄(暗)"/>
 		<handlers:Item Key="item06BD" Value="銀"/>
-		<handlers:Item Key="item06BE" Value="Item 1726"/>
+		<handlers:Item Key="item06BE" Value="金"/>
 		<handlers:Item Key="item06BF" Value="石"/>
 		<handlers:Item Key="item06C0" Value="親しみのある部屋"/>
 		<handlers:Item Key="item06C1" Value="伝統的な部屋"/>
 		<handlers:Item Key="item06C2" Value="上品な部屋"/>
 		<handlers:Item Key="item06C3" Value="可憐な部屋"/>
-		<handlers:Item Key="item06C4" Value="Item 1732"/>
+		<handlers:Item Key="item06C4" Value="豪華絢爛な部屋"/>
 		<handlers:Item Key="item06C5" Value="わびさびの部屋"/>
 		<handlers:Item Key="item06C6" Value="木材の床"/>
 		<handlers:Item Key="item06C7" Value="シックな木材の床"/>
@@ -2417,35 +2417,35 @@
 		<handlers:Item Key="item0957" Value="閃烈なる蒼光／ジンオウガ(Sebastian Schwartz Remix)"/>
 		<handlers:Item Key="item0958" Value="剛き紺藍～ブラキディオス(The Sound Room Remix)"/>
 		<handlers:Item Key="item0959" Value="生命ある者へ(The Sound Room Remix)"/>
-		<handlers:Item Key="item095A" Value="Item 2394"/>
-		<handlers:Item Key="item095B" Value="Item 2395"/>
-		<handlers:Item Key="item095C" Value="Item 2396"/>
-		<handlers:Item Key="item095D" Value="Item 2397"/>
-		<handlers:Item Key="item095E" Value="Item 2398"/>
-		<handlers:Item Key="item095F" Value="Item 2399"/>
-		<handlers:Item Key="item0960" Value="Item 2400"/>
-		<handlers:Item Key="item0961" Value="Item 2401"/>
-		<handlers:Item Key="item0962" Value="Item 2402"/>
-		<handlers:Item Key="item0963" Value="Item 2403"/>
-		<handlers:Item Key="item0964" Value="Item 2404"/>
-		<handlers:Item Key="item0965" Value="Item 2405"/>
-		<handlers:Item Key="item0966" Value="Item 2406"/>
-		<handlers:Item Key="item0967" Value="Item 2407"/>
-		<handlers:Item Key="item0968" Value="Item 2408"/>
+		<handlers:Item Key="item095A" Value="麦畑の散歩道"/>
+		<handlers:Item Key="item095B" Value="荒砂の狩人"/>
+		<handlers:Item Key="item095C" Value="カサドール・デル・モンストロ"/>
+		<handlers:Item Key="item095D" Value="みんな集まれ！ ～ ぽかぽか島"/>
+		<handlers:Item Key="item095E" Value="闇に走る赤い残光/ナルガクルガ: World version"/>
+		<handlers:Item Key="item095F" Value="閃烈なる蒼光/ジンオウガ: World version"/>
+		<handlers:Item Key="item0960" Value="唸る一匹狼/イャンガルルガ: World version"/>
+		<handlers:Item Key="item0961" Value="溟流を駆る暁の明星/ネロミェール"/>
+		<handlers:Item Key="item0962" Value="THE END OF THE WORLD/歴戦王 ネルギガンテ"/>
+		<handlers:Item Key="item0963" Value="猛り爆ぜる剛き紺藍"/>
+		<handlers:Item Key="item0964" Value="幽衣より解き放たれし王"/>
+		<handlers:Item Key="item0965" Value="王の座興"/>
+		<handlers:Item Key="item0966" Value="英雄の証(MH SWING)"/>
+		<handlers:Item Key="item0967" Value="炎国の王妃/テオ・テスカトル(MH SWING)"/>
+		<handlers:Item Key="item0968" Value="豪華なベッド"/>
 		<handlers:Item Key="item0969" Value="タワーケーキセット"/>
 		<handlers:Item Key="item096A" Value="メラルー人形"/>
-		<handlers:Item Key="item096B" Value="Item 2411"/>
-		<handlers:Item Key="item096C" Value="Item 2412"/>
+		<handlers:Item Key="item096B" Value="豪華なツボ【銀】"/>
+		<handlers:Item Key="item096C" Value="豪華なツボ【金】"/>
 		<handlers:Item Key="item096D" Value="梅花の植木鉢"/>
 		<handlers:Item Key="item096E" Value="飾り木の植木鉢"/>
-		<handlers:Item Key="item096F" Value="Item 2415"/>
-		<handlers:Item Key="item0970" Value="Item 2416"/>
+		<handlers:Item Key="item096F" Value="花飾り【小】"/>
+		<handlers:Item Key="item0970" Value="花飾り【大】"/>
 		<handlers:Item Key="item0971" Value="Item 2417"/>
 		<handlers:Item Key="item0972" Value="Item 2418"/>
-		<handlers:Item Key="item0973" Value="Item 2419"/>
-		<handlers:Item Key="item0974" Value="Item 2420"/>
-		<handlers:Item Key="item0975" Value="Item 2421"/>
-		<handlers:Item Key="item0976" Value="Item 2422"/>
+		<handlers:Item Key="item0973" Value="模型【５期団船】"/>
+		<handlers:Item Key="item0974" Value="模型【改造船】"/>
+		<handlers:Item Key="item0975" Value="模型【研究基地】"/>
+		<handlers:Item Key="item0976" Value="模型【キャンプ】"/>
 		<handlers:Item Key="item0977" Value="優雅なティーセット"/>
 		<handlers:Item Key="item0978" Value="Item 2424"/>
 		<handlers:Item Key="item0979" Value="Item 2425"/>
@@ -2461,29 +2461,29 @@
 		<handlers:Item Key="item0983" Value="Item 2435"/>
 		<handlers:Item Key="item0984" Value="Item 2436"/>
 		<handlers:Item Key="item0985" Value="絵画【アイルー②】"/>
-		<handlers:Item Key="item0986" Value="Item 2438"/>
+		<handlers:Item Key="item0986" Value="絵画【アイルー③】"/>
 		<handlers:Item Key="item0987" Value="Item 2439"/>
 		<handlers:Item Key="item0988" Value="絵画【狩りの合間に】"/>
 		<handlers:Item Key="item0989" Value="絵画【古代樹の植物】"/>
 		<handlers:Item Key="item098A" Value="絵画【水差しと果実】"/>
-		<handlers:Item Key="item098B" Value="Item 2443"/>
+		<handlers:Item Key="item098B" Value="豪華な棚"/>
 		<handlers:Item Key="item098C" Value="親しみある照明【黄】"/>
-		<handlers:Item Key="item098D" Value="Item 2445"/>
+		<handlers:Item Key="item098D" Value="親しみある照明【白】"/>
 		<handlers:Item Key="item098E" Value="ほのかな照明"/>
 		<handlers:Item Key="item098F" Value="高級な照明【白】 "/>
-		<handlers:Item Key="item0990" Value="Item 2448"/>
+		<handlers:Item Key="item0990" Value="可憐な照明【青】"/>
 		<handlers:Item Key="item0991" Value="可憐な照明【白】"/>
 		<handlers:Item Key="item0992" Value="素朴な照明【黄】"/>
 		<handlers:Item Key="item0993" Value="素朴な照明【白】"/>
-		<handlers:Item Key="item0994" Value="Item 2452"/>
-		<handlers:Item Key="item0995" Value="Item 2453"/>
+		<handlers:Item Key="item0994" Value="豪華な照明"/>
+		<handlers:Item Key="item0995" Value="シャンデリア"/>
 		<handlers:Item Key="item0996" Value="Item 2454"/>
 		<handlers:Item Key="item0997" Value="万福提灯"/>
 		<handlers:Item Key="item0998" Value="天燈の照明"/>
-		<handlers:Item Key="item0999" Value="Item 2457"/>
-		<handlers:Item Key="item099A" Value="Item 2458"/>
-		<handlers:Item Key="item099B" Value="Item 2459"/>
-		<handlers:Item Key="item099C" Value="Item 2460"/>
+		<handlers:Item Key="item0999" Value="豪華な壁掛け棚【大】"/>
+		<handlers:Item Key="item099A" Value="豪華な壁掛け棚【小】"/>
+		<handlers:Item Key="item099B" Value="絵画【渡りの凍て地②】"/>
+		<handlers:Item Key="item099C" Value="大きな地図"/>
 		<handlers:Item Key="item099D" Value="Item 2461"/>
 		<handlers:Item Key="item099E" Value="Item 2462"/>
 		<handlers:Item Key="item099F" Value="団旗【１期団】"/>
@@ -2493,10 +2493,10 @@
 		<handlers:Item Key="item09A3" Value="団旗【５期団】"/>
 		<handlers:Item Key="item09A4" Value="絵画【生命の森】"/>
 		<handlers:Item Key="item09A5" Value="絵画【アステラ】"/>
-		<handlers:Item Key="item09A6" Value="Item 2470"/>
-		<handlers:Item Key="item09A7" Value="Item 2471"/>
-		<handlers:Item Key="item09A8" Value="Item 2472"/>
-		<handlers:Item Key="item09A9" Value="Item 2473"/>
+		<handlers:Item Key="item09A6" Value="絵画【作戦会議】"/>
+		<handlers:Item Key="item09A7" Value="絵画【遊戯】"/>
+		<handlers:Item Key="item09A8" Value="豪華な絨毯(1階)"/>
+		<handlers:Item Key="item09A9" Value="豪華な絨毯(2階)"/>
 		<handlers:Item Key="item09AA" Value="灯籠"/>
 		<handlers:Item Key="item09AB" Value="Item 2475"/>
 		<handlers:Item Key="item09AC" Value="行燈①"/>
@@ -2504,8 +2504,8 @@
 		<handlers:Item Key="item09AE" Value="研究セット"/>
 		<handlers:Item Key="item09AF" Value="キッチンセット"/>
 		<handlers:Item Key="item09B0" Value="石像【火竜】"/>
-		<handlers:Item Key="item09B1" Value="Item 2481"/>
-		<handlers:Item Key="item09B2" Value="Item 2482"/>
+		<handlers:Item Key="item09B1" Value="宝箱"/>
+		<handlers:Item Key="item09B2" Value="花飾り【特大】"/>
 		<handlers:Item Key="item09B3" Value="おっきなアイルー人形"/>
 		<handlers:Item Key="item09B4" Value="おっきなプーギー人形"/>
 		<handlers:Item Key="item09B5" Value="おっきなテトルー人形"/>
@@ -2513,7 +2513,7 @@
 		<handlers:Item Key="item09B7" Value="Item 2487"/>
 		<handlers:Item Key="item09B8" Value="Item 2488"/>
 		<handlers:Item Key="item09B9" Value="導蟲の虫かご"/>
-		<handlers:Item Key="item09BA" Value="大盾かかし"/>
+		<handlers:Item Key="item09BA" Value="大盾カカシ"/>
 		<handlers:Item Key="item09BB" Value="フィギュア【賊竜】"/>
 		<handlers:Item Key="item09BC" Value="フィギュア【滅尽龍】"/>
 		<handlers:Item Key="item09BD" Value="フィギュア【鋼龍】"/>
@@ -2523,7 +2523,7 @@
 		<handlers:Item Key="item09C1" Value="上品な模様の床【青】"/>
 		<handlers:Item Key="item09C2" Value="上品な模様の床【緑】"/>
 		<handlers:Item Key="item09C3" Value="上品な模様の床【白】"/>
-		<handlers:Item Key="item09C4" Value="Item 2500"/>
+		<handlers:Item Key="item09C4" Value="上品な模様の床【金】"/>
 		<handlers:Item Key="item09C5" Value="可憐な模様の床【青】"/>
 		<handlers:Item Key="item09C6" Value="可憐な模様の床【緑】"/>
 		<handlers:Item Key="item09C7" Value="可憐な模様の床【灰】"/>
@@ -2542,20 +2542,20 @@
 		<handlers:Item Key="item09D4" Value="タイルの壁【青】"/>
 		<handlers:Item Key="item09D5" Value="タイルの壁【灰】"/>
 		<handlers:Item Key="item09D6" Value="タイルの壁【水】"/>
-		<handlers:Item Key="item09D7" Value="Item 2519"/>
+		<handlers:Item Key="item09D7" Value="高級な模様の壁【金】"/>
 		<handlers:Item Key="item09D8" Value="高級な模様の壁【青】"/>
 		<handlers:Item Key="item09D9" Value="高級な模様の壁【赤】"/>
 		<handlers:Item Key="item09DA" Value="高級な模様の壁【緑】"/>
-		<handlers:Item Key="item09DB" Value="Item 2523"/>
+		<handlers:Item Key="item09DB" Value="豪華な模様の壁"/>
 		<handlers:Item Key="item09DC" Value="木材の壁【黒】"/>
 		<handlers:Item Key="item09DD" Value="漆喰の壁【黄土】"/>
 		<handlers:Item Key="item09DE" Value="竹の壁【緑】"/>
 		<handlers:Item Key="item09DF" Value="竹の壁【茶】"/>
 		<handlers:Item Key="item09E0" Value="大理石の壁【灰】"/>
-		<handlers:Item Key="item09E1" Value="Item 2529"/>
+		<handlers:Item Key="item09E1" Value="豪華なソファ"/>
 		<handlers:Item Key="item09E2" Value="万福料理セット"/>
 		<handlers:Item Key="item09E3" Value="高級料理プレート"/>
-		<handlers:Item Key="item09E4" Value="Item 2532"/>
+		<handlers:Item Key="item09E4" Value="満開料理セット"/>
 		<handlers:Item Key="item09E5" Value="Item 2533"/>
 		<handlers:Item Key="item09E6" Value="フィギュア【飛雷竜】"/>
 		<handlers:Item Key="item09E7" Value="フィギュア【氷牙竜】"/>
@@ -2570,15 +2570,15 @@
 		<handlers:Item Key="item09F0" Value="フィギュア【斬竜】"/>
 		<handlers:Item Key="item09F1" Value="フィギュア【雌火竜】"/>
 		<handlers:Item Key="item09F2" Value="フィギュア【掻鳥】"/>
-		<handlers:Item Key="item09F3" Value="Item 2547"/>
-		<handlers:Item Key="item09F4" Value="Item 2548"/>
-		<handlers:Item Key="item09F5" Value="Item 2549"/>
+		<handlers:Item Key="item09F3" Value="フィギュア【雷狼竜】"/>
+		<handlers:Item Key="item09F4" Value="フィギュア【黒狼鳥】"/>
+		<handlers:Item Key="item09F5" Value="フィギュア【痺賊竜】"/>
 		<handlers:Item Key="item09F6" Value="Item 2550"/>
 		<handlers:Item Key="item09F7" Value="Item 2551"/>
 		<handlers:Item Key="item09F8" Value="Item 2552"/>
-		<handlers:Item Key="item09F9" Value="Item 2553"/>
-		<handlers:Item Key="item09FA" Value="Item 2554"/>
-		<handlers:Item Key="item09FB" Value="Item 2555"/>
+		<handlers:Item Key="item09F9" Value="フィギュア【溟龍】"/>
+		<handlers:Item Key="item09FA" Value="フィギュア【浮空竜】"/>
+		<handlers:Item Key="item09FB" Value="フィギュア【眩鳥】"/>
 		<handlers:Item Key="item09FC" Value="Item 2556"/>
 		<handlers:Item Key="item09FD" Value="Item 2557"/>
 		<handlers:Item Key="item09FE" Value="Item 2558"/>
@@ -2589,8 +2589,8 @@
 		<handlers:Item Key="item0A03" Value="Item 2563"/>
 		<handlers:Item Key="item0A04" Value="Item 2564"/>
 		<handlers:Item Key="item0A05" Value="フィギュア【大感謝】"/>
-		<handlers:Item Key="item0A06" Value="Item 2566"/>
-		<handlers:Item Key="item0A07" Value="Item 2567"/>
+		<handlers:Item Key="item0A06" Value="大理石の壁【白】"/>
+		<handlers:Item Key="item0A07" Value="大理石の床【白】"/>
 		<handlers:Item Key="item0A08" Value="グリーンハーブの鉢"/>
 		<handlers:Item Key="item0A09" Value="レッドハーブの鉢"/>
 		<handlers:Item Key="item0A0A" Value="ブルーハーブの鉢"/>
@@ -2606,29 +2606,29 @@
 		<handlers:Item Key="item0A14" Value="Item 2580"/>
 		<handlers:Item Key="item0A15" Value="雪だるま【万福】"/>
 		<handlers:Item Key="item0A16" Value="雪だるま【大感謝】"/>
-		<handlers:Item Key="item0A17" Value="Item 2583"/>
+		<handlers:Item Key="item0A17" Value="雪だるま【満開】"/>
 		<handlers:Item Key="item0A18" Value="Item 2584"/>
 		<handlers:Item Key="item0A19" Value="Item 2585"/>
 		<handlers:Item Key="item0A1A" Value="天燈"/>
-		<handlers:Item Key="item0A1B" Value="Item 2587"/>
-		<handlers:Item Key="item0A1C" Value="Item 2588"/>
+		<handlers:Item Key="item0A1B" Value="豪華な旗飾り"/>
+		<handlers:Item Key="item0A1C" Value="赤い花の吊り鉢"/>
 		<handlers:Item Key="item0A1D" Value="Item 2589"/>
-		<handlers:Item Key="item0A1E" Value="Item 2590"/>
-		<handlers:Item Key="item0A1F" Value="Item 2591"/>
-		<handlers:Item Key="item0A20" Value="Item 2592"/>
+		<handlers:Item Key="item0A1E" Value="レリーフ"/>
+		<handlers:Item Key="item0A1F" Value="絵画【大団長】"/>
+		<handlers:Item Key="item0A20" Value="豪華な壁掛け"/>
 		<handlers:Item Key="item0A21" Value="Item 2593"/>
 		<handlers:Item Key="item0A22" Value="Item 2594"/>
 		<handlers:Item Key="item0A23" Value="絵画【巨匠達の極品】"/>
-		<handlers:Item Key="item0A24" Value="Item 2596"/>
-		<handlers:Item Key="item0A25" Value="Item 2597"/>
+		<handlers:Item Key="item0A24" Value="華やかな絨毯（1階）"/>
+		<handlers:Item Key="item0A25" Value="華やかな絨毯（2階）"/>
 		<handlers:Item Key="item0A26" Value="Item 2598"/>
 		<handlers:Item Key="item0A27" Value="Item 2599"/>
-		<handlers:Item Key="item0A28" Value="Item 2600"/>
-		<handlers:Item Key="item0A29" Value="Item 2601"/>
-		<handlers:Item Key="item0A2A" Value="Item 2602"/>
-		<handlers:Item Key="item0A2B" Value="Item 2603"/>
-		<handlers:Item Key="item0A2C" Value="Item 2604"/>
-		<handlers:Item Key="item0A2D" Value="Item 2605"/>
+		<handlers:Item Key="item0A28" Value="フィギュア【泥魚竜】"/>
+		<handlers:Item Key="item0A29" Value="フィギュア【土砂竜】"/>
+		<handlers:Item Key="item0A2A" Value="フィギュア【角竜】"/>
+		<handlers:Item Key="item0A2B" Value="フィギュア【赤龍】"/>
+		<handlers:Item Key="item0A2C" Value="フィギュア【冥灯龍】"/>
+		<handlers:Item Key="item0A2D" Value="フィギュア【ウルグ】"/>
 		<handlers:Item Key="item0A2E" Value="Item 2606"/>
 		<handlers:Item Key="item0A2F" Value="Item 2607"/>
 		<handlers:Item Key="item0A30" Value="Item 2608"/>
@@ -2637,9 +2637,9 @@
 		<handlers:Item Key="item0A33" Value="Item 2611"/>
 		<handlers:Item Key="item0A34" Value="Item 2612"/>
 		<handlers:Item Key="item0A35" Value="Item 2613"/>
-		<handlers:Item Key="item0A36" Value="Item 2614"/>
-		<handlers:Item Key="item0A37" Value="Item 2615"/>
-		<handlers:Item Key="item0A38" Value="Item 2616"/>
+		<handlers:Item Key="item0A36" Value="雪村の盛り場(MH SWING)"/>
+		<handlers:Item Key="item0A37" Value="Scat Cat Fever(MH SWING)"/>
+		<handlers:Item Key="item0A38" Value="秘湯を求めて(MH SWING)"/>
 		<handlers:Item Key="item0A39" Value="Item 2617"/>
 		<handlers:Item Key="item0A3A" Value="Item 2618"/>
 		<handlers:Item Key="item0A3B" Value="Item 2619"/>
@@ -2742,11 +2742,11 @@
 		<handlers:Item Key="item0A9C" Value="竜人族チケット"/>
 		<handlers:Item Key="item0A9D" Value="祭典チケット"/>
 		<handlers:Item Key="item0A9E" Value="食事場チケット【肉】"/>
-		<handlers:Item Key="item0A9F" Value="Item 2719"/>
+		<handlers:Item Key="item0A9F" Value="蒼世の証"/>
 		<handlers:Item Key="item0AA0" Value="Item 2720"/>
-		<handlers:Item Key="item0AA1" Value="Item 2721"/>
-		<handlers:Item Key="item0AA2" Value="Item 2722"/>
-		<handlers:Item Key="item0AA3" Value="Item 2723"/>
+		<handlers:Item Key="item0AA1" Value="満開チケット"/>
+		<handlers:Item Key="item0AA2" Value="キレアジチケット"/>
+		<handlers:Item Key="item0AA3" Value="フワフワチケットⅡ"/>
 		<handlers:Item Key="item0AA4" Value="Item 2724"/>
 		<handlers:Item Key="item0AA5" Value="Item 2725"/>
 		<handlers:Item Key="item0AA6" Value="Item 2726"/>
@@ -2760,10 +2760,10 @@
 		<handlers:Item Key="item0AAE" Value="すばらしい毛皮"/>
 		<handlers:Item Key="item0AAF" Value="万福チケットＳＰ"/>
 		<handlers:Item Key="item0AB0" Value="大感謝チケットＳＰ"/>
-		<handlers:Item Key="item0AB1" Value="Item 2737"/>
+		<handlers:Item Key="item0AB1" Value="満開チケットＳＰ"/>
 		<handlers:Item Key="item0AB2" Value="Item 2738"/>
 		<handlers:Item Key="item0AB3" Value="Item 2739"/>
-		<handlers:Item Key="item0AB4" Value="Item 2740"/>
+		<handlers:Item Key="item0AB4" Value="退散玉"/>
 		<handlers:Item Key="item0AB5" Value="Item 2741"/>
 		<handlers:Item Key="item0AB6" Value="龍力を秘めた塊・大剣"/>
 		<handlers:Item Key="item0AB7" Value="龍力を秘めた塊・太刀"/>

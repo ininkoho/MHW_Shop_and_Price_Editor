@@ -1311,10 +1311,10 @@
 		<handlers:Item Key="item0503" Value="Brachydios Pounder+"/>
 		<handlers:Item Key="item0504" Value="Brachydios Lash"/>
 		<handlers:Item Key="item0505" Value="Brachydios Pallium"/>
-		<handlers:Item Key="item0506" Value="Item 1286"/>
-		<handlers:Item Key="item0507" Value="Item 1287"/>
-		<handlers:Item Key="item0508" Value="Item 1288"/>
-		<handlers:Item Key="item0509" Value="Item 1289"/>
+		<handlers:Item Key="item0506" Value="Brach Warhead"/>
+		<handlers:Item Key="item0507" Value="Flashpoint Slime"/>
+		<handlers:Item Key="item0508" Value="Brach Obliterator"/>
+		<handlers:Item Key="item0509" Value="Immortal Reactor"/>
 		<handlers:Item Key="item050A" Value="Garuga Shard"/>
 		<handlers:Item Key="item050B" Value="Garuga Cortex"/>
 		<handlers:Item Key="item050C" Value="Garuga Auricle"/>
@@ -1358,10 +1358,10 @@
 		<handlers:Item Key="item0532" Value="Rajang Hardclaw"/>
 		<handlers:Item Key="item0533" Value="Rajang Tail"/>
 		<handlers:Item Key="item0534" Value="Gold Rajang Pelt+"/>
-		<handlers:Item Key="item0535" Value="Item 1333"/>
+		<handlers:Item Key="item0535" Value="Rajang Apoplexy"/>
 		<handlers:Item Key="item0536" Value="Rajang Hardhorn"/>
-		<handlers:Item Key="item0537" Value="Item 1335"/>
-		<handlers:Item Key="item0538" Value="Item 1336"/>
+		<handlers:Item Key="item0537" Value="Ghoulish Gold Gorer"/>
+		<handlers:Item Key="item0538" Value="Rajang Heart"/>
 		<handlers:Item Key="item0539" Value="Kirin Finehide"/>
 		<handlers:Item Key="item053A" Value="Kirin Thundertail+"/>
 		<handlers:Item Key="item053B" Value="Kirin Silvermane"/>
@@ -1440,7 +1440,7 @@
 		<handlers:Item Key="item0584" Value="Decayed Scale"/>
 		<handlers:Item Key="item0585" Value="Luminous Scale"/>
 		<handlers:Item Key="item0586" Value="Old Dragon Treasure"/>
-		<handlers:Item Key="item0587" Value="Item 1415"/>
+		<handlers:Item Key="item0587" Value="Indestructible Ebonshell"/>
 		<handlers:Item Key="item0588" Value="Item 1416"/>
 		<handlers:Item Key="item0589" Value="??? Shard"/>
 		<handlers:Item Key="item058A" Value="??? Boulderplate"/>
@@ -1569,7 +1569,7 @@
 		<handlers:Item Key="item0605" Value="Item 1541"/>
 		<handlers:Item Key="item0606" Value="Item 1542"/>
 		<handlers:Item Key="item0607" Value="Luxury Pitcher"/>
-		<handlers:Item Key="item0608" Value="Item 1544"/>
+		<handlers:Item Key="item0608" Value="Luxury Vase"/>
 		<handlers:Item Key="item0609" Value="Simple Urn Set"/>
 		<handlers:Item Key="item060A" Value="Burlap Sacks"/>
 		<handlers:Item Key="item060B" Value="Bottled Spirit"/>
@@ -1580,7 +1580,7 @@
 		<handlers:Item Key="item0610" Value="Display Fossil"/>
 		<handlers:Item Key="item0611" Value="Simple Pottery"/>
 		<handlers:Item Key="item0612" Value="Pottery Set"/>
-		<handlers:Item Key="item0613" Value="Item 1555"/>
+		<handlers:Item Key="item0613" Value="Ornamental Plate Set (Small)"/>
 		<handlers:Item Key="item0614" Value="Ornamental Plate (Large)"/>
 		<handlers:Item Key="item0615" Value="Basket of Ore"/>
 		<handlers:Item Key="item0616" Value="Sake Barrel"/>
@@ -1593,7 +1593,7 @@
 		<handlers:Item Key="item061D" Value="Potted Cactus"/>
 		<handlers:Item Key="item061E" Value="Colorful Planting"/>
 		<handlers:Item Key="item061F" Value="Basket of Mushrooms"/>
-		<handlers:Item Key="item0620" Value="Item 1568"/>
+		<handlers:Item Key="item0620" Value="Fruit Bowl"/>
 		<handlers:Item Key="item0621" Value="Vegetable Display"/>
 		<handlers:Item Key="item0622" Value="Fierce Gajalaka Mask"/>
 		<handlers:Item Key="item0623" Value="Grimacing Gajalaka Mask"/>
@@ -1689,7 +1689,7 @@
 		<handlers:Item Key="item067D" Value="Cute Rugs (2F)"/>
 		<handlers:Item Key="item067E" Value="Fur Rugs (2F)"/>
 		<handlers:Item Key="item067F" Value="Lantern"/>
-		<handlers:Item Key="item0680" Value="Item 1664"/>
+		<handlers:Item Key="item0680" Value="Hanging Lantern"/>
 		<handlers:Item Key="item0681" Value="Lamp"/>
 		<handlers:Item Key="item0682" Value="Candle"/>
 		<handlers:Item Key="item0683" Value="Candlestick"/>
@@ -1734,13 +1734,13 @@
 		<handlers:Item Key="item06AA" Value="Check (Green)"/>
 		<handlers:Item Key="item06AB" Value="Palico Print (Pink)"/>
 		<handlers:Item Key="item06AC" Value="Palico Print (Brown)"/>
-		<handlers:Item Key="item06AD" Value="Item 1709"/>
-		<handlers:Item Key="item06AE" Value="Item 1710"/>
+		<handlers:Item Key="item06AD" Value="Felyne Print (Yellow)"/>
+		<handlers:Item Key="item06AE" Value="Felyne Print (Blue)"/>
 		<handlers:Item Key="item06AF" Value="Life Print: Small (White)"/>
 		<handlers:Item Key="item06B0" Value="Life Print: Small (Blue)"/>
 		<handlers:Item Key="item06B1" Value="Life Print: Small (Pink)"/>
-		<handlers:Item Key="item06B2" Value="Item 1714"/>
-		<handlers:Item Key="item06B3" Value="Item 1715"/>
+		<handlers:Item Key="item06B2" Value="Life Print: Large (White)"/>
+		<handlers:Item Key="item06B3" Value="Life Print: Large (Yellow)"/>
 		<handlers:Item Key="item06B4" Value="Stripes"/>
 		<handlers:Item Key="item06B5" Value="Item 1717"/>
 		<handlers:Item Key="item06B6" Value="Item 1718"/>
@@ -1751,13 +1751,13 @@
 		<handlers:Item Key="item06BB" Value="Light Iron"/>
 		<handlers:Item Key="item06BC" Value="Dark Iron"/>
 		<handlers:Item Key="item06BD" Value="Silver"/>
-		<handlers:Item Key="item06BE" Value="Item 1726"/>
+		<handlers:Item Key="item06BE" Value="Gold"/>
 		<handlers:Item Key="item06BF" Value="Stone"/>
 		<handlers:Item Key="item06C0" Value="Home Sweet Home"/>
 		<handlers:Item Key="item06C1" Value="Traditional Room"/>
 		<handlers:Item Key="item06C2" Value="Elegant Refinement"/>
 		<handlers:Item Key="item06C3" Value="Sweet Tooth"/>
-		<handlers:Item Key="item06C4" Value="Item 1732"/>
+		<handlers:Item Key="item06C4" Value="Pure Decadence"/>
 		<handlers:Item Key="item06C5" Value="The Minimalist"/>
 		<handlers:Item Key="item06C6" Value="Wooden Floor"/>
 		<handlers:Item Key="item06C7" Value="Chic Wooden Floor"/>
@@ -2419,35 +2419,35 @@
 		<handlers:Item Key="item0957" Value="Spark of Blue - Zinogre: Sebastian Schwartz Remix"/>
 		<handlers:Item Key="item0958" Value="Brutish Indigo - Brachydios: The Sound Room Remix"/>
 		<handlers:Item Key="item0959" Value="To The Ones With Life: The Sound Room Remix"/>
-		<handlers:Item Key="item095A" Value="Item 2394"/>
-		<handlers:Item Key="item095B" Value="Item 2395"/>
-		<handlers:Item Key="item095C" Value="Item 2396"/>
-		<handlers:Item Key="item095D" Value="Item 2397"/>
-		<handlers:Item Key="item095E" Value="Item 2398"/>
-		<handlers:Item Key="item095F" Value="Item 2399"/>
-		<handlers:Item Key="item0960" Value="Item 2400"/>
-		<handlers:Item Key="item0961" Value="Item 2401"/>
-		<handlers:Item Key="item0962" Value="Item 2402"/>
-		<handlers:Item Key="item0963" Value="Item 2403"/>
-		<handlers:Item Key="item0964" Value="Item 2404"/>
-		<handlers:Item Key="item0965" Value="Item 2405"/>
-		<handlers:Item Key="item0966" Value="Item 2406"/>
-		<handlers:Item Key="item0967" Value="Item 2407"/>
-		<handlers:Item Key="item0968" Value="Item 2408"/>
+		<handlers:Item Key="item095A" Value="Barley Field Walkway"/>
+		<handlers:Item Key="item095B" Value="Hunter of the Violent Sands"/>
+		<handlers:Item Key="item095C" Value="Cazador Del Monstruo"/>
+		<handlers:Item Key="item095D" Value="Gather Up, Everyone! ~ Sunsnug Isle"/>
+		<handlers:Item Key="item095E" Value="Red Glare in the Darkness - Nargacuga: World Version"/>
+		<handlers:Item Key="item095F" Value="Spark of Blue - Zinogre: World Version"/>
+		<handlers:Item Key="item0960" Value="The Howling Lone Wolf - Yian Garuga: World Version"/>
+		<handlers:Item Key="item0961" Value="Morning Star of the Dark Tide - Namielle"/>
+		<handlers:Item Key="item0962" Value="World's End - Arch-Tempered Nergigante"/>
+		<handlers:Item Key="item0963" Value="Brutish Indigo Rages"/>
+		<handlers:Item Key="item0964" Value="The Emperor Emerges From Under the Veil"/>
+		<handlers:Item Key="item0965" Value="For the Emperor's Amusement"/>
+		<handlers:Item Key="item0966" Value="Proof of a Hero (MH Swing)"/>
+		<handlers:Item Key="item0967" Value="Ruler of the Flame - Teostra (MH Swing)"/>
+		<handlers:Item Key="item0968" Value="Splendid Bed"/>
 		<handlers:Item Key="item0969" Value="Towering Desserts"/>
 		<handlers:Item Key="item096A" Value="Melynx Doll"/>
-		<handlers:Item Key="item096B" Value="Item 2411"/>
-		<handlers:Item Key="item096C" Value="Item 2412"/>
+		<handlers:Item Key="item096B" Value="Splendid Silver Pot"/>
+		<handlers:Item Key="item096C" Value="Splendid Gold Pot"/>
 		<handlers:Item Key="item096D" Value="Plum Flower Pot"/>
 		<handlers:Item Key="item096E" Value="Decorative Tree"/>
-		<handlers:Item Key="item096F" Value="Item 2415"/>
-		<handlers:Item Key="item0970" Value="Item 2416"/>
+		<handlers:Item Key="item096F" Value="Flower Decoration (Small)"/>
+		<handlers:Item Key="item0970" Value="Flower Decoration (Large)"/>
 		<handlers:Item Key="item0971" Value="Item 2417"/>
 		<handlers:Item Key="item0972" Value="Item 2418"/>
-		<handlers:Item Key="item0973" Value="Item 2419"/>
-		<handlers:Item Key="item0974" Value="Item 2420"/>
-		<handlers:Item Key="item0975" Value="Item 2421"/>
-		<handlers:Item Key="item0976" Value="Item 2422"/>
+		<handlers:Item Key="item0973" Value="Model Fifth Fleet Ship"/>
+		<handlers:Item Key="item0974" Value="Model Modified Ship"/>
+		<handlers:Item Key="item0975" Value="Model Research Base"/>
+		<handlers:Item Key="item0976" Value="Model Base Camp"/>
 		<handlers:Item Key="item0977" Value="Graceful Tea Set"/>
 		<handlers:Item Key="item0978" Value="Item 2424"/>
 		<handlers:Item Key="item0979" Value="Item 2425"/>
@@ -2463,29 +2463,29 @@
 		<handlers:Item Key="item0983" Value="Item 2435"/>
 		<handlers:Item Key="item0984" Value="Item 2436"/>
 		<handlers:Item Key="item0985" Value="Palico Portraits 2"/>
-		<handlers:Item Key="item0986" Value="Item 2438"/>
+		<handlers:Item Key="item0986" Value="Palico Portraits 3"/>
 		<handlers:Item Key="item0987" Value="Item 2439"/>
 		<handlers:Item Key="item0988" Value="Break Time Sketch"/>
 		<handlers:Item Key="item0989" Value="Ancient Forest Flora Painting"/>
 		<handlers:Item Key="item098A" Value="Still Life Painting"/>
-		<handlers:Item Key="item098B" Value="Item 2443"/>
+		<handlers:Item Key="item098B" Value="Splendid Dresser"/>
 		<handlers:Item Key="item098C" Value="Familiar Lights (Yellow)"/>
-		<handlers:Item Key="item098D" Value="Item 2445"/>
+		<handlers:Item Key="item098D" Value="Familiar Lights (White)"/>
 		<handlers:Item Key="item098E" Value="Faint Lights"/>
 		<handlers:Item Key="item098F" Value="Luxury Lights (White)"/>
-		<handlers:Item Key="item0990" Value="Item 2448"/>
+		<handlers:Item Key="item0990" Value="Cute Lights (Blue)"/>
 		<handlers:Item Key="item0991" Value="Cute Lights (White)"/>
 		<handlers:Item Key="item0992" Value="Simple Lights (Yellow)"/>
 		<handlers:Item Key="item0993" Value="Simple Lights (White)"/>
-		<handlers:Item Key="item0994" Value="Item 2452"/>
-		<handlers:Item Key="item0995" Value="Item 2453"/>
+		<handlers:Item Key="item0994" Value="Splendid Lights"/>
+		<handlers:Item Key="item0995" Value="Chandeliers"/>
 		<handlers:Item Key="item0996" Value="Item 2454"/>
 		<handlers:Item Key="item0997" Value="Joyful Lanterns"/>
 		<handlers:Item Key="item0998" Value="Sky Lantern Lights"/>
-		<handlers:Item Key="item0999" Value="Item 2457"/>
-		<handlers:Item Key="item099A" Value="Item 2458"/>
-		<handlers:Item Key="item099B" Value="Item 2459"/>
-		<handlers:Item Key="item099C" Value="Item 2460"/>
+		<handlers:Item Key="item0999" Value="Splendid Wall Shelf (Large)"/>
+		<handlers:Item Key="item099A" Value="Splendid Wall Shelf (Small)"/>
+		<handlers:Item Key="item099B" Value="Hoarfrost Reach Painting 2"/>
+		<handlers:Item Key="item099C" Value="New World Maps"/>
 		<handlers:Item Key="item099D" Value="Item 2461"/>
 		<handlers:Item Key="item099E" Value="Item 2462"/>
 		<handlers:Item Key="item099F" Value="1st Fleet Banner"/>
@@ -2495,10 +2495,10 @@
 		<handlers:Item Key="item09A3" Value="5th Fleet Banner"/>
 		<handlers:Item Key="item09A4" Value="Wildlife Painting"/>
 		<handlers:Item Key="item09A5" Value="Astera Painting"/>
-		<handlers:Item Key="item09A6" Value="Item 2470"/>
-		<handlers:Item Key="item09A7" Value="Item 2471"/>
-		<handlers:Item Key="item09A8" Value="Item 2472"/>
-		<handlers:Item Key="item09A9" Value="Item 2473"/>
+		<handlers:Item Key="item09A6" Value="Council Meeting Portrait"/>
+		<handlers:Item Key="item09A7" Value="Playtime Portrait"/>
+		<handlers:Item Key="item09A8" Value="Splendid Rugs (1F)"/>
+		<handlers:Item Key="item09A9" Value="Splendid Rugs (2F)"/>
 		<handlers:Item Key="item09AA" Value="Paper Lantern"/>
 		<handlers:Item Key="item09AB" Value="Item 2475"/>
 		<handlers:Item Key="item09AC" Value="Round Paper Lanterns"/>
@@ -2506,8 +2506,8 @@
 		<handlers:Item Key="item09AE" Value="Research Set"/>
 		<handlers:Item Key="item09AF" Value="Kitchen Set"/>
 		<handlers:Item Key="item09B0" Value="Rathalos Bust"/>
-		<handlers:Item Key="item09B1" Value="Item 2481"/>
-		<handlers:Item Key="item09B2" Value="Item 2482"/>
+		<handlers:Item Key="item09B1" Value="Treasure Chest"/>
+		<handlers:Item Key="item09B2" Value="Flower Decoration (XL)"/>
 		<handlers:Item Key="item09B3" Value="Giant Stuffed Felyne Doll"/>
 		<handlers:Item Key="item09B4" Value="Giant Stuffed Poogie Doll"/>
 		<handlers:Item Key="item09B5" Value="Giant Stuffed Grimalkyne Doll"/>
@@ -2525,7 +2525,7 @@
 		<handlers:Item Key="item09C1" Value="Elegant Floor (Blue)"/>
 		<handlers:Item Key="item09C2" Value="Elegant Floor (Green)"/>
 		<handlers:Item Key="item09C3" Value="Elegant Floor (White)"/>
-		<handlers:Item Key="item09C4" Value="Item 2500"/>
+		<handlers:Item Key="item09C4" Value="Elegant Floor (Gold)"/>
 		<handlers:Item Key="item09C5" Value="Cute Floor (Blue)"/>
 		<handlers:Item Key="item09C6" Value="Cute Floor (Green)"/>
 		<handlers:Item Key="item09C7" Value="Cute Floor (Gray)"/>
@@ -2544,20 +2544,20 @@
 		<handlers:Item Key="item09D4" Value="Ceramic Tile Wall (Blue)"/>
 		<handlers:Item Key="item09D5" Value="Ceramic Tile Wall (Gray)"/>
 		<handlers:Item Key="item09D6" Value="Ceramic Tile Wall (Pastel)"/>
-		<handlers:Item Key="item09D7" Value="Item 2519"/>
+		<handlers:Item Key="item09D7" Value="Luxury Patterned Wall (Gold)"/>
 		<handlers:Item Key="item09D8" Value="Luxury Patterned Wall (Blue)"/>
 		<handlers:Item Key="item09D9" Value="Luxury Patterned Wall (Red)"/>
 		<handlers:Item Key="item09DA" Value="Luxury Patterned Wall (Green)"/>
-		<handlers:Item Key="item09DB" Value="Item 2523"/>
+		<handlers:Item Key="item09DB" Value="Splendid Wall"/>
 		<handlers:Item Key="item09DC" Value="Wooden Wall (Black)"/>
 		<handlers:Item Key="item09DD" Value="Stucco Wall (Clay)"/>
 		<handlers:Item Key="item09DE" Value="Bamboo Wall (Green)"/>
 		<handlers:Item Key="item09DF" Value="Bamboo Wall (Brown)"/>
 		<handlers:Item Key="item09E0" Value="Marble Wall (Gray)"/>
-		<handlers:Item Key="item09E1" Value="Item 2529"/>
+		<handlers:Item Key="item09E1" Value="Splendid Sofa"/>
 		<handlers:Item Key="item09E2" Value="Joyful Platter"/>
 		<handlers:Item Key="item09E3" Value="Luxury Platter"/>
-		<handlers:Item Key="item09E4" Value="Item 2532"/>
+		<handlers:Item Key="item09E4" Value="Full Bloom Platter"/>
 		<handlers:Item Key="item09E5" Value="Item 2533"/>
 		<handlers:Item Key="item09E6" Value="Tobi-Kadachi Figure"/>
 		<handlers:Item Key="item09E7" Value="Barioth Figure"/>
@@ -2572,15 +2572,15 @@
 		<handlers:Item Key="item09F0" Value="Glavenus Figure"/>
 		<handlers:Item Key="item09F1" Value="Rathian Figure"/>
 		<handlers:Item Key="item09F2" Value="Kulu-Ya-Ku Figure"/>
-		<handlers:Item Key="item09F3" Value="Item 2547"/>
-		<handlers:Item Key="item09F4" Value="Item 2548"/>
-		<handlers:Item Key="item09F5" Value="Item 2549"/>
+		<handlers:Item Key="item09F3" Value="Zinogre Figure"/>
+		<handlers:Item Key="item09F4" Value="Yian Garuga Figure"/>
+		<handlers:Item Key="item09F5" Value="Great Girros Figure"/>
 		<handlers:Item Key="item09F6" Value="Item 2550"/>
 		<handlers:Item Key="item09F7" Value="Item 2551"/>
 		<handlers:Item Key="item09F8" Value="Item 2552"/>
-		<handlers:Item Key="item09F9" Value="Item 2553"/>
-		<handlers:Item Key="item09FA" Value="Item 2554"/>
-		<handlers:Item Key="item09FB" Value="Item 2555"/>
+		<handlers:Item Key="item09F9" Value="Namielle Figure"/>
+		<handlers:Item Key="item09FA" Value="Paolumu Figure"/>
+		<handlers:Item Key="item09FB" Value="Tzitzi-Ya-Ku Figure"/>
 		<handlers:Item Key="item09FC" Value="Item 2556"/>
 		<handlers:Item Key="item09FD" Value="Item 2557"/>
 		<handlers:Item Key="item09FE" Value="Item 2558"/>
@@ -2591,8 +2591,8 @@
 		<handlers:Item Key="item0A03" Value="Item 2563"/>
 		<handlers:Item Key="item0A04" Value="Item 2564"/>
 		<handlers:Item Key="item0A05" Value="Grand Appreciation Figure"/>
-		<handlers:Item Key="item0A06" Value="Item 2566"/>
-		<handlers:Item Key="item0A07" Value="Item 2567"/>
+		<handlers:Item Key="item0A06" Value="Marble Wall (White)"/>
+		<handlers:Item Key="item0A07" Value="Marble Floor (White)"/>
 		<handlers:Item Key="item0A08" Value="Green Herb"/>
 		<handlers:Item Key="item0A09" Value="Red Herb"/>
 		<handlers:Item Key="item0A0A" Value="Blue Herb"/>
@@ -2608,29 +2608,29 @@
 		<handlers:Item Key="item0A14" Value="Item 2580"/>
 		<handlers:Item Key="item0A15" Value="Joyful Snowman"/>
 		<handlers:Item Key="item0A16" Value="Appreciative Snowman"/>
-		<handlers:Item Key="item0A17" Value="Item 2583"/>
+		<handlers:Item Key="item0A17" Value="Blooming Snowman"/>
 		<handlers:Item Key="item0A18" Value="Item 2584"/>
 		<handlers:Item Key="item0A19" Value="Item 2585"/>
 		<handlers:Item Key="item0A1A" Value="Sky Lanterns"/>
-		<handlers:Item Key="item0A1B" Value="Item 2587"/>
-		<handlers:Item Key="item0A1C" Value="Item 2588"/>
+		<handlers:Item Key="item0A1B" Value="Splendid Flag"/>
+		<handlers:Item Key="item0A1C" Value="Hanging Assorted Flowers"/>
 		<handlers:Item Key="item0A1D" Value="Item 2589"/>
-		<handlers:Item Key="item0A1E" Value="Item 2590"/>
-		<handlers:Item Key="item0A1F" Value="Item 2591"/>
-		<handlers:Item Key="item0A20" Value="Item 2592"/>
+		<handlers:Item Key="item0A1E" Value="Relief"/>
+		<handlers:Item Key="item0A1F" Value="Admiral Painting"/>
+		<handlers:Item Key="item0A20" Value="Splendid Wall Hanging"/>
 		<handlers:Item Key="item0A21" Value="Item 2593"/>
 		<handlers:Item Key="item0A22" Value="Item 2594"/>
 		<handlers:Item Key="item0A23" Value="Masterpiece Sketches"/>
-		<handlers:Item Key="item0A24" Value="Item 2596"/>
-		<handlers:Item Key="item0A25" Value="Item 2597"/>
+		<handlers:Item Key="item0A24" Value="Showy Rugs (1F)"/>
+		<handlers:Item Key="item0A25" Value="Showy Rugs (2F)"/>
 		<handlers:Item Key="item0A26" Value="Item 2598"/>
 		<handlers:Item Key="item0A27" Value="Item 2599"/>
-		<handlers:Item Key="item0A28" Value="Item 2600"/>
-		<handlers:Item Key="item0A29" Value="Item 2601"/>
-		<handlers:Item Key="item0A2A" Value="Item 2602"/>
-		<handlers:Item Key="item0A2B" Value="Item 2603"/>
-		<handlers:Item Key="item0A2C" Value="Item 2604"/>
-		<handlers:Item Key="item0A2D" Value="Item 2605"/>
+		<handlers:Item Key="item0A28" Value="Jyuratodus Figure"/>
+		<handlers:Item Key="item0A29" Value="Barroth Figure"/>
+		<handlers:Item Key="item0A2A" Value="Diablos Figure"/>
+		<handlers:Item Key="item0A2B" Value="Safi'jiiva Figure"/>
+		<handlers:Item Key="item0A2C" Value="Xeno'jiiva Figure"/>
+		<handlers:Item Key="item0A2D" Value="Wulg Figures"/>
 		<handlers:Item Key="item0A2E" Value="Item 2606"/>
 		<handlers:Item Key="item0A2F" Value="Item 2607"/>
 		<handlers:Item Key="item0A30" Value="Item 2608"/>
@@ -2639,9 +2639,9 @@
 		<handlers:Item Key="item0A33" Value="Item 2611"/>
 		<handlers:Item Key="item0A34" Value="Item 2612"/>
 		<handlers:Item Key="item0A35" Value="Item 2613"/>
-		<handlers:Item Key="item0A36" Value="Item 2614"/>
-		<handlers:Item Key="item0A37" Value="Item 2615"/>
-		<handlers:Item Key="item0A38" Value="Item 2616"/>
+		<handlers:Item Key="item0A36" Value="The Bustling Heart of the Snowy Village (MH Swing)"/>
+		<handlers:Item Key="item0A37" Value="Scat Cat Fever (MH Swing)"/>
+		<handlers:Item Key="item0A38" Value="In Search of Hidden Springs (MH Swing)"/>
 		<handlers:Item Key="item0A39" Value="Item 2617"/>
 		<handlers:Item Key="item0A3A" Value="Item 2618"/>
 		<handlers:Item Key="item0A3B" Value="Item 2619"/>
@@ -2744,11 +2744,11 @@
 		<handlers:Item Key="item0A9C" Value="Wyverian Ticket"/>
 		<handlers:Item Key="item0A9D" Value="Fest Ticket"/>
 		<handlers:Item Key="item0A9E" Value="Meaty Canteen Ticket"/>
-		<handlers:Item Key="item0A9F" Value="Item 2719"/>
+		<handlers:Item Key="item0A9F" Value="Azure Era Seal"/>
 		<handlers:Item Key="item0AA0" Value="Item 2720"/>
-		<handlers:Item Key="item0AA1" Value="Item 2721"/>
-		<handlers:Item Key="item0AA2" Value="Item 2722"/>
-		<handlers:Item Key="item0AA3" Value="Item 2723"/>
+		<handlers:Item Key="item0AA1" Value="Full Bloom Ticket"/>
+		<handlers:Item Key="item0AA2" Value="Whetfish Ticket"/>
+		<handlers:Item Key="item0AA3" Value="Downy Crake Ticket II"/>
 		<handlers:Item Key="item0AA4" Value="Item 2724"/>
 		<handlers:Item Key="item0AA5" Value="Item 2725"/>
 		<handlers:Item Key="item0AA6" Value="Item 2726"/>
@@ -2762,10 +2762,10 @@
 		<handlers:Item Key="item0AAE" Value="Magnificent Pelt"/>
 		<handlers:Item Key="item0AAF" Value="VIP Joyful Ticket"/>
 		<handlers:Item Key="item0AB0" Value="VIP Gratitude Ticket"/>
-		<handlers:Item Key="item0AB1" Value="Item 2737"/>
+		<handlers:Item Key="item0AB1" Value="VIP Full Bloom Ticket"/>
 		<handlers:Item Key="item0AB2" Value="Item 2738"/>
 		<handlers:Item Key="item0AB3" Value="Item 2739"/>
-		<handlers:Item Key="item0AB4" Value="Item 2740"/>
+		<handlers:Item Key="item0AB4" Value="Banishing Ball"/>
 		<handlers:Item Key="item0AB5" Value="Item 2741"/>
 		<handlers:Item Key="item0AB6" Value="Dragonforce Chunk (Sword)"/>
 		<handlers:Item Key="item0AB7" Value="Dragonforce Chunk (Blade)"/>
