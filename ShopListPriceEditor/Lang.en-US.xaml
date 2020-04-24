@@ -1448,12 +1448,12 @@
 		<handlers:Item Key="item058C" Value="??? Rock"/>
 		<handlers:Item Key="item058D" Value="??? Hardclaw"/>
 		<handlers:Item Key="item058E" Value="Large ??? Gem"/>
-		<handlers:Item Key="item058F" Value="Item 1423"/>
-		<handlers:Item Key="item0590" Value="Item 1424"/>
-		<handlers:Item Key="item0591" Value="Item 1425"/>
-		<handlers:Item Key="item0592" Value="Item 1426"/>
-		<handlers:Item Key="item0593" Value="Item 1427"/>
-		<handlers:Item Key="item0594" Value="Item 1428"/>
+		<handlers:Item Key="item058F" Value="Kulve Taroth Golden Scale+"/>
+		<handlers:Item Key="item0590" Value="Kulve Taroth Golden Shell+"/>
+		<handlers:Item Key="item0591" Value="Kulve Taroth Golden Nugget+"/>
+		<handlers:Item Key="item0592" Value="Kulve Taroth Golden Spiralhorn+"/>
+		<handlers:Item Key="item0593" Value="Kulve Taroth Golden Tailshell+"/>
+		<handlers:Item Key="item0594" Value="Golden Dragonsphire"/>
 		<handlers:Item Key="item0595" Value="Item 1429"/>
 		<handlers:Item Key="item0596" Value="Item 1430"/>
 		<handlers:Item Key="item0597" Value="Celestial Wyverian Print"/>
@@ -2704,7 +2704,7 @@
 		<handlers:Item Key="item0A74" Value="Pearlspring Ticket"/>
 		<handlers:Item Key="item0A75" Value="Snowball"/>
 		<handlers:Item Key="item0A76" Value="Snowman"/>
-		<handlers:Item Key="item0A77" Value="Item 2679"/>
+		<handlers:Item Key="item0A77" Value="Namielle Ticket"/>
 		<handlers:Item Key="item0A78" Value="Item 2680"/>
 		<handlers:Item Key="item0A79" Value="Item 2681"/>
 		<handlers:Item Key="item0A7A" Value="Item 2682"/>
@@ -2745,7 +2745,7 @@
 		<handlers:Item Key="item0A9D" Value="Fest Ticket"/>
 		<handlers:Item Key="item0A9E" Value="Meaty Canteen Ticket"/>
 		<handlers:Item Key="item0A9F" Value="Azure Era Seal"/>
-		<handlers:Item Key="item0AA0" Value="Item 2720"/>
+		<handlers:Item Key="item0AA0" Value="Large Azure Era Gem"/>
 		<handlers:Item Key="item0AA1" Value="Full Bloom Ticket"/>
 		<handlers:Item Key="item0AA2" Value="Whetfish Ticket"/>
 		<handlers:Item Key="item0AA3" Value="Downy Crake Ticket II"/>

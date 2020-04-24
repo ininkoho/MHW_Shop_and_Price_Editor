@@ -337,11 +337,11 @@
 		<handlers:Item Key="item0135" Value="搔鸟的鳞"/>
 		<handlers:Item Key="item0136" Value="搔鸟的皮"/>
 		<handlers:Item Key="item0137" Value="搔鸟的饰羽"/>
-		<handlers:Item Key="item0138" Value="搔鸟的啄"/>
+		<handlers:Item Key="item0138" Value="搔鸟的喙"/>
 		<handlers:Item Key="item0139" Value="搔鸟的上鳞"/>
 		<handlers:Item Key="item013A" Value="搔鸟的上皮"/>
 		<handlers:Item Key="item013B" Value="搔鸟的大饰羽"/>
-		<handlers:Item Key="item013C" Value="搔鸟的大啄"/>
+		<handlers:Item Key="item013C" Value="搔鸟的大喙"/>
 		<handlers:Item Key="item013D" Value="毒妖鸟的鳞"/>
 		<handlers:Item Key="item013E" Value="毒妖鸟的甲壳"/>
 		<handlers:Item Key="item013F" Value="毒妖鸟的羽毛"/>
@@ -1318,7 +1318,7 @@
 		<handlers:Item Key="item050A" Value="黑狼鸟的厚鳞"/>
 		<handlers:Item Key="item050B" Value="黑狼鸟的重壳"/>
 		<handlers:Item Key="item050C" Value="黑狼鸟的地狱耳"/>
-		<handlers:Item Key="item050D" Value="帅气的啄"/>
+		<handlers:Item Key="item050D" Value="帅气的喙"/>
 		<handlers:Item Key="item050E" Value="黑狼鸟的刚翼"/>
 		<handlers:Item Key="item050F" Value="黑狼鸟的韧尾"/>
 		<handlers:Item Key="item0510" Value="黑狼鸟的银狼毛"/>
@@ -1448,12 +1448,12 @@
 		<handlers:Item Key="item058C" Value="？？？的岩石"/>
 		<handlers:Item Key="item058D" Value="？？？的刚爪"/>
 		<handlers:Item Key="item058E" Value="？？？的大宝玉"/>
-		<handlers:Item Key="item058F" Value="Item 1423"/>
-		<handlers:Item Key="item0590" Value="Item 1424"/>
-		<handlers:Item Key="item0591" Value="Item 1425"/>
-		<handlers:Item Key="item0592" Value="Item 1426"/>
-		<handlers:Item Key="item0593" Value="Item 1427"/>
-		<handlers:Item Key="item0594" Value="Item 1428"/>
+		<handlers:Item Key="item058F" Value="绚辉龙的重金鳞"/>
+		<handlers:Item Key="item0590" Value="绚辉龙的重金壳"/>
+		<handlers:Item Key="item0591" Value="绚辉龙的重金块"/>
+		<handlers:Item Key="item0592" Value="绚辉龙的重金卷角"/>
+		<handlers:Item Key="item0593" Value="绚辉龙的重金尾壳"/>
+		<handlers:Item Key="item0594" Value="金色的龙神玉"/>
 		<handlers:Item Key="item0595" Value="Item 1429"/>
 		<handlers:Item Key="item0596" Value="Item 1430"/>
 		<handlers:Item Key="item0597" Value="天之龙人票据"/>
@@ -1689,7 +1689,7 @@
 		<handlers:Item Key="item067D" Value="可爱的地毯（2楼）"/>
 		<handlers:Item Key="item067E" Value="毛皮的地毯（2楼）"/>
 		<handlers:Item Key="item067F" Value="提灯"/>
-		<handlers:Item Key="item0680" Value="古典桌灯"/>
+		<handlers:Item Key="item0680" Value="立灯②"/>
 		<handlers:Item Key="item0681" Value="油灯"/>
 		<handlers:Item Key="item0682" Value="蜡烛"/>
 		<handlers:Item Key="item0683" Value="烛台"/>
@@ -2704,7 +2704,7 @@
 		<handlers:Item Key="item0A74" Value="银猴票券"/>
 		<handlers:Item Key="item0A75" Value="雪球"/>
 		<handlers:Item Key="item0A76" Value="雪人"/>
-		<handlers:Item Key="item0A77" Value="Item 2679"/>
+		<handlers:Item Key="item0A77" Value="溟波龙票"/>
 		<handlers:Item Key="item0A78" Value="Item 2680"/>
 		<handlers:Item Key="item0A79" Value="Item 2681"/>
 		<handlers:Item Key="item0A7A" Value="Item 2682"/>
@@ -2745,7 +2745,7 @@
 		<handlers:Item Key="item0A9D" Value="祭典票"/>
 		<handlers:Item Key="item0A9E" Value="用餐地区票【肉】"/>
 		<handlers:Item Key="item0A9F" Value="苍世之证"/>
-		<handlers:Item Key="item0AA0" Value="Item 2720"/>
+		<handlers:Item Key="item0AA0" Value="苍世的大宝玉"/>
 		<handlers:Item Key="item0AA1" Value="盛放票"/>
 		<handlers:Item Key="item0AA2" Value="磨刀鲹鱼票"/>
 		<handlers:Item Key="item0AA3" Value="松软票2"/>
@@ -2765,7 +2765,7 @@
 		<handlers:Item Key="item0AB1" Value="特别盛放票"/>
 		<handlers:Item Key="item0AB2" Value="Item 2738"/>
 		<handlers:Item Key="item0AB3" Value="Item 2739"/>
-		<handlers:Item Key="item0AB4" Value="投射器撤退弹"/>
+		<handlers:Item Key="item0AB4" Value="撤退弹"/>
 		<handlers:Item Key="item0AB5" Value="Item 2741"/>
 		<handlers:Item Key="item0AB6" Value="蕴藏龙力的凝块·大剑"/>
 		<handlers:Item Key="item0AB7" Value="蕴藏龙力的凝块·太刀"/>

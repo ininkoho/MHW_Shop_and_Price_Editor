@@ -1446,12 +1446,12 @@
 		<handlers:Item Key="item058C" Value="？？？の岩石"/>
 		<handlers:Item Key="item058D" Value="？？？の剛爪"/>
 		<handlers:Item Key="item058E" Value="？？？の大宝玉"/>
-		<handlers:Item Key="item058F" Value="Item 1423"/>
-		<handlers:Item Key="item0590" Value="Item 1424"/>
-		<handlers:Item Key="item0591" Value="Item 1425"/>
-		<handlers:Item Key="item0592" Value="Item 1426"/>
-		<handlers:Item Key="item0593" Value="Item 1427"/>
-		<handlers:Item Key="item0594" Value="Item 1428"/>
+		<handlers:Item Key="item058F" Value="爛輝龍の重金鱗"/>
+		<handlers:Item Key="item0590" Value="爛輝龍の重金殻"/>
+		<handlers:Item Key="item0591" Value="爛輝龍の重金塊"/>
+		<handlers:Item Key="item0592" Value="爛輝龍の重金巻角"/>
+		<handlers:Item Key="item0593" Value="爛輝龍の重金尾殻"/>
+		<handlers:Item Key="item0594" Value="金色の龍神玉"/>
 		<handlers:Item Key="item0595" Value="Item 1429"/>
 		<handlers:Item Key="item0596" Value="Item 1430"/>
 		<handlers:Item Key="item0597" Value="天の竜人手形"/>
@@ -1687,7 +1687,7 @@
 		<handlers:Item Key="item067D" Value="可憐な絨毯（2階）"/>
 		<handlers:Item Key="item067E" Value="毛皮の絨毯（2階）"/>
 		<handlers:Item Key="item067F" Value="ランタン"/>
-		<handlers:Item Key="item0680" Value="行燈"/>
+		<handlers:Item Key="item0680" Value="行燈②"/>
 		<handlers:Item Key="item0681" Value="ランプ"/>
 		<handlers:Item Key="item0682" Value="ろうそく"/>
 		<handlers:Item Key="item0683" Value="燭台"/>
@@ -2702,7 +2702,7 @@
 		<handlers:Item Key="item0A74" Value="ギンセンチケット"/>
 		<handlers:Item Key="item0A75" Value="雪玉"/>
 		<handlers:Item Key="item0A76" Value="雪だるま"/>
-		<handlers:Item Key="item0A77" Value="Item 2679"/>
+		<handlers:Item Key="item0A77" Value="溟龍チケット"/>
 		<handlers:Item Key="item0A78" Value="Item 2680"/>
 		<handlers:Item Key="item0A79" Value="Item 2681"/>
 		<handlers:Item Key="item0A7A" Value="Item 2682"/>
@@ -2743,7 +2743,7 @@
 		<handlers:Item Key="item0A9D" Value="祭典チケット"/>
 		<handlers:Item Key="item0A9E" Value="食事場チケット【肉】"/>
 		<handlers:Item Key="item0A9F" Value="蒼世の証"/>
-		<handlers:Item Key="item0AA0" Value="Item 2720"/>
+		<handlers:Item Key="item0AA0" Value="蒼世の大宝玉"/>
 		<handlers:Item Key="item0AA1" Value="満開チケット"/>
 		<handlers:Item Key="item0AA2" Value="キレアジチケット"/>
 		<handlers:Item Key="item0AA3" Value="フワフワチケットⅡ"/>

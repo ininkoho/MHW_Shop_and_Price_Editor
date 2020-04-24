@@ -337,11 +337,11 @@
 		<handlers:Item Key="item0135" Value="搔鳥的鱗"/>
 		<handlers:Item Key="item0136" Value="搔鳥的皮"/>
 		<handlers:Item Key="item0137" Value="搔鳥的飾羽"/>
-		<handlers:Item Key="item0138" Value="搔鳥的啄"/>
+		<handlers:Item Key="item0138" Value="搔鳥的喙"/>
 		<handlers:Item Key="item0139" Value="搔鳥的上鱗"/>
 		<handlers:Item Key="item013A" Value="搔鳥的上皮"/>
 		<handlers:Item Key="item013B" Value="搔鳥的大飾羽"/>
-		<handlers:Item Key="item013C" Value="搔鳥的大啄"/>
+		<handlers:Item Key="item013C" Value="搔鳥的大喙"/>
 		<handlers:Item Key="item013D" Value="毒妖鳥的鱗"/>
 		<handlers:Item Key="item013E" Value="毒妖鳥的甲殼"/>
 		<handlers:Item Key="item013F" Value="毒妖鳥的羽毛"/>
@@ -701,7 +701,7 @@
 		<handlers:Item Key="item02A1" Value="桃源鄉"/>
 		<handlers:Item Key="item02A2" Value="預兆蜻蜓"/>
 		<handlers:Item Key="item02A3" Value="吉兆蜻蜓"/>
-		<handlers:Item Key="item02A4" Value="鱗片打擊手"/>
+		<handlers:Item Key="item02A4" Value="鱗片蝙蝠"/>
 		<handlers:Item Key="item02A5" Value="糞金龜"/>
 		<handlers:Item Key="item02A6" Value="爆彈甲蟲"/>
 		<handlers:Item Key="item02A7" Value="粉色異形魚"/>
@@ -970,7 +970,7 @@
 		<handlers:Item Key="item03AE" Value="噴射煙火【豐收】"/>
 		<handlers:Item Key="item03AF" Value="煙火【閃耀】"/>
 		<handlers:Item Key="item03B0" Value="煙火【感謝】"/>
-		<handlers:Item Key="item03B1" Value="金色的鱗片打擊手"/>
+		<handlers:Item Key="item03B1" Value="金色的鱗片蝙蝠"/>
 		<handlers:Item Key="item03B2" Value="金箔鱟"/>
 		<handlers:Item Key="item03B3" Value="純金鱟"/>
 		<handlers:Item Key="item03B4" Value="銅饅頭蟹"/>
@@ -1318,7 +1318,7 @@
 		<handlers:Item Key="item050A" Value="黑狼鳥的厚鱗"/>
 		<handlers:Item Key="item050B" Value="黑狼鳥的重殼"/>
 		<handlers:Item Key="item050C" Value="黑狼鳥的地獄耳"/>
-		<handlers:Item Key="item050D" Value="帥氣的啄"/>
+		<handlers:Item Key="item050D" Value="帥氣的喙"/>
 		<handlers:Item Key="item050E" Value="黑狼鳥的剛翼"/>
 		<handlers:Item Key="item050F" Value="黑狼鳥的韌尾"/>
 		<handlers:Item Key="item0510" Value="黑狼鳥的銀狼毛"/>
@@ -1448,12 +1448,12 @@
 		<handlers:Item Key="item058C" Value="？？？的岩石"/>
 		<handlers:Item Key="item058D" Value="？？？的剛爪"/>
 		<handlers:Item Key="item058E" Value="？？？的大寶玉"/>
-		<handlers:Item Key="item058F" Value="Item 1423"/>
-		<handlers:Item Key="item0590" Value="Item 1424"/>
-		<handlers:Item Key="item0591" Value="Item 1425"/>
-		<handlers:Item Key="item0592" Value="Item 1426"/>
-		<handlers:Item Key="item0593" Value="Item 1427"/>
-		<handlers:Item Key="item0594" Value="Item 1428"/>
+		<handlers:Item Key="item058F" Value="絢輝龍的重金鱗"/>
+		<handlers:Item Key="item0590" Value="絢輝龍的重金殼"/>
+		<handlers:Item Key="item0591" Value="絢輝龍的重金塊"/>
+		<handlers:Item Key="item0592" Value="絢輝龍的重金卷角"/>
+		<handlers:Item Key="item0593" Value="絢輝龍的重金尾殼"/>
+		<handlers:Item Key="item0594" Value="金色的龍神玉"/>
 		<handlers:Item Key="item0595" Value="Item 1429"/>
 		<handlers:Item Key="item0596" Value="Item 1430"/>
 		<handlers:Item Key="item0597" Value="天之龍人票據"/>
@@ -1689,7 +1689,7 @@
 		<handlers:Item Key="item067D" Value="可愛的地毯（2樓）"/>
 		<handlers:Item Key="item067E" Value="毛皮的地毯（2樓）"/>
 		<handlers:Item Key="item067F" Value="提燈"/>
-		<handlers:Item Key="item0680" Value="古典桌燈"/>
+		<handlers:Item Key="item0680" Value="立燈②"/>
 		<handlers:Item Key="item0681" Value="油燈"/>
 		<handlers:Item Key="item0682" Value="蠟燭"/>
 		<handlers:Item Key="item0683" Value="燭台"/>
@@ -2704,7 +2704,7 @@
 		<handlers:Item Key="item0A74" Value="銀猴票券"/>
 		<handlers:Item Key="item0A75" Value="雪球"/>
 		<handlers:Item Key="item0A76" Value="雪人"/>
-		<handlers:Item Key="item0A77" Value="Item 2679"/>
+		<handlers:Item Key="item0A77" Value="溟波龍票"/>
 		<handlers:Item Key="item0A78" Value="Item 2680"/>
 		<handlers:Item Key="item0A79" Value="Item 2681"/>
 		<handlers:Item Key="item0A7A" Value="Item 2682"/>
@@ -2745,7 +2745,7 @@
 		<handlers:Item Key="item0A9D" Value="祭典票"/>
 		<handlers:Item Key="item0A9E" Value="用餐地區票【肉】"/>
 		<handlers:Item Key="item0A9F" Value="蒼世之証"/>
-		<handlers:Item Key="item0AA0" Value="Item 2720"/>
+		<handlers:Item Key="item0AA0" Value="蒼世的大寶玉"/>
 		<handlers:Item Key="item0AA1" Value="盛放票"/>
 		<handlers:Item Key="item0AA2" Value="堅硬竹筴魚票"/>
 		<handlers:Item Key="item0AA3" Value="鬆軟票Ⅱ"/>
@@ -2765,7 +2765,7 @@
 		<handlers:Item Key="item0AB1" Value="盛放票ＳＰ"/>
 		<handlers:Item Key="item0AB2" Value="Item 2738"/>
 		<handlers:Item Key="item0AB3" Value="Item 2739"/>
-		<handlers:Item Key="item0AB4" Value="投射器撤退彈"/>
+		<handlers:Item Key="item0AB4" Value="撤退彈"/>
 		<handlers:Item Key="item0AB5" Value="Item 2741"/>
 		<handlers:Item Key="item0AB6" Value="蘊藏龍力的凝塊‧大劍"/>
 		<handlers:Item Key="item0AB7" Value="蘊藏龍力的凝塊‧太刀"/>
